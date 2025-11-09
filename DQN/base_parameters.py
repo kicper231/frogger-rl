@@ -1,0 +1,10 @@
+class Config:
+    NUM_EPISODES = 100
+    EPSILON = 0.9
+    DISCOUNT = 0.99
+    LEARNING_RATE = 0.0002
+    BATCH_SIZE = 64
+    ACTION_NUM = 5
+    COPY_RATE = 200
+    EPSILON_END = 0.05 
+    EPSILON_DECAY = 0.995
