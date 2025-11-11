@@ -1,39 +1,17 @@
 import gymnasium as gym
-from stable_baselines3 import PPO
-import ale_py
+import ale_py  # <-- required to register ALE envs
+from stable_baselines3 import DQN
+from stable_baselines3.common.atari_wrappers import AtariWrapper
+from gymnasium.wrappers import FrameStackObservation
 
-gym.register_envs(ale_py)
+env = gym.make("ALE/Frogger-v5", render_mode=None)  # stickiness in v5
+# SB3’s AtariWrapper already does: grayscale, resize(84x84), frame-skip=4, clip rewards etc.
+env = AtariWrapper(env)
+# ensure 4-frame stack (AtariWrapper does frame-stack, but if you prefer Gymnasium’s:)
+# env = FrameStackObservation(env, stack_size=4)
 
-# train_env = gym.make("ALE/Frogger-v5")
-# model = PPO("CnnPolicy", train_env, verbose=1)
-# model.learn(total_timesteps=400_000)
-# model.save("ppo_frogger_model")
-# train_env.close()
-# model.save("models/ppo_frogger_model_4")
-model = PPO.load("models/ppo_frogger_model_2.zip")
-
-test_env = gym.make("ALE/Frogger-v5", render_mode="human")
-obs, info = test_env.reset()
-done = False
-
-
-while not done:
-    action = test_env.action_space.sample()
-    # action, _ = model.predict(obs)
-    # print(action)
-    obs, reward, terminated, truncated, info = test_env.step(action)
-    done = terminated or truncated
-    print(reward)
-    # test_env.render()
-
-obs, info = test_env.reset()
-done = False
-
-while not done:
-    # action = test_env.action_space.sample()
-    action, _ = model.predict(obs)
-    # print(action)
-    obs, reward, terminated, truncated, info = test_env.step(action)
-    done = terminated or truncated
-    # test_env.render()
-
+model = DQN(
+    "CnnPolicy",
+    env,
+)
+model.learn(total_timesteps=1_000_000)
