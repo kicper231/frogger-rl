@@ -6,7 +6,7 @@ from gymnasium.wrappers import AtariPreprocessing, FrameStackObservation
 from model_DQN import DuelingDQN  
 
 ACTION_NUM = 5
-WEIGHTS_PATH = "dqn_10_10_8.weights.h5"  
+WEIGHTS_PATH = "model2.weights.h5"
 EPISODES = 5
 FRAME_SKIP = 8  
 

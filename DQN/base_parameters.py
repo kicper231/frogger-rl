@@ -1,15 +1,15 @@
 class Config:
     # powinno być większe
-    NUM_EPISODES = 3000
-    DISCOUNT = 0.99
-    LEARNING_RATE = 0.00005
-    BATCH_SIZE = 64
+    NUM_EPISODES = 5000
+    DISCOUNT = 0.995
+    LEARNING_RATE = 0.001
+    BATCH_SIZE = 128
     ACTION_NUM = 5
-    COPY_RATE = 1500
+    COPY_RATE = 2000
     EPSILON = 1.0
     EPSILON_END = 0.05
     EPSILON_DECAY = 0.9988
-    BUFFERSIZE = 150000
+    BUFFERSIZE = 250000
     EXPLORATIONTIME = 10000
     TRAIN_EVERY = 4
-    MODEL_NAME = "test"
+    MODEL_NAME = "dqn-zwykly"

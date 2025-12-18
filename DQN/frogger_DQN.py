@@ -59,8 +59,8 @@ env = FrameStackObservation(env, stack_size=4)
 
 tf.keras.backend.clear_session()
 
-main_nn = DuelingDQN(5)
-target_nn = DuelingDQN(5)
+main_nn = DQN(5)
+target_nn = DQN(5)
 zeros = tf.zeros((1, 84, 84, 4), dtype=tf.float32)
 main_nn(zeros)
 target_nn(zeros)
@@ -73,7 +73,6 @@ epsilon = Config.EPSILON
 avg_window = deque(maxlen=100)
 avg_real = deque(maxlen=100)
 best = 0
-save_que = []
 
 def select_greedy(state, epsilon=Config.EPSILON):
     if  tf.random.uniform(()) < epsilon:
@@ -114,9 +113,9 @@ for episode in range(Config.NUM_EPISODES + 1):
         action
         obs, reward, terminated, truncated, info = env.step(action)
         done = terminated or truncated
-        # reward = np.sign(reward)
-
         ep_real_reward += reward
+        reward = np.sign(reward)
+
         # if ep_iter < 70:
         #     ep_iter += 1
         #     continue
@@ -165,7 +164,7 @@ for episode in range(Config.NUM_EPISODES + 1):
         f.write(f"{iter}, {episode}, {ep_real_reward}, {reward}, {loss}, {epsilon} \n")
 
     if ep_real_reward > best:
-        main_nn.save_weights(f"model_{Config.MODEL_NAME}.h5")
+        main_nn.save_weights(f"model_{Config.MODEL_NAME}.weights.h5")
         best = ep_real_reward
         print(f"[BEST] New best {best:.2f} with mod: {ep_reward}-> checkpoint saved.")
 
