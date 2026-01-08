@@ -4,3 +4,4 @@ stable_baselines3==2.7.0
 tensorflow==2.20.0
 Path
 numpy>=1.23,<3.0
+opencv-python>=4.8
