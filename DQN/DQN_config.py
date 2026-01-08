@@ -1,0 +1,20 @@
+class Config:
+    NUM_EPISODES = 5000
+    DISCOUNT = 0.995
+    LEARNING_RATE = 0.0005
+    BATCH_SIZE = 64
+    ACTION_NUM = 5
+    COPY_RATE = 1500
+    EPSILON = 1.0
+    EPSILON_END = 0.05
+    EPSILON_DECAY = 0.998
+    BUFFERSIZE = 150000
+    EXPLORATIONTIME = 10000
+    TRAIN_EVERY = 4
+    # tak będa nazywały się pliki wynikowe
+    MODEL_NAME = "dqn-test-nazwa"
+    DUELING = True
+    MOVE_IN_PLACE_PENALTY = 0.5
+    BACKWARDS_PENALTY = 1
+    DEATHPENALTY = 10
+    REWARD_NORMALISATION = True

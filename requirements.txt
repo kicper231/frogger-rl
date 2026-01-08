@@ -2,3 +2,5 @@ ale_py==0.11.2
 gymnasium==1.2.1
 stable_baselines3==2.7.0
 tensorflow==2.20.0
+Path
+numpy>=1.23,<3.0
