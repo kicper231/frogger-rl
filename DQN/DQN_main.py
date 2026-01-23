@@ -151,6 +151,7 @@ def run_training():
             # warmup
             if ep_iter < 30:
                 obs, reward, terminated, truncated, info = env.step(0)
+                state = obs
                 ep_iter += 1
                 continue
 
