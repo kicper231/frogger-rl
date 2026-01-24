@@ -11,6 +11,7 @@ class Config:
     BUFFERSIZE = 150000
     EXPLORATIONTIME = 10000
     TRAIN_EVERY = 4
+    N_STEP = 3  # n-step learning (1 = standard DQN)
     # tak będa nazywały się pliki wynikowe
     MODEL_NAME = "dqn-po_zmianach"
     DUELING = True

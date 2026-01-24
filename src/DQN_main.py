@@ -6,6 +6,7 @@ from collections import deque
 from src.DQN_nets import DQN, DuelingDQN
 from DQN_config import Config
 from DQN_bufor import ReplayBuffer
+from DQN_bufor import NStepReplayBuffer
 import gymnasium as gym
 import ale_py
 from gymnasium.wrappers import AtariPreprocessing
@@ -57,10 +58,16 @@ def train_step(
     max_next_qs = tf.reduce_sum(next_action_masks * next_q_target, axis=1)
 
     # bellman equation
-    # TODO (n-step dqn)
     target = (
         rewards + (1.0 - tf.cast(dones, tf.float32)) * Config.DISCOUNT * max_next_qs
     )
+    if Config.N_STEP != 1:
+        # n-step bellman equation
+        # target = R_n + gamma^n * Q(s_{t+n}, argmax_a Q(s_{t+n}, a))
+        gamma_n = Config.DISCOUNT ** Config.N_STEP
+        target = (
+            rewards + (1.0 - tf.cast(dones, tf.float32)) * gamma_n * max_next_qs
+        )
 
     with tf.GradientTape() as tape:
         qs = main_nn(states, training=True)
@@ -127,6 +134,8 @@ def run_training():
     loss_fn = tf.keras.losses.Huber(delta=1.0)
     iteration = 1
     buffer = ReplayBuffer(Config.BUFFERSIZE)
+    if Config.N_STEP != 1:
+        buffer = NStepReplayBuffer(Config.BUFFERSIZE, n_step=Config.N_STEP, gamma=Config.DISCOUNT)
     epsilon = Config.EPSILON
 
     avg_window = deque(maxlen=100)
