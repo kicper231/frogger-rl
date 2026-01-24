@@ -17,7 +17,7 @@ RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
 def make_env():
     gym.register_envs(ale_py)
-
+    # Atari Frogger with grayscale + frame skipping for temporal abstraction
     env = gym.make("ALE/Frogger-v5", obs_type="grayscale", frameskip=1)
     env = AtariPreprocessing(env, screen_size=84, grayscale_obs=True, frame_skip=8)
     env = FrameStackObservation(env, stack_size=4)
@@ -27,6 +27,7 @@ def make_env():
 def build_models(action_num: int):
     tf.keras.backend.clear_session()
 
+    # Switch between classic DQN and Dueling DQN architecture
     if (Config.DUELING):
         main_nn = DuelingDQN(action_num)
         target_nn = DuelingDQN(action_num)

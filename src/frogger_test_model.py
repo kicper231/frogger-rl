@@ -3,7 +3,7 @@ import ale_py
 import tensorflow as tf
 import numpy as np
 from gymnasium.wrappers import AtariPreprocessing, FrameStackObservation
-from src.frogger_dqn_nets import DuelingDQN  
+from src.DQN_nets import DuelingDQN  
 
 ACTION_NUM = 5
 WEIGHTS_PATH = "models_results/model2.weights.h5"
