@@ -1,0 +1,2044 @@
+[BEST] New best 8.00 with mod: 3.2300000000000013-> checkpoint saved.
+Ep 0 | avg100=3.23 , 8.00 | last_loss=0.0000 | eps=1.0
+Last episode 0 rewards: 3.2300000000000013 last episode loss: 0 , iter: 119, best 8.0 best
+[BEST] New best 13.00 with mod: 8.00000000000001-> checkpoint saved.
+Ep 5 | avg100=2.98 , 7.83 | last_loss=0.0000 | eps=1.0
+Last episode 5 rewards: 1.8899999999999995 last episode loss: 0 , iter: 846, best 13.0 best
+Ep 10 | avg100=3.28 , 8.18 | last_loss=0.0000 | eps=1.0
+Last episode 10 rewards: 5.8400000000000105 last episode loss: 0 , iter: 1690, best 13.0 best
+Ep 15 | avg100=3.49 , 8.38 | last_loss=0.0000 | eps=1.0
+Last episode 15 rewards: 7.130000000000006 last episode loss: 0 , iter: 2405, best 13.0 best
+Ep 20 | avg100=3.42 , 8.29 | last_loss=0.0000 | eps=1.0
+Last episode 20 rewards: 4.250000000000005 last episode loss: 0 , iter: 3070, best 13.0 best
+[BEST] New best 14.00 with mod: 8.930000000000012-> checkpoint saved.
+Ep 25 | avg100=3.65 , 8.54 | last_loss=0.0000 | eps=1.0
+Last episode 25 rewards: 3.2400000000000007 last episode loss: 0 , iter: 3837, best 14.0 best
+Ep 30 | avg100=3.65 , 8.55 | last_loss=0.0000 | eps=1.0
+Last episode 30 rewards: 4.420000000000002 last episode loss: 0 , iter: 4606, best 14.0 best
+Ep 35 | avg100=3.57 , 8.47 | last_loss=0.0000 | eps=1.0
+Last episode 35 rewards: 3.540000000000003 last episode loss: 0 , iter: 5356, best 14.0 best
+Ep 40 | avg100=3.48 , 8.37 | last_loss=0.0000 | eps=1.0
+Last episode 40 rewards: 3.4700000000000015 last episode loss: 0 , iter: 6006, best 14.0 best
+Ep 45 | avg100=3.47 , 8.37 | last_loss=0.0000 | eps=1.0
+Last episode 45 rewards: 1.8700000000000039 last episode loss: 0 , iter: 6847, best 14.0 best
+Ep 50 | avg100=3.45 , 8.35 | last_loss=0.0000 | eps=1.0
+Last episode 50 rewards: 3.3100000000000014 last episode loss: 0 , iter: 7546, best 14.0 best
+Ep 55 | avg100=3.52 , 8.43 | last_loss=0.0000 | eps=1.0
+Last episode 55 rewards: 5.830000000000004 last episode loss: 0 , iter: 8263, best 14.0 best
+Ep 60 | avg100=3.47 , 8.38 | last_loss=0.0000 | eps=1.0
+Last episode 60 rewards: 4.350000000000001 last episode loss: 0 , iter: 8930, best 14.0 best
+Ep 65 | avg100=3.50 , 8.39 | last_loss=0.0000 | eps=1.0
+Last episode 65 rewards: 0.7299999999999993 last episode loss: 0 , iter: 9648, best 14.0 best
+Ep 70 | avg100=3.49 , 8.38 | last_loss=0.0136 | eps=0.9976019194879999
+Last episode 70 rewards: 2.3099999999999996 last episode loss: 0.01362987793982029 , iter: 10312, best 14.0 best
+Ep 75 | avg100=3.53 , 8.42 | last_loss=0.0251 | eps=0.9936178913566535
+Last episode 75 rewards: 2.119999999999999 last episode loss: 0.02506551891565323 , iter: 11072, best 14.0 best
+Ep 80 | avg100=3.59 , 8.47 | last_loss=0.0154 | eps=0.9896497738604424
+Last episode 80 rewards: 3.8600000000000008 last episode loss: 0.015430213883519173 , iter: 11717, best 14.0 best
+Ep 85 | avg100=3.62 , 8.49 | last_loss=0.0151 | eps=0.9856975034585729
+Last episode 85 rewards: 4.23 last episode loss: 0.015118859708309174 , iter: 12334, best 14.0 best
+Ep 90 | avg100=3.67 , 8.55 | last_loss=0.0405 | eps=0.9817610168640077
+Last episode 90 rewards: 7.990000000000018 last episode loss: 0.04047844931483269 , iter: 13074, best 14.0 best
+Ep 95 | avg100=3.65 , 8.52 | last_loss=0.0594 | eps=0.9778402510424534
+Last episode 95 rewards: 5.210000000000004 last episode loss: 0.05940371751785278 , iter: 13755, best 14.0 best
+Ep 100 | avg100=3.64 , 8.51 | last_loss=0.0151 | eps=0.9739351432113504
+Last episode 100 rewards: 4.800000000000009 last episode loss: 0.015077534131705761 , iter: 14481, best 14.0 best
+Ep 105 | avg100=3.63 , 8.50 | last_loss=0.0331 | eps=0.9700456308388679
+Last episode 105 rewards: 6.250000000000004 last episode loss: 0.03308018669486046 , iter: 15078, best 14.0 best
+[BEST] New best 15.00 with mod: 10.230000000000011-> checkpoint saved.
+Ep 110 | avg100=3.72 , 8.58 | last_loss=0.0289 | eps=0.9661716516429024
+Last episode 110 rewards: 3.78 last episode loss: 0.02892303466796875 , iter: 15837, best 15.0 best
+Ep 115 | avg100=3.67 , 8.53 | last_loss=0.0229 | eps=0.9623131435900808
+Last episode 115 rewards: 3.0500000000000003 last episode loss: 0.022884704172611237 , iter: 16527, best 15.0 best
+Ep 120 | avg100=3.71 , 8.57 | last_loss=0.0169 | eps=0.9584700448947664
+Last episode 120 rewards: 5.450000000000001 last episode loss: 0.016861867159605026 , iter: 17166, best 15.0 best
+Ep 125 | avg100=3.63 , 8.49 | last_loss=0.0241 | eps=0.9546422940180707
+Last episode 125 rewards: 2.740000000000003 last episode loss: 0.024105098098516464 , iter: 17962, best 15.0 best
+Ep 130 | avg100=3.66 , 8.52 | last_loss=0.0343 | eps=0.9508298296668662
+Last episode 130 rewards: 4.770000000000003 last episode loss: 0.03429220989346504 , iter: 18744, best 15.0 best
+Ep 135 | avg100=3.69 , 8.54 | last_loss=0.0310 | eps=0.9470325907928068
+Last episode 135 rewards: 3.9600000000000013 last episode loss: 0.03095402754843235 , iter: 19411, best 15.0 best
+Ep 140 | avg100=3.75 , 8.60 | last_loss=0.0340 | eps=0.9432505165913488
+Last episode 140 rewards: 4.34 last episode loss: 0.034023217856884 , iter: 20037, best 15.0 best
+Ep 145 | avg100=3.74 , 8.58 | last_loss=0.0347 | eps=0.9394835465007783
+Last episode 145 rewards: 3.0300000000000007 last episode loss: 0.03473985940217972 , iter: 20841, best 15.0 best
+Ep 150 | avg100=3.77 , 8.61 | last_loss=0.0205 | eps=0.9357316202012407
+Last episode 150 rewards: 4.290000000000001 last episode loss: 0.020480841398239136 , iter: 21531, best 15.0 best
+Ep 155 | avg100=3.75 , 8.58 | last_loss=0.0086 | eps=0.931994677613775
+Last episode 155 rewards: 5.170000000000002 last episode loss: 0.008624402806162834 , iter: 22260, best 15.0 best
+Ep 160 | avg100=3.88 , 8.70 | last_loss=0.0053 | eps=0.9282726588993523
+Last episode 160 rewards: 5.280000000000003 last episode loss: 0.005293774884194136 , iter: 22900, best 15.0 best
+Ep 165 | avg100=3.92 , 8.73 | last_loss=0.0229 | eps=0.9245655044579165
+Last episode 165 rewards: 6.350000000000001 last episode loss: 0.022934667766094208 , iter: 23549, best 15.0 best
+Ep 170 | avg100=4.00 , 8.81 | last_loss=0.0352 | eps=0.920873154927431
+Last episode 170 rewards: 5.260000000000002 last episode loss: 0.03521592170000076 , iter: 24168, best 15.0 best
+Ep 175 | avg100=4.05 , 8.85 | last_loss=0.0124 | eps=0.917195551182928
+Last episode 175 rewards: 2.5700000000000003 last episode loss: 0.012356455437839031 , iter: 24918, best 15.0 best
+Ep 180 | avg100=4.00 , 8.80 | last_loss=0.0180 | eps=0.9135326343355606
+Last episode 180 rewards: 5.140000000000005 last episode loss: 0.017992835491895676 , iter: 25586, best 15.0 best
+Ep 185 | avg100=3.96 , 8.76 | last_loss=0.0494 | eps=0.9098843457316615
+Last episode 185 rewards: 3.3600000000000008 last episode loss: 0.0494183748960495 , iter: 26236, best 15.0 best
+Ep 190 | avg100=3.91 , 8.70 | last_loss=0.0434 | eps=0.9062506269518028
+Last episode 190 rewards: 2.8600000000000025 last episode loss: 0.04342813044786453 , iter: 26835, best 15.0 best
+Ep 195 | avg100=3.95 , 8.73 | last_loss=0.0125 | eps=0.9026314198098605
+Last episode 195 rewards: 5.010000000000005 last episode loss: 0.012453644536435604 , iter: 27459, best 15.0 best
+[BEST] New best 16.00 with mod: 11.230000000000011-> checkpoint saved.
+Ep 200 | avg100=4.05 , 8.83 | last_loss=0.0310 | eps=0.8990266663520832
+Last episode 200 rewards: 11.230000000000011 last episode loss: 0.031008118763566017 , iter: 28126, best 16.0 best
+Ep 205 | avg100=4.10 , 8.88 | last_loss=0.0325 | eps=0.8954363088561638
+Last episode 205 rewards: 5.020000000000004 last episode loss: 0.03246484324336052 , iter: 28869, best 16.0 best
+Ep 210 | avg100=4.04 , 8.81 | last_loss=0.0199 | eps=0.8918602898303154
+Last episode 210 rewards: 0.1999999999999996 last episode loss: 0.019870124757289886 , iter: 29518, best 16.0 best
+Ep 215 | avg100=4.24 , 9.01 | last_loss=0.0159 | eps=0.8882985520123506
+Last episode 215 rewards: 4.400000000000001 last episode loss: 0.01591505855321884 , iter: 30297, best 16.0 best
+Ep 220 | avg100=4.22 , 8.99 | last_loss=0.0210 | eps=0.8847510383687643
+Last episode 220 rewards: 6.2300000000000075 last episode loss: 0.021006736904382706 , iter: 30940, best 16.0 best
+Ep 225 | avg100=4.27 , 9.02 | last_loss=0.0307 | eps=0.8812176920938211
+Last episode 225 rewards: 2.39 last episode loss: 0.03073773719370365 , iter: 31550, best 16.0 best
+Ep 230 | avg100=4.28 , 9.02 | last_loss=0.0139 | eps=0.8776984566086448
+Last episode 230 rewards: 3.34 last episode loss: 0.013904795050621033 , iter: 32173, best 16.0 best
+[BEST] New best 19.00 with mod: 14.140000000000011-> checkpoint saved.
+Ep 235 | avg100=4.37 , 9.10 | last_loss=0.0255 | eps=0.8741932755603136
+Last episode 235 rewards: 6.210000000000003 last episode loss: 0.025536760687828064 , iter: 32899, best 19.0 best
+Ep 240 | avg100=4.41 , 9.14 | last_loss=0.0125 | eps=0.8707020928209565
+Last episode 240 rewards: 8.380000000000004 last episode loss: 0.012465478852391243 , iter: 33547, best 19.0 best
+Ep 245 | avg100=4.49 , 9.21 | last_loss=0.0299 | eps=0.8672248524868548
+Last episode 245 rewards: 3.3100000000000014 last episode loss: 0.029941672459244728 , iter: 34221, best 19.0 best
+Ep 250 | avg100=4.59 , 9.31 | last_loss=0.0341 | eps=0.8637614988775478
+Last episode 250 rewards: 4.290000000000002 last episode loss: 0.03410995006561279 , iter: 34920, best 19.0 best
+Ep 255 | avg100=4.60 , 9.31 | last_loss=0.0376 | eps=0.8603119765349402
+Last episode 255 rewards: 2.2699999999999996 last episode loss: 0.03764577582478523 , iter: 35574, best 19.0 best
+Ep 260 | avg100=4.55 , 9.27 | last_loss=0.0358 | eps=0.8568762302224145
+Last episode 260 rewards: 4.380000000000001 last episode loss: 0.03584478795528412 , iter: 36220, best 19.0 best
+Ep 265 | avg100=4.62 , 9.34 | last_loss=0.0462 | eps=0.8534542049239464
+Last episode 265 rewards: 6.410000000000003 last episode loss: 0.04623183235526085 , iter: 36872, best 19.0 best
+Ep 270 | avg100=4.65 , 9.37 | last_loss=0.0273 | eps=0.8500458458432242
+Last episode 270 rewards: 4.900000000000006 last episode loss: 0.027299653738737106 , iter: 37494, best 19.0 best
+Ep 275 | avg100=4.63 , 9.34 | last_loss=0.0238 | eps=0.8466510984027704
+Last episode 275 rewards: 4.290000000000003 last episode loss: 0.023757096379995346 , iter: 38146, best 19.0 best
+Ep 280 | avg100=4.77 , 9.48 | last_loss=0.0473 | eps=0.8432699082430691
+Last episode 280 rewards: 11.370000000000008 last episode loss: 0.04728541523218155 , iter: 38834, best 19.0 best
+Ep 285 | avg100=4.78 , 9.48 | last_loss=0.0522 | eps=0.8399022212216944
+Last episode 285 rewards: 4.010000000000003 last episode loss: 0.05223441123962402 , iter: 39472, best 19.0 best
+Ep 290 | avg100=4.88 , 9.59 | last_loss=0.0272 | eps=0.8365479834124439
+Last episode 290 rewards: 6.280000000000003 last episode loss: 0.027207497507333755 , iter: 40170, best 19.0 best
+Ep 295 | avg100=4.95 , 9.66 | last_loss=0.0159 | eps=0.8332071411044751
+Last episode 295 rewards: 2.41 last episode loss: 0.015873854979872704 , iter: 40815, best 19.0 best
+Ep 300 | avg100=4.88 , 9.58 | last_loss=0.0320 | eps=0.8298796408014458
+Last episode 300 rewards: 5.3100000000000005 last episode loss: 0.03203113377094269 , iter: 41377, best 19.0 best
+Ep 305 | avg100=4.97 , 9.66 | last_loss=0.0227 | eps=0.8265654292206566
+Last episode 305 rewards: 5.470000000000003 last episode loss: 0.022747639566659927 , iter: 41947, best 19.0 best
+Ep 310 | avg100=5.13 , 9.82 | last_loss=0.0150 | eps=0.8232644532921984
+Last episode 310 rewards: 4.81 last episode loss: 0.015048010274767876 , iter: 42745, best 19.0 best
+Ep 315 | avg100=5.00 , 9.68 | last_loss=0.0360 | eps=0.8199766601581024
+Last episode 315 rewards: 2.38 last episode loss: 0.03601435571908951 , iter: 43318, best 19.0 best
+Ep 320 | avg100=5.02 , 9.70 | last_loss=0.0350 | eps=0.8167019971714935
+Last episode 320 rewards: 5.380000000000004 last episode loss: 0.03502487763762474 , iter: 43923, best 19.0 best
+Ep 325 | avg100=5.05 , 9.72 | last_loss=0.0135 | eps=0.8134404118957475
+Last episode 325 rewards: 3.6000000000000005 last episode loss: 0.013514881022274494 , iter: 44472, best 19.0 best
+Ep 330 | avg100=5.09 , 9.76 | last_loss=0.0231 | eps=0.8101918521036513
+Last episode 330 rewards: 5.120000000000003 last episode loss: 0.023129316046833992 , iter: 45128, best 19.0 best
+Ep 335 | avg100=5.09 , 9.75 | last_loss=0.0462 | eps=0.8069562657765669
+Last episode 335 rewards: 4.080000000000004 last episode loss: 0.046239789575338364 , iter: 45766, best 19.0 best
+Ep 340 | avg100=5.10 , 9.76 | last_loss=0.0646 | eps=0.8037336011035978
+Last episode 340 rewards: 2.2499999999999996 last episode loss: 0.06458014249801636 , iter: 46365, best 19.0 best
+Ep 345 | avg100=5.18 , 9.84 | last_loss=0.0180 | eps=0.8005238064807602
+Last episode 345 rewards: 9.370000000000006 last episode loss: 0.017958972603082657 , iter: 47044, best 19.0 best
+Ep 350 | avg100=5.30 , 9.96 | last_loss=0.0447 | eps=0.7973268305101558
+Last episode 350 rewards: 12.02000000000001 last episode loss: 0.044658347964286804 , iter: 47850, best 19.0 best
+Ep 355 | avg100=5.40 , 10.06 | last_loss=0.0143 | eps=0.7941426219991496
+Last episode 355 rewards: 1.96 last episode loss: 0.01425957027822733 , iter: 48531, best 19.0 best
+Ep 360 | avg100=5.39 , 10.04 | last_loss=0.0252 | eps=0.7909711299595498
+Last episode 360 rewards: 6.4700000000000015 last episode loss: 0.025243565440177917 , iter: 49086, best 19.0 best
+Ep 365 | avg100=5.33 , 9.98 | last_loss=0.0399 | eps=0.7878123036067907
+Last episode 365 rewards: 4.320000000000002 last episode loss: 0.03987237811088562 , iter: 49729, best 19.0 best
+Ep 370 | avg100=5.28 , 9.93 | last_loss=0.0242 | eps=0.7846660923591208
+Last episode 370 rewards: 4.410000000000002 last episode loss: 0.02420232445001602 , iter: 50369, best 19.0 best
+Ep 375 | avg100=5.39 , 10.04 | last_loss=0.0230 | eps=0.7815324458367917
+Last episode 375 rewards: 5.470000000000002 last episode loss: 0.023000355809926987 , iter: 51032, best 19.0 best
+Ep 380 | avg100=5.39 , 10.03 | last_loss=0.0246 | eps=0.778411313861252
+Last episode 380 rewards: 4.460000000000003 last episode loss: 0.024579089134931564 , iter: 51646, best 19.0 best
+Ep 385 | avg100=5.54 , 10.19 | last_loss=0.0256 | eps=0.7753026464543435
+Last episode 385 rewards: 4.480000000000004 last episode loss: 0.025622371584177017 , iter: 52323, best 19.0 best
+[BEST] New best 20.00 with mod: 15.340000000000007-> checkpoint saved.
+Ep 390 | avg100=5.68 , 10.32 | last_loss=0.0289 | eps=0.7722063938375012
+Last episode 390 rewards: 8.420000000000009 last episode loss: 0.028911268338561058 , iter: 52977, best 20.0 best
+Ep 395 | avg100=5.79 , 10.42 | last_loss=0.0283 | eps=0.7691225064309561
+Last episode 395 rewards: 5.480000000000001 last episode loss: 0.02827126532793045 , iter: 53659, best 20.0 best
+Ep 400 | avg100=5.84 , 10.48 | last_loss=0.0267 | eps=0.766050934852941
+Last episode 400 rewards: 5.330000000000005 last episode loss: 0.026725109666585922 , iter: 54343, best 20.0 best
+Ep 405 | avg100=5.95 , 10.59 | last_loss=0.0579 | eps=0.7629916299189
+Last episode 405 rewards: 4.630000000000001 last episode loss: 0.0578731931746006 , iter: 55058, best 20.0 best
+Ep 410 | avg100=5.90 , 10.53 | last_loss=0.0577 | eps=0.759944542640701
+Last episode 410 rewards: 4.530000000000005 last episode loss: 0.0577317550778389 , iter: 55751, best 20.0 best
+Ep 415 | avg100=6.02 , 10.66 | last_loss=0.0293 | eps=0.7569096242258511
+Last episode 415 rewards: 6.110000000000008 last episode loss: 0.029318232089281082 , iter: 56402, best 20.0 best
+Ep 420 | avg100=6.07 , 10.71 | last_loss=0.0378 | eps=0.7538868260767152
+Last episode 420 rewards: 10.180000000000014 last episode loss: 0.03783109039068222 , iter: 57060, best 20.0 best
+Ep 425 | avg100=6.08 , 10.73 | last_loss=0.0457 | eps=0.7508760997897383
+Last episode 425 rewards: 2.38 last episode loss: 0.04571659117937088 , iter: 57656, best 20.0 best
+Ep 430 | avg100=6.09 , 10.74 | last_loss=0.0344 | eps=0.7478773971546698
+Last episode 430 rewards: 5.380000000000003 last episode loss: 0.03440847620368004 , iter: 58298, best 20.0 best
+Ep 435 | avg100=6.05 , 10.69 | last_loss=0.0141 | eps=0.744890670153792
+Last episode 435 rewards: 4.440000000000001 last episode loss: 0.014051207341253757 , iter: 58876, best 20.0 best
+Ep 440 | avg100=6.12 , 10.76 | last_loss=0.0237 | eps=0.7419158709611509
+Last episode 440 rewards: 6.260000000000003 last episode loss: 0.023744411766529083 , iter: 59551, best 20.0 best
+Ep 445 | avg100=6.02 , 10.66 | last_loss=0.0346 | eps=0.7389529519417902
+Last episode 445 rewards: 4.41 last episode loss: 0.03464394062757492 , iter: 60130, best 20.0 best
+Ep 450 | avg100=6.02 , 10.65 | last_loss=0.1103 | eps=0.7360018656509895
+Last episode 450 rewards: 7.270000000000003 last episode loss: 0.11027303338050842 , iter: 60794, best 20.0 best
+Ep 455 | avg100=6.00 , 10.63 | last_loss=0.0297 | eps=0.7330625648335031
+Last episode 455 rewards: 4.480000000000002 last episode loss: 0.029650207608938217 , iter: 61468, best 20.0 best
+[BEST] New best 24.00 with mod: 19.270000000000007-> checkpoint saved.
+Ep 460 | avg100=6.27 , 10.91 | last_loss=0.0476 | eps=0.7301350024228045
+Last episode 460 rewards: 8.300000000000004 last episode loss: 0.04759766906499863 , iter: 62183, best 24.0 best
+Ep 465 | avg100=6.39 , 11.02 | last_loss=0.0266 | eps=0.7272191315403325
+Last episode 465 rewards: 9.510000000000003 last episode loss: 0.026583340018987656 , iter: 62797, best 24.0 best
+Ep 470 | avg100=6.48 , 11.11 | last_loss=0.1106 | eps=0.7243149054947401
+Last episode 470 rewards: 10.370000000000005 last episode loss: 0.11057133972644806 , iter: 63442, best 24.0 best
+Ep 475 | avg100=6.57 , 11.20 | last_loss=0.0141 | eps=0.721422277781147
+Last episode 475 rewards: 5.210000000000011 last episode loss: 0.014100765809416771 , iter: 64185, best 24.0 best
+Ep 480 | avg100=6.63 , 11.26 | last_loss=0.0668 | eps=0.7185412020803954
+Last episode 480 rewards: 13.320000000000013 last episode loss: 0.06676590442657471 , iter: 64864, best 24.0 best
+Ep 485 | avg100=6.58 , 11.21 | last_loss=0.0253 | eps=0.7156716322583074
+Last episode 485 rewards: 2.48 last episode loss: 0.025310058146715164 , iter: 65514, best 24.0 best
+Ep 490 | avg100=6.49 , 11.12 | last_loss=0.0773 | eps=0.7128135223649473
+Last episode 490 rewards: 3.400000000000001 last episode loss: 0.07725445926189423 , iter: 66140, best 24.0 best
+Ep 495 | avg100=6.42 , 11.04 | last_loss=0.0474 | eps=0.709966826633885
+Last episode 495 rewards: 3.4500000000000006 last episode loss: 0.047404445707798004 , iter: 66752, best 24.0 best
+Ep 500 | avg100=6.52 , 11.14 | last_loss=0.0637 | eps=0.7071314994814636
+Last episode 500 rewards: 5.340000000000002 last episode loss: 0.06371097266674042 , iter: 67402, best 24.0 best
+Ep 505 | avg100=6.41 , 11.03 | last_loss=0.0549 | eps=0.7043074955060691
+Last episode 505 rewards: 4.4300000000000015 last episode loss: 0.0549454465508461 , iter: 68010, best 24.0 best
+Ep 510 | avg100=6.56 , 11.17 | last_loss=0.0325 | eps=0.7014947694874036
+Last episode 510 rewards: 5.510000000000005 last episode loss: 0.03254563361406326 , iter: 68651, best 24.0 best
+Ep 515 | avg100=6.62 , 11.23 | last_loss=0.0778 | eps=0.6986932763857618
+Last episode 515 rewards: 13.26000000000001 last episode loss: 0.07782083004713058 , iter: 69305, best 24.0 best
+Ep 520 | avg100=6.66 , 11.26 | last_loss=0.0216 | eps=0.6959029713413086
+Last episode 520 rewards: 4.720000000000001 last episode loss: 0.021562471985816956 , iter: 69925, best 24.0 best
+Ep 525 | avg100=6.78 , 11.39 | last_loss=0.0380 | eps=0.6931238096733617
+Last episode 525 rewards: 12.090000000000012 last episode loss: 0.03800801932811737 , iter: 70679, best 24.0 best
+Ep 530 | avg100=6.95 , 11.56 | last_loss=0.0536 | eps=0.6903557468796754
+Last episode 530 rewards: 15.100000000000012 last episode loss: 0.05357608199119568 , iter: 71377, best 24.0 best
+Ep 535 | avg100=7.24 , 11.86 | last_loss=0.0413 | eps=0.6875987386357287
+Last episode 535 rewards: 11.28000000000001 last episode loss: 0.041341304779052734 , iter: 72074, best 24.0 best
+Ep 540 | avg100=7.38 , 12.00 | last_loss=0.0386 | eps=0.6848527407940154
+Last episode 540 rewards: 7.180000000000005 last episode loss: 0.03860503435134888 , iter: 72782, best 24.0 best
+Ep 545 | avg100=7.50 , 12.12 | last_loss=0.0535 | eps=0.6821177093833367
+Last episode 545 rewards: 8.610000000000005 last episode loss: 0.05345972627401352 , iter: 73451, best 24.0 best
+Ep 550 | avg100=7.44 , 12.07 | last_loss=0.0525 | eps=0.6793936006080974
+Last episode 550 rewards: 5.250000000000004 last episode loss: 0.05253160372376442 , iter: 74197, best 24.0 best
+Ep 555 | avg100=7.57 , 12.19 | last_loss=0.0411 | eps=0.6766803708476048
+Last episode 555 rewards: 11.490000000000007 last episode loss: 0.04106251150369644 , iter: 74847, best 24.0 best
+Ep 560 | avg100=7.45 , 12.07 | last_loss=0.0913 | eps=0.6739779766553697
+Last episode 560 rewards: 6.460000000000003 last episode loss: 0.09131291508674622 , iter: 75511, best 24.0 best
+Ep 565 | avg100=7.49 , 12.12 | last_loss=0.0857 | eps=0.6712863747584117
+Last episode 565 rewards: 6.660000000000002 last episode loss: 0.08569922298192978 , iter: 76203, best 24.0 best
+Ep 570 | avg100=7.52 , 12.14 | last_loss=0.0504 | eps=0.6686055220565648
+Last episode 570 rewards: 11.30000000000001 last episode loss: 0.050364717841148376 , iter: 76872, best 24.0 best
+Ep 575 | avg100=7.47 , 12.08 | last_loss=0.0634 | eps=0.6659353756217884
+Last episode 575 rewards: 7.510000000000003 last episode loss: 0.06339713931083679 , iter: 77481, best 24.0 best
+Ep 580 | avg100=7.51 , 12.13 | last_loss=0.0996 | eps=0.6632758926974797
+Last episode 580 rewards: 6.460000000000001 last episode loss: 0.09958770871162415 , iter: 78172, best 24.0 best
+Ep 585 | avg100=7.61 , 12.23 | last_loss=0.0389 | eps=0.6606270306977886
+Last episode 585 rewards: 7.410000000000002 last episode loss: 0.038919731974601746 , iter: 78872, best 24.0 best
+Ep 590 | avg100=7.85 , 12.48 | last_loss=0.0361 | eps=0.6579887472069362
+Last episode 590 rewards: 6.430000000000003 last episode loss: 0.03607212007045746 , iter: 79690, best 24.0 best
+Ep 595 | avg100=8.04 , 12.68 | last_loss=0.1189 | eps=0.6553609999785356
+Last episode 595 rewards: 12.130000000000011 last episode loss: 0.11885364353656769 , iter: 80444, best 24.0 best
+Ep 600 | avg100=8.17 , 12.81 | last_loss=0.0263 | eps=0.6527437469349148
+Last episode 600 rewards: 6.0900000000000105 last episode loss: 0.026292262598872185 , iter: 81172, best 24.0 best
+Ep 605 | avg100=8.46 , 13.11 | last_loss=0.0915 | eps=0.6501369461664441
+Last episode 605 rewards: 17.249999999999996 last episode loss: 0.09150160849094391 , iter: 81879, best 24.0 best
+Ep 610 | avg100=8.50 , 13.15 | last_loss=0.0468 | eps=0.6475405559308639
+Last episode 610 rewards: 12.540000000000004 last episode loss: 0.046823419630527496 , iter: 82573, best 24.0 best
+Ep 615 | avg100=8.48 , 13.13 | last_loss=0.0764 | eps=0.6449545346526165
+Last episode 615 rewards: 10.500000000000002 last episode loss: 0.07644601911306381 , iter: 83204, best 24.0 best
+Ep 620 | avg100=8.55 , 13.19 | last_loss=0.0606 | eps=0.6423788409221811
+Last episode 620 rewards: 6.470000000000002 last episode loss: 0.06056167930364609 , iter: 83747, best 24.0 best
+Ep 625 | avg100=8.46 , 13.09 | last_loss=0.0307 | eps=0.6398134334954099
+Last episode 625 rewards: 5.610000000000001 last episode loss: 0.030741017311811447 , iter: 84283, best 24.0 best
+Ep 630 | avg100=8.47 , 13.10 | last_loss=0.0741 | eps=0.6372582712928678
+Last episode 630 rewards: 13.26000000000001 last episode loss: 0.07409926503896713 , iter: 85015, best 24.0 best
+Ep 635 | avg100=8.35 , 12.98 | last_loss=0.0414 | eps=0.6347133133991751
+Last episode 635 rewards: 9.25000000000001 last episode loss: 0.04144633933901787 , iter: 85661, best 24.0 best
+[BEST] New best 26.00 with mod: 21.330000000000005-> checkpoint saved.
+Ep 640 | avg100=8.43 , 13.05 | last_loss=0.0303 | eps=0.6321785190623518
+Last episode 640 rewards: 21.330000000000005 last episode loss: 0.030275773257017136 , iter: 86378, best 26.0 best
+Ep 645 | avg100=8.60 , 13.24 | last_loss=0.0344 | eps=0.6296538476931647
+Last episode 645 rewards: 14.180000000000012 last episode loss: 0.03440645709633827 , iter: 87238, best 26.0 best
+Ep 650 | avg100=8.69 , 13.32 | last_loss=0.0533 | eps=0.6271392588644789
+Last episode 650 rewards: 6.440000000000005 last episode loss: 0.053319841623306274 , iter: 87966, best 26.0 best
+[BEST] New best 27.00 with mod: 21.989999999999995-> checkpoint saved.
+Ep 655 | avg100=8.85 , 13.49 | last_loss=0.0433 | eps=0.6246347123106087
+Last episode 655 rewards: 21.989999999999995 last episode loss: 0.04330965131521225 , iter: 88765, best 27.0 best
+Ep 660 | avg100=8.75 , 13.39 | last_loss=0.0794 | eps=0.6221401679266743
+Last episode 660 rewards: 3.4500000000000006 last episode loss: 0.07942523062229156 , iter: 89431, best 27.0 best
+Ep 665 | avg100=8.78 , 13.42 | last_loss=0.0708 | eps=0.6196555857679584
+Last episode 665 rewards: 8.370000000000005 last episode loss: 0.07076472043991089 , iter: 90180, best 27.0 best
+Ep 670 | avg100=8.88 , 13.52 | last_loss=0.0518 | eps=0.6171809260492677
+Last episode 670 rewards: 4.48 last episode loss: 0.05182018131017685 , iter: 90802, best 27.0 best
+Ep 675 | avg100=8.98 , 13.62 | last_loss=0.0258 | eps=0.6147161491442947
+Last episode 675 rewards: 9.480000000000008 last episode loss: 0.02584165707230568 , iter: 91485, best 27.0 best
+Ep 680 | avg100=8.95 , 13.59 | last_loss=0.0277 | eps=0.612261215584984
+Last episode 680 rewards: 9.470000000000004 last episode loss: 0.02771613374352455 , iter: 92112, best 27.0 best
+Ep 685 | avg100=8.95 , 13.58 | last_loss=0.0346 | eps=0.6098160860609
+Last episode 685 rewards: 7.5900000000000025 last episode loss: 0.0346042737364769 , iter: 92757, best 27.0 best
+Ep 690 | avg100=8.71 , 13.34 | last_loss=0.0526 | eps=0.6073807214185974
+Last episode 690 rewards: 8.500000000000005 last episode loss: 0.05258525162935257 , iter: 93468, best 27.0 best
+Ep 695 | avg100=8.54 , 13.16 | last_loss=0.0512 | eps=0.6049550826609944
+Last episode 695 rewards: 6.460000000000004 last episode loss: 0.051244501024484634 , iter: 94132, best 27.0 best
+Ep 700 | avg100=8.69 , 13.31 | last_loss=0.1224 | eps=0.602539130946748
+Last episode 700 rewards: 11.230000000000008 last episode loss: 0.12240336835384369 , iter: 95007, best 27.0 best
+Ep 705 | avg100=8.57 , 13.20 | last_loss=0.1255 | eps=0.6001328275896324
+Last episode 705 rewards: 10.170000000000005 last episode loss: 0.12551893293857574 , iter: 95821, best 27.0 best
+Ep 710 | avg100=8.56 , 13.20 | last_loss=0.0559 | eps=0.5977361340579191
+Last episode 710 rewards: 13.130000000000011 last episode loss: 0.05588095635175705 , iter: 96505, best 27.0 best
+Ep 715 | avg100=8.77 , 13.41 | last_loss=0.0238 | eps=0.5953490119737602
+Last episode 715 rewards: 4.600000000000003 last episode loss: 0.023786969482898712 , iter: 97250, best 27.0 best
+Ep 720 | avg100=8.92 , 13.57 | last_loss=0.1276 | eps=0.5929714231125738
+Last episode 720 rewards: 8.520000000000003 last episode loss: 0.12760582566261292 , iter: 98007, best 27.0 best
+Ep 725 | avg100=9.17 , 13.83 | last_loss=0.0308 | eps=0.5906033294024319
+Last episode 725 rewards: 5.170000000000001 last episode loss: 0.030846914276480675 , iter: 98784, best 27.0 best
+Ep 730 | avg100=9.06 , 13.71 | last_loss=0.1074 | eps=0.5882446929234506
+Last episode 730 rewards: 4.430000000000003 last episode loss: 0.1073647290468216 , iter: 99451, best 27.0 best
+Ep 735 | avg100=9.15 , 13.80 | last_loss=0.1022 | eps=0.5858954759071833
+Last episode 735 rewards: 8.670000000000002 last episode loss: 0.10216067731380463 , iter: 100119, best 27.0 best
+Ep 740 | avg100=9.00 , 13.65 | last_loss=0.0489 | eps=0.5835556407360151
+Last episode 740 rewards: 9.250000000000005 last episode loss: 0.04889749735593796 , iter: 100716, best 27.0 best
+Ep 745 | avg100=9.03 , 13.67 | last_loss=0.0738 | eps=0.5812251499425617
+Last episode 745 rewards: 8.420000000000003 last episode loss: 0.07377099245786667 , iter: 101438, best 27.0 best
+Ep 750 | avg100=9.07 , 13.71 | last_loss=0.1547 | eps=0.5789039662090683
+Last episode 750 rewards: 3.4100000000000006 last episode loss: 0.1546594500541687 , iter: 102150, best 27.0 best
+Ep 755 | avg100=8.96 , 13.60 | last_loss=0.0805 | eps=0.5765920523668128
+Last episode 755 rewards: 6.320000000000005 last episode loss: 0.0805145651102066 , iter: 102874, best 27.0 best
+Ep 760 | avg100=9.16 , 13.80 | last_loss=0.1094 | eps=0.5742893713955101
+Last episode 760 rewards: 5.420000000000001 last episode loss: 0.10935349762439728 , iter: 103552, best 27.0 best
+Ep 765 | avg100=9.43 , 14.07 | last_loss=0.0759 | eps=0.5719958864227193
+Last episode 765 rewards: 13.390000000000008 last episode loss: 0.0759258046746254 , iter: 104461, best 27.0 best
+Ep 770 | avg100=9.53 , 14.18 | last_loss=0.0664 | eps=0.5697115607232539
+Last episode 770 rewards: 6.450000000000003 last episode loss: 0.06637503951787949 , iter: 105220, best 27.0 best
+Ep 775 | avg100=9.58 , 14.24 | last_loss=0.0685 | eps=0.5674363577185929
+Last episode 775 rewards: 14.240000000000007 last episode loss: 0.06853795051574707 , iter: 105941, best 27.0 best
+Ep 780 | avg100=9.79 , 14.45 | last_loss=0.0624 | eps=0.5651702409762956
+Last episode 780 rewards: 9.170000000000009 last episode loss: 0.062376707792282104 , iter: 106718, best 27.0 best
+Ep 785 | avg100=9.87 , 14.54 | last_loss=0.0601 | eps=0.5629131742094182
+Last episode 785 rewards: 5.510000000000003 last episode loss: 0.060143254697322845 , iter: 107447, best 27.0 best
+Ep 790 | avg100=10.03 , 14.70 | last_loss=0.0878 | eps=0.5606651212759326
+Last episode 790 rewards: 10.470000000000006 last episode loss: 0.08783167600631714 , iter: 108130, best 27.0 best
+Ep 795 | avg100=10.24 , 14.91 | last_loss=0.0823 | eps=0.5584260461781476
+Last episode 795 rewards: 9.270000000000007 last episode loss: 0.0822710171341896 , iter: 108830, best 27.0 best
+Ep 800 | avg100=10.02 , 14.68 | last_loss=0.0339 | eps=0.5561959130621327
+Last episode 800 rewards: 13.31000000000001 last episode loss: 0.03390275686979294 , iter: 109509, best 27.0 best
+Ep 805 | avg100=10.08 , 14.74 | last_loss=0.0476 | eps=0.5539746862171435
+Last episode 805 rewards: 9.390000000000008 last episode loss: 0.04760686680674553 , iter: 110211, best 27.0 best
+Ep 810 | avg100=10.14 , 14.79 | last_loss=0.0543 | eps=0.5517623300750507
+Last episode 810 rewards: 8.600000000000003 last episode loss: 0.054264165461063385 , iter: 110921, best 27.0 best
+Ep 815 | avg100=9.88 , 14.53 | last_loss=0.1450 | eps=0.5495588092097696
+Last episode 815 rewards: 8.550000000000006 last episode loss: 0.14502909779548645 , iter: 111563, best 27.0 best
+Ep 820 | avg100=9.81 , 14.46 | last_loss=0.0510 | eps=0.5473640883366936
+Last episode 820 rewards: 3.620000000000001 last episode loss: 0.0510057769715786 , iter: 112266, best 27.0 best
+Ep 825 | avg100=9.92 , 14.57 | last_loss=0.0353 | eps=0.5451781323121287
+Last episode 825 rewards: 7.490000000000002 last episode loss: 0.03528148680925369 , iter: 113138, best 27.0 best
+Ep 830 | avg100=10.07 , 14.73 | last_loss=0.0691 | eps=0.5430009061327313
+Last episode 830 rewards: 15.350000000000009 last episode loss: 0.06906461715698242 , iter: 113962, best 27.0 best
+Ep 835 | avg100=10.22 , 14.88 | last_loss=0.1108 | eps=0.5408323749349468
+Last episode 835 rewards: 10.330000000000007 last episode loss: 0.1107657328248024 , iter: 114743, best 27.0 best
+Ep 840 | avg100=10.48 , 15.15 | last_loss=0.1596 | eps=0.5386725039944523
+Last episode 840 rewards: 15.910000000000018 last episode loss: 0.15959224104881287 , iter: 115610, best 27.0 best
+Ep 845 | avg100=10.52 , 15.19 | last_loss=0.0440 | eps=0.5365212587255997
+Last episode 845 rewards: 12.340000000000009 last episode loss: 0.04402757063508034 , iter: 116343, best 27.0 best
+Ep 850 | avg100=10.65 , 15.32 | last_loss=0.1034 | eps=0.5343786046808628
+Last episode 850 rewards: 20.41 last episode loss: 0.1034051775932312 , iter: 117142, best 27.0 best
+[BEST] New best 28.00 with mod: 23.290000000000006-> checkpoint saved.
+Ep 855 | avg100=10.84 , 15.52 | last_loss=0.0286 | eps=0.5322445075502851
+Last episode 855 rewards: 12.340000000000005 last episode loss: 0.028634730726480484 , iter: 117979, best 28.0 best
+Ep 860 | avg100=10.91 , 15.59 | last_loss=0.0973 | eps=0.5301189331609301
+Last episode 860 rewards: 13.270000000000008 last episode loss: 0.09733939170837402 , iter: 118727, best 28.0 best
+Ep 865 | avg100=10.76 , 15.43 | last_loss=0.0605 | eps=0.528001847476335
+Last episode 865 rewards: 15.360000000000007 last episode loss: 0.060530517250299454 , iter: 119404, best 28.0 best
+Ep 870 | avg100=10.77 , 15.43 | last_loss=0.0655 | eps=0.5258932165959652
+Last episode 870 rewards: 9.440000000000007 last episode loss: 0.06549697369337082 , iter: 120121, best 28.0 best
+Ep 875 | avg100=11.08 , 15.74 | last_loss=0.1101 | eps=0.5237930067546711
+Last episode 875 rewards: 18.35 last episode loss: 0.11011993885040283 , iter: 121018, best 28.0 best
+Ep 880 | avg100=11.03 , 15.69 | last_loss=0.1346 | eps=0.521701184322148
+Last episode 880 rewards: 9.570000000000004 last episode loss: 0.1345575898885727 , iter: 121834, best 28.0 best
+[BEST] New best 30.00 with mod: 25.429999999999993-> checkpoint saved.
+Ep 885 | avg100=11.30 , 15.96 | last_loss=0.0748 | eps=0.5196177158023972
+Last episode 885 rewards: 4.470000000000002 last episode loss: 0.07482209801673889 , iter: 122635, best 30.0 best
+Ep 890 | avg100=11.53 , 16.19 | last_loss=0.0257 | eps=0.51754256783319
+Last episode 890 rewards: 12.490000000000007 last episode loss: 0.025659695267677307 , iter: 123464, best 30.0 best
+Ep 895 | avg100=11.50 , 16.17 | last_loss=0.0659 | eps=0.5154757071855331
+Last episode 895 rewards: 8.480000000000006 last episode loss: 0.06586290895938873 , iter: 124257, best 30.0 best
+Ep 900 | avg100=11.76 , 16.42 | last_loss=0.0615 | eps=0.5134171007631368
+Last episode 900 rewards: 14.420000000000002 last episode loss: 0.061548203229904175 , iter: 124978, best 30.0 best
+Ep 905 | avg100=11.95 , 16.62 | last_loss=0.0776 | eps=0.5113667156018847
+Last episode 905 rewards: 15.230000000000011 last episode loss: 0.07760836184024811 , iter: 125916, best 30.0 best
+[BEST] New best 33.00 with mod: 28.169999999999984-> checkpoint saved.
+Ep 910 | avg100=12.31 , 16.98 | last_loss=0.0378 | eps=0.5093245188693066
+Last episode 910 rewards: 20.309999999999995 last episode loss: 0.03779507055878639 , iter: 126782, best 33.0 best
+Ep 915 | avg100=12.63 , 17.31 | last_loss=0.0601 | eps=0.5072904778640515
+Last episode 915 rewards: 10.410000000000009 last episode loss: 0.06011335924267769 , iter: 127677, best 33.0 best
+Ep 920 | avg100=13.07 , 17.75 | last_loss=0.0542 | eps=0.505264560015365
+Last episode 920 rewards: 13.350000000000009 last episode loss: 0.05423302575945854 , iter: 128621, best 33.0 best
+Ep 925 | avg100=13.28 , 17.96 | last_loss=0.0444 | eps=0.5032467328825677
+Last episode 925 rewards: 18.160000000000007 last episode loss: 0.04444877430796623 , iter: 129645, best 33.0 best
+Ep 930 | avg100=13.38 , 18.06 | last_loss=0.0779 | eps=0.501236964154535
+Last episode 930 rewards: 14.550000000000008 last episode loss: 0.07789072394371033 , iter: 130399, best 33.0 best
+Ep 935 | avg100=13.46 , 18.14 | last_loss=0.0918 | eps=0.4992352216491805
+Last episode 935 rewards: 15.370000000000006 last episode loss: 0.09177587926387787 , iter: 131210, best 33.0 best
+Ep 940 | avg100=13.52 , 18.19 | last_loss=0.0982 | eps=0.49724147331294016
+Last episode 940 rewards: 9.32000000000001 last episode loss: 0.0982062891125679 , iter: 132047, best 33.0 best
+Ep 945 | avg100=13.64 , 18.31 | last_loss=0.1233 | eps=0.49525568722025937
+Last episode 945 rewards: 10.670000000000005 last episode loss: 0.12327753007411957 , iter: 132788, best 33.0 best
+Ep 950 | avg100=13.74 , 18.41 | last_loss=0.0593 | eps=0.49327783157308147
+Last episode 950 rewards: 12.390000000000008 last episode loss: 0.059267863631248474 , iter: 133648, best 33.0 best
+Ep 955 | avg100=13.73 , 18.40 | last_loss=0.0384 | eps=0.4913078747003387
+Last episode 955 rewards: 15.360000000000003 last episode loss: 0.03842464089393616 , iter: 134423, best 33.0 best
+Ep 960 | avg100=14.13 , 18.81 | last_loss=0.0717 | eps=0.4893457850574451
+Last episode 960 rewards: 16.140000000000015 last episode loss: 0.07166694104671478 , iter: 135416, best 33.0 best
+Ep 965 | avg100=14.51 , 19.19 | last_loss=0.0404 | eps=0.48739153122579126
+Last episode 965 rewards: 25.139999999999993 last episode loss: 0.0403733067214489 , iter: 136316, best 33.0 best
+Ep 970 | avg100=14.71 , 19.40 | last_loss=0.1129 | eps=0.4854450819122413
+Last episode 970 rewards: 13.140000000000008 last episode loss: 0.11287611722946167 , iter: 137229, best 33.0 best
+Ep 975 | avg100=14.56 , 19.26 | last_loss=0.0426 | eps=0.48350640594863176
+Last episode 975 rewards: 8.570000000000006 last episode loss: 0.04258938133716583 , iter: 138142, best 33.0 best
+Ep 980 | avg100=14.74 , 19.43 | last_loss=0.1325 | eps=0.48157547229127246
+Last episode 980 rewards: 20.29 last episode loss: 0.132476344704628 , iter: 139012, best 33.0 best
+Ep 985 | avg100=14.64 , 19.34 | last_loss=0.0403 | eps=0.4796522500204496
+Last episode 985 rewards: 8.440000000000005 last episode loss: 0.04026666656136513 , iter: 139848, best 33.0 best
+Ep 990 | avg100=14.58 , 19.28 | last_loss=0.0799 | eps=0.47773670833993054
+Last episode 990 rewards: 16.260000000000005 last episode loss: 0.0798606351017952 , iter: 140654, best 33.0 best
+Ep 995 | avg100=15.01 , 19.71 | last_loss=0.0733 | eps=0.4758288165764704
+Last episode 995 rewards: 23.30999999999999 last episode loss: 0.07329726219177246 , iter: 141566, best 33.0 best
+Ep 1000 | avg100=15.09 , 19.79 | last_loss=0.0951 | eps=0.4739285441793213
+Last episode 1000 rewards: 13.26000000000001 last episode loss: 0.0951375812292099 , iter: 142349, best 33.0 best
+Ep 1005 | avg100=15.02 , 19.72 | last_loss=0.0532 | eps=0.472035860719743
+Last episode 1005 rewards: 7.210000000000003 last episode loss: 0.05316957086324692 , iter: 143196, best 33.0 best
+Ep 1010 | avg100=14.89 , 19.59 | last_loss=0.0862 | eps=0.4701507358905155
+Last episode 1010 rewards: 11.360000000000008 last episode loss: 0.08619413524866104 , iter: 144101, best 33.0 best
+Ep 1015 | avg100=14.86 , 19.56 | last_loss=0.1424 | eps=0.4682731395054541
+Last episode 1015 rewards: 18.26 last episode loss: 0.14240485429763794 , iter: 145005, best 33.0 best
+Ep 1020 | avg100=14.71 , 19.41 | last_loss=0.0671 | eps=0.4664030414989254
+Last episode 1020 rewards: 8.510000000000003 last episode loss: 0.06714854389429092 , iter: 145788, best 33.0 best
+Ep 1025 | avg100=14.76 , 19.45 | last_loss=0.1432 | eps=0.46454041192536677
+Last episode 1025 rewards: 19.35 last episode loss: 0.14316284656524658 , iter: 146761, best 33.0 best
+Ep 1030 | avg100=14.70 , 19.40 | last_loss=0.0510 | eps=0.4626852209588059
+Last episode 1030 rewards: 2.5599999999999996 last episode loss: 0.05103366822004318 , iter: 147602, best 33.0 best
+Ep 1035 | avg100=14.78 , 19.48 | last_loss=0.0493 | eps=0.4608374388923838
+Last episode 1035 rewards: 18.090000000000007 last episode loss: 0.04934117570519447 , iter: 148456, best 33.0 best
+Ep 1040 | avg100=14.83 , 19.53 | last_loss=0.0625 | eps=0.4589970361378791
+Last episode 1040 rewards: 20.0 last episode loss: 0.062471140176057816 , iter: 149357, best 33.0 best
+Ep 1045 | avg100=15.00 , 19.71 | last_loss=0.2098 | eps=0.45716398322523394
+Last episode 1045 rewards: 19.869999999999997 last episode loss: 0.20979739725589752 , iter: 150305, best 33.0 best
+Ep 1050 | avg100=15.17 , 19.89 | last_loss=0.0965 | eps=0.4553382508020822
+Last episode 1050 rewards: 16.39 last episode loss: 0.09645985066890717 , iter: 151377, best 33.0 best
+Ep 1055 | avg100=15.28 , 20.01 | last_loss=0.0798 | eps=0.4535198096332795
+Last episode 1055 rewards: 16.190000000000012 last episode loss: 0.07976216822862625 , iter: 152280, best 33.0 best
+Ep 1060 | avg100=15.18 , 19.92 | last_loss=0.1247 | eps=0.4517086306004352
+Last episode 1060 rewards: 20.06 last episode loss: 0.12473118305206299 , iter: 153330, best 33.0 best
+Ep 1065 | avg100=15.14 , 19.88 | last_loss=0.0592 | eps=0.449904684701446
+Last episode 1065 rewards: 22.879999999999995 last episode loss: 0.05922956019639969 , iter: 154282, best 33.0 best
+Ep 1070 | avg100=15.15 , 19.89 | last_loss=0.0882 | eps=0.4481079430500315
+Last episode 1070 rewards: 16.260000000000012 last episode loss: 0.08818762004375458 , iter: 155167, best 33.0 best
+[BEST] New best 36.00 with mod: 30.95999999999997-> checkpoint saved.
+Ep 1075 | avg100=15.25 , 19.98 | last_loss=0.0742 | eps=0.4463183768752717
+Last episode 1075 rewards: 5.630000000000003 last episode loss: 0.07422488182783127 , iter: 156011, best 36.0 best
+Ep 1080 | avg100=15.26 , 19.99 | last_loss=0.1589 | eps=0.44453595752114644
+Last episode 1080 rewards: 10.200000000000008 last episode loss: 0.1588606834411621 , iter: 156940, best 36.0 best
+Ep 1085 | avg100=15.30 , 20.03 | last_loss=0.0306 | eps=0.4427606564460761
+Last episode 1085 rewards: 16.440000000000005 last episode loss: 0.030555861070752144 , iter: 157751, best 36.0 best
+Ep 1090 | avg100=15.47 , 20.20 | last_loss=0.0714 | eps=0.44099244522246506
+Last episode 1090 rewards: 15.510000000000009 last episode loss: 0.07140058279037476 , iter: 158700, best 36.0 best
+Ep 1095 | avg100=15.24 , 19.97 | last_loss=0.0748 | eps=0.4392312955362463
+Last episode 1095 rewards: 6.540000000000002 last episode loss: 0.07475981116294861 , iter: 159510, best 36.0 best
+Ep 1100 | avg100=15.33 , 20.06 | last_loss=0.0610 | eps=0.43747717918642787
+Last episode 1100 rewards: 4.470000000000001 last episode loss: 0.06102588772773743 , iter: 160372, best 36.0 best
+Ep 1105 | avg100=15.42 , 20.15 | last_loss=0.0648 | eps=0.4357300680846416
+Last episode 1105 rewards: 17.050000000000008 last episode loss: 0.06479664146900177 , iter: 161195, best 36.0 best
+Ep 1110 | avg100=15.46 , 20.20 | last_loss=0.0955 | eps=0.43398993425469296
+Last episode 1110 rewards: 11.36000000000001 last episode loss: 0.09550127387046814 , iter: 162169, best 36.0 best
+Ep 1115 | avg100=15.36 , 20.10 | last_loss=0.0413 | eps=0.43225674983211354
+Last episode 1115 rewards: 11.370000000000006 last episode loss: 0.04130924865603447 , iter: 162937, best 36.0 best
+Ep 1120 | avg100=15.22 , 19.96 | last_loss=0.0646 | eps=0.4305304870637145
+Last episode 1120 rewards: 13.550000000000004 last episode loss: 0.06459244340658188 , iter: 163827, best 36.0 best
+Ep 1125 | avg100=15.06 , 19.80 | last_loss=0.0737 | eps=0.42881111830714225
+Last episode 1125 rewards: 17.290000000000006 last episode loss: 0.07372596859931946 , iter: 164778, best 36.0 best
+Ep 1130 | avg100=15.04 , 19.77 | last_loss=0.0656 | eps=0.427098616030436
+Last episode 1130 rewards: 6.550000000000004 last episode loss: 0.06557276099920273 , iter: 165523, best 36.0 best
+Ep 1135 | avg100=15.14 , 19.87 | last_loss=0.0789 | eps=0.4253929528115864
+Last episode 1135 rewards: 13.200000000000014 last episode loss: 0.0788801833987236 , iter: 166436, best 36.0 best
+Ep 1140 | avg100=15.19 , 19.93 | last_loss=0.0673 | eps=0.42369410133809715
+Last episode 1140 rewards: 20.160000000000004 last episode loss: 0.06730125844478607 , iter: 167316, best 36.0 best
+Ep 1145 | avg100=15.02 , 19.75 | last_loss=0.0499 | eps=0.4220020344065471
+Last episode 1145 rewards: 15.240000000000009 last episode loss: 0.04990076646208763 , iter: 168133, best 36.0 best
+Ep 1150 | avg100=14.82 , 19.54 | last_loss=0.0678 | eps=0.42031672492215477
+Last episode 1150 rewards: 12.260000000000009 last episode loss: 0.0678374171257019 , iter: 169028, best 36.0 best
+Ep 1155 | avg100=14.96 , 19.67 | last_loss=0.1157 | eps=0.41863814589834464
+Last episode 1155 rewards: 22.310000000000002 last episode loss: 0.11572520434856415 , iter: 169885, best 36.0 best
+Ep 1160 | avg100=14.85 , 19.55 | last_loss=0.0578 | eps=0.41696627045631496
+Last episode 1160 rewards: 19.509999999999998 last episode loss: 0.05781075358390808 , iter: 170659, best 36.0 best
+Ep 1165 | avg100=14.55 , 19.24 | last_loss=0.0378 | eps=0.4153010718246071
+Last episode 1165 rewards: 11.160000000000013 last episode loss: 0.03781668841838837 , iter: 171425, best 36.0 best
+Ep 1170 | avg100=14.53 , 19.22 | last_loss=0.0559 | eps=0.41364252333867724
+Last episode 1170 rewards: 11.070000000000016 last episode loss: 0.05585826188325882 , iter: 172309, best 36.0 best
+Ep 1175 | avg100=14.75 , 19.46 | last_loss=0.0394 | eps=0.4119905984404691
+Last episode 1175 rewards: 19.940000000000012 last episode loss: 0.039403919130563736 , iter: 173392, best 36.0 best
+Ep 1180 | avg100=14.93 , 19.63 | last_loss=0.0594 | eps=0.410345270677989
+Last episode 1180 rewards: 15.290000000000008 last episode loss: 0.05941116809844971 , iter: 174279, best 36.0 best
+Ep 1185 | avg100=15.00 , 19.71 | last_loss=0.0520 | eps=0.4087065137048818
+Last episode 1185 rewards: 9.250000000000009 last episode loss: 0.05203813314437866 , iter: 175146, best 36.0 best
+Ep 1190 | avg100=14.85 , 19.56 | last_loss=0.0909 | eps=0.40707430128000943
+Last episode 1190 rewards: 12.220000000000011 last episode loss: 0.09090376645326614 , iter: 176022, best 36.0 best
+Ep 1195 | avg100=15.31 , 20.03 | last_loss=0.0423 | eps=0.40544860726703064
+Last episode 1195 rewards: 28.19 last episode loss: 0.042338211089372635 , iter: 177125, best 36.0 best
+Ep 1200 | avg100=15.29 , 20.01 | last_loss=0.1257 | eps=0.40382940563398234
+Last episode 1200 rewards: 16.34000000000001 last episode loss: 0.12570300698280334 , iter: 177945, best 36.0 best
+Ep 1205 | avg100=15.64 , 20.36 | last_loss=0.0687 | eps=0.4022166704528628
+Last episode 1205 rewards: 19.200000000000006 last episode loss: 0.06865572184324265 , iter: 178963, best 36.0 best
+Ep 1210 | avg100=15.74 , 20.45 | last_loss=0.1794 | eps=0.40061037589921644
+Last episode 1210 rewards: 13.390000000000006 last episode loss: 0.17942209541797638 , iter: 179808, best 36.0 best
+Ep 1215 | avg100=16.34 , 21.05 | last_loss=0.0867 | eps=0.39901049625172047
+Last episode 1215 rewards: 18.990000000000016 last episode loss: 0.08669932186603546 , iter: 180887, best 36.0 best
+Ep 1220 | avg100=16.72 , 21.45 | last_loss=0.1027 | eps=0.39741700589177287
+Last episode 1220 rewards: 10.160000000000014 last episode loss: 0.10265734791755676 , iter: 182016, best 36.0 best
+Ep 1225 | avg100=17.00 , 21.72 | last_loss=0.0496 | eps=0.39582987930308217
+Last episode 1225 rewards: 15.26000000000001 last episode loss: 0.04958981275558472 , iter: 182975, best 36.0 best
+Ep 1230 | avg100=17.11 , 21.84 | last_loss=0.0321 | eps=0.3942490910712589
+Last episode 1230 rewards: 7.610000000000002 last episode loss: 0.03206101804971695 , iter: 183766, best 36.0 best
+Ep 1235 | avg100=17.03 , 21.76 | last_loss=0.0463 | eps=0.39267461588340863
+Last episode 1235 rewards: 19.200000000000006 last episode loss: 0.0463041216135025 , iter: 184685, best 36.0 best
+[BEST] New best 39.00 with mod: 33.80999999999999-> checkpoint saved.
+Ep 1240 | avg100=17.31 , 22.05 | last_loss=0.0534 | eps=0.39110642852772665
+Last episode 1240 rewards: 33.80999999999999 last episode loss: 0.0534362830221653 , iter: 185771, best 39.0 best
+Ep 1245 | avg100=17.71 , 22.46 | last_loss=0.0480 | eps=0.38954450389309425
+Last episode 1245 rewards: 19.11000000000001 last episode loss: 0.04804900661110878 , iter: 186921, best 39.0 best
+Ep 1250 | avg100=17.81 , 22.56 | last_loss=0.0468 | eps=0.38798881696867654
+Last episode 1250 rewards: 21.150000000000002 last episode loss: 0.046810995787382126 , iter: 187806, best 39.0 best
+Ep 1255 | avg100=17.84 , 22.60 | last_loss=0.1538 | eps=0.3864393428435221
+Last episode 1255 rewards: 15.220000000000011 last episode loss: 0.15377625823020935 , iter: 188924, best 39.0 best
+Ep 1260 | avg100=17.86 , 22.63 | last_loss=0.0633 | eps=0.38489605670616395
+Last episode 1260 rewards: 8.500000000000004 last episode loss: 0.06325867772102356 , iter: 189769, best 39.0 best
+Ep 1265 | avg100=18.33 , 23.10 | last_loss=0.0574 | eps=0.3833589338442225
+Last episode 1265 rewards: 27.39 last episode loss: 0.05739089101552963 , iter: 190723, best 39.0 best
+Ep 1270 | avg100=18.51 , 23.28 | last_loss=0.0407 | eps=0.3818279496440094
+Last episode 1270 rewards: 15.910000000000016 last episode loss: 0.04067360982298851 , iter: 191703, best 39.0 best
+Ep 1275 | avg100=18.30 , 23.07 | last_loss=0.0617 | eps=0.3803030795901337
+Last episode 1275 rewards: 30.259999999999987 last episode loss: 0.06173356622457504 , iter: 192599, best 39.0 best
+Ep 1280 | avg100=18.28 , 23.05 | last_loss=0.0341 | eps=0.37878429926510954
+Last episode 1280 rewards: 15.360000000000007 last episode loss: 0.034077223390340805 , iter: 193546, best 39.0 best
+Ep 1285 | avg100=18.59 , 23.36 | last_loss=0.1225 | eps=0.3772715843489644
+Last episode 1285 rewards: 32.15999999999998 last episode loss: 0.12247265875339508 , iter: 194619, best 39.0 best
+Ep 1290 | avg100=18.69 , 23.46 | last_loss=0.0380 | eps=0.37576491061885037
+Last episode 1290 rewards: 11.470000000000006 last episode loss: 0.037970103323459625 , iter: 195561, best 39.0 best
+Ep 1295 | avg100=18.55 , 23.31 | last_loss=0.1182 | eps=0.37426425394865603
+Last episode 1295 rewards: 13.34000000000001 last episode loss: 0.11821478605270386 , iter: 196532, best 39.0 best
+Ep 1300 | avg100=18.77 , 23.54 | last_loss=0.0713 | eps=0.3727695903086201
+Last episode 1300 rewards: 12.420000000000002 last episode loss: 0.07130499929189682 , iter: 197613, best 39.0 best
+Ep 1305 | avg100=18.48 , 23.24 | last_loss=0.0564 | eps=0.37128089576494655
+Last episode 1305 rewards: 15.510000000000003 last episode loss: 0.05639578402042389 , iter: 198430, best 39.0 best
+Ep 1310 | avg100=18.30 , 23.07 | last_loss=0.0547 | eps=0.36979814647942166
+Last episode 1310 rewards: 13.210000000000013 last episode loss: 0.05468249320983887 , iter: 199342, best 39.0 best
+Ep 1315 | avg100=18.18 , 22.95 | last_loss=0.1107 | eps=0.3683213187090321
+Last episode 1315 rewards: 22.990000000000002 last episode loss: 0.11071530729532242 , iter: 200473, best 39.0 best
+Ep 1320 | avg100=17.87 , 22.63 | last_loss=0.0506 | eps=0.3668503888055847
+Last episode 1320 rewards: 13.120000000000012 last episode loss: 0.05063332989811897 , iter: 201331, best 39.0 best
+Ep 1325 | avg100=17.85 , 22.62 | last_loss=0.1215 | eps=0.36538533321532785
+Last episode 1325 rewards: 19.240000000000002 last episode loss: 0.12145861983299255 , iter: 202332, best 39.0 best
+Ep 1330 | avg100=17.94 , 22.70 | last_loss=0.0905 | eps=0.36392612847857436
+Last episode 1330 rewards: 21.390000000000004 last episode loss: 0.09047158062458038 , iter: 203118, best 39.0 best
+Ep 1335 | avg100=17.92 , 22.69 | last_loss=0.1229 | eps=0.36247275122932565
+Last episode 1335 rewards: 26.279999999999994 last episode loss: 0.12288391590118408 , iter: 203998, best 39.0 best
+Ep 1340 | avg100=17.66 , 22.42 | last_loss=0.0720 | eps=0.3610251781948979
+Last episode 1340 rewards: 12.230000000000011 last episode loss: 0.07195097208023071 , iter: 205027, best 39.0 best
+Ep 1345 | avg100=17.64 , 22.40 | last_loss=0.1359 | eps=0.3595833861955491
+Last episode 1345 rewards: 16.570000000000007 last episode loss: 0.1359064280986786 , iter: 206086, best 39.0 best
+Ep 1350 | avg100=17.68 , 22.43 | last_loss=0.1171 | eps=0.35814735214410787
+Last episode 1350 rewards: 13.260000000000012 last episode loss: 0.11709658056497574 , iter: 206913, best 39.0 best
+Ep 1355 | avg100=17.43 , 22.17 | last_loss=0.0473 | eps=0.356717053045604
+Last episode 1355 rewards: 16.210000000000008 last episode loss: 0.04732770472764969 , iter: 207773, best 39.0 best
+Ep 1360 | avg100=17.34 , 22.09 | last_loss=0.0381 | eps=0.35529246599690023
+Last episode 1360 rewards: 8.070000000000013 last episode loss: 0.03805914521217346 , iter: 208665, best 39.0 best
+Ep 1365 | avg100=17.29 , 22.04 | last_loss=0.1420 | eps=0.3538735681863251
+Last episode 1365 rewards: 12.140000000000008 last episode loss: 0.14200299978256226 , iter: 209759, best 39.0 best
+Ep 1370 | avg100=17.31 , 22.06 | last_loss=0.0590 | eps=0.3524603368933081
+Last episode 1370 rewards: 18.260000000000012 last episode loss: 0.05902571976184845 , iter: 210784, best 39.0 best
+Ep 1375 | avg100=17.19 , 21.94 | last_loss=0.0625 | eps=0.35105274948801574
+Last episode 1375 rewards: 22.649999999999995 last episode loss: 0.06254003942012787 , iter: 211591, best 39.0 best
+Ep 1380 | avg100=17.18 , 21.94 | last_loss=0.0635 | eps=0.34965078343098915
+Last episode 1380 rewards: 12.40000000000001 last episode loss: 0.06351503729820251 , iter: 212615, best 39.0 best
+Ep 1385 | avg100=16.89 , 21.65 | last_loss=0.0485 | eps=0.34825441627278303
+Last episode 1385 rewards: 15.500000000000005 last episode loss: 0.048515260219573975 , iter: 213500, best 39.0 best
+Ep 1390 | avg100=17.10 , 21.86 | last_loss=0.0497 | eps=0.3468636256536065
+Last episode 1390 rewards: 25.250000000000004 last episode loss: 0.04965129494667053 , iter: 214472, best 39.0 best
+Ep 1395 | avg100=16.90 , 21.67 | last_loss=0.0891 | eps=0.34547838930296476
+Last episode 1395 rewards: 23.189999999999994 last episode loss: 0.0890963077545166 , iter: 215336, best 39.0 best
+Ep 1400 | avg100=16.86 , 21.62 | last_loss=0.0772 | eps=0.34409868503930247
+Last episode 1400 rewards: 17.370000000000005 last episode loss: 0.07715336978435516 , iter: 216305, best 39.0 best
+Ep 1405 | avg100=16.79 , 21.56 | last_loss=0.0429 | eps=0.3427244907696488
+Last episode 1405 rewards: 12.500000000000005 last episode loss: 0.04290395975112915 , iter: 217180, best 39.0 best
+Ep 1410 | avg100=17.09 , 21.86 | last_loss=0.0894 | eps=0.3413557844892635
+Last episode 1410 rewards: 24.33 last episode loss: 0.08943301439285278 , iter: 218162, best 39.0 best
+Ep 1415 | avg100=17.06 , 21.82 | last_loss=0.0408 | eps=0.33999254428128456
+Last episode 1415 rewards: 23.060000000000006 last episode loss: 0.04080364853143692 , iter: 219178, best 39.0 best
+Ep 1420 | avg100=17.12 , 21.88 | last_loss=0.0325 | eps=0.33863474831637713
+Last episode 1420 rewards: 15.090000000000012 last episode loss: 0.03245373070240021 , iter: 219993, best 39.0 best
+Ep 1425 | avg100=17.08 , 21.84 | last_loss=0.0393 | eps=0.33728237485238427
+Last episode 1425 rewards: 24.45 last episode loss: 0.03926752507686615 , iter: 220978, best 39.0 best
+Ep 1430 | avg100=17.52 , 22.29 | last_loss=0.1294 | eps=0.3359354022339787
+Last episode 1430 rewards: 24.999999999999996 last episode loss: 0.12941308319568634 , iter: 221993, best 39.0 best
+Ep 1435 | avg100=17.54 , 22.31 | last_loss=0.0451 | eps=0.3345938088923157
+Last episode 1435 rewards: 22.650000000000002 last episode loss: 0.0451086089015007 , iter: 222926, best 39.0 best
+Ep 1440 | avg100=17.56 , 22.32 | last_loss=0.1587 | eps=0.33325757334468814
+Last episode 1440 rewards: 15.690000000000003 last episode loss: 0.15872102975845337 , iter: 223909, best 39.0 best
+[BEST] New best 42.00 with mod: 37.08-> checkpoint saved.
+Ep 1445 | avg100=17.68 , 22.46 | last_loss=0.1533 | eps=0.33192667419418237
+Last episode 1445 rewards: 27.2 last episode loss: 0.15332657098770142 , iter: 225040, best 42.0 best
+Ep 1450 | avg100=17.84 , 22.61 | last_loss=0.0492 | eps=0.33060109012933553
+Last episode 1450 rewards: 13.540000000000003 last episode loss: 0.04919414222240448 , iter: 225888, best 42.0 best
+Ep 1455 | avg100=18.11 , 22.90 | last_loss=0.0466 | eps=0.32928079992379433
+Last episode 1455 rewards: 25.050000000000004 last episode loss: 0.04656953364610672 , iter: 227026, best 42.0 best
+Ep 1460 | avg100=18.23 , 23.03 | last_loss=0.0731 | eps=0.32796578243597524
+Last episode 1460 rewards: 21.70000000000001 last episode loss: 0.07308025658130646 , iter: 228092, best 42.0 best
+Ep 1465 | avg100=18.08 , 22.87 | last_loss=0.0857 | eps=0.3266560166087256
+Last episode 1465 rewards: 18.010000000000016 last episode loss: 0.08568573743104935 , iter: 228978, best 42.0 best
+Ep 1470 | avg100=17.84 , 22.62 | last_loss=0.1404 | eps=0.325351481468987
+Last episode 1470 rewards: 10.270000000000007 last episode loss: 0.14041972160339355 , iter: 229866, best 42.0 best
+Ep 1475 | avg100=18.13 , 22.92 | last_loss=0.0380 | eps=0.3240521561274591
+Last episode 1475 rewards: 20.610000000000003 last episode loss: 0.03801252692937851 , iter: 230775, best 42.0 best
+Ep 1480 | avg100=18.27 , 23.06 | last_loss=0.1290 | eps=0.3227580197782649
+Last episode 1480 rewards: 22.0 last episode loss: 0.12904132902622223 , iter: 231821, best 42.0 best
+Ep 1485 | avg100=18.54 , 23.33 | last_loss=0.0318 | eps=0.3214690516986182
+Last episode 1485 rewards: 17.17000000000001 last episode loss: 0.03176970034837723 , iter: 232863, best 42.0 best
+Ep 1490 | avg100=18.47 , 23.27 | last_loss=0.2462 | eps=0.32018523124849135
+Last episode 1490 rewards: 28.190000000000005 last episode loss: 0.24617013335227966 , iter: 233817, best 42.0 best
+Ep 1495 | avg100=18.63 , 23.42 | last_loss=0.0426 | eps=0.3189065378702846
+Last episode 1495 rewards: 28.339999999999996 last episode loss: 0.04262157529592514 , iter: 234637, best 42.0 best
+Ep 1500 | avg100=18.57 , 23.36 | last_loss=0.0233 | eps=0.3176329510884974
+Last episode 1500 rewards: 14.100000000000007 last episode loss: 0.023348473012447357 , iter: 235578, best 42.0 best
+Ep 1505 | avg100=18.89 , 23.68 | last_loss=0.0938 | eps=0.31636445050940004
+Last episode 1505 rewards: 29.769999999999992 last episode loss: 0.09381502866744995 , iter: 236597, best 42.0 best
+Ep 1510 | avg100=18.90 , 23.71 | last_loss=0.0805 | eps=0.3151010158207075
+Last episode 1510 rewards: 17.940000000000005 last episode loss: 0.08045507967472076 , iter: 237771, best 42.0 best
+Ep 1515 | avg100=19.11 , 23.92 | last_loss=0.0386 | eps=0.3138426267912539
+Last episode 1515 rewards: 15.090000000000009 last episode loss: 0.03855033963918686 , iter: 238833, best 42.0 best
+Ep 1520 | avg100=19.28 , 24.10 | last_loss=0.0413 | eps=0.31258926327066877
+Last episode 1520 rewards: 6.180000000000003 last episode loss: 0.04132925346493721 , iter: 239759, best 42.0 best
+Ep 1525 | avg100=19.31 , 24.12 | last_loss=0.1334 | eps=0.31134090518905405
+Last episode 1525 rewards: 19.590000000000003 last episode loss: 0.13341045379638672 , iter: 240652, best 42.0 best
+Ep 1530 | avg100=19.27 , 24.07 | last_loss=0.1682 | eps=0.3100975325566631
+Last episode 1530 rewards: 12.640000000000004 last episode loss: 0.16817596554756165 , iter: 241588, best 42.0 best
+Ep 1535 | avg100=19.52 , 24.33 | last_loss=0.0574 | eps=0.3088591254635804
+Last episode 1535 rewards: 20.540000000000006 last episode loss: 0.05744670331478119 , iter: 242683, best 42.0 best
+Ep 1540 | avg100=19.91 , 24.72 | last_loss=0.0182 | eps=0.30762566407940267
+Last episode 1540 rewards: 23.359999999999996 last episode loss: 0.01817600056529045 , iter: 243795, best 42.0 best
+[BEST] New best 84.00 with mod: 31.359999999999992-> checkpoint saved.
+Ep 1545 | avg100=19.81 , 25.07 | last_loss=0.0340 | eps=0.3063971286529216
+Last episode 1545 rewards: 23.319999999999997 last episode loss: 0.033997297286987305 , iter: 244738, best 84.0 best
+Ep 1550 | avg100=19.83 , 25.10 | last_loss=0.1743 | eps=0.3051734995118074
+Last episode 1550 rewards: 16.500000000000007 last episode loss: 0.17432667315006256 , iter: 245640, best 84.0 best
+Ep 1555 | avg100=19.84 , 25.10 | last_loss=0.0358 | eps=0.3039547570622936
+Last episode 1555 rewards: 20.07000000000001 last episode loss: 0.03581256419420242 , iter: 246611, best 84.0 best
+Ep 1560 | avg100=20.12 , 25.36 | last_loss=0.0280 | eps=0.30274088178886366
+Last episode 1560 rewards: 19.360000000000007 last episode loss: 0.028048120439052582 , iter: 247568, best 84.0 best
+Ep 1565 | avg100=20.37 , 25.61 | last_loss=0.0434 | eps=0.30153185425393825
+Last episode 1565 rewards: 16.38000000000001 last episode loss: 0.043442580848932266 , iter: 248534, best 84.0 best
+Ep 1570 | avg100=20.75 , 26.00 | last_loss=0.1147 | eps=0.300327655097564
+Last episode 1570 rewards: 21.17 last episode loss: 0.11472151428461075 , iter: 249580, best 84.0 best
+Ep 1575 | avg100=20.63 , 25.89 | last_loss=0.0641 | eps=0.29912826503710366
+Last episode 1575 rewards: 12.230000000000004 last episode loss: 0.06407160311937332 , iter: 250584, best 84.0 best
+Ep 1580 | avg100=20.69 , 25.94 | last_loss=0.0287 | eps=0.2979336648669272
+Last episode 1580 rewards: 32.17999999999999 last episode loss: 0.028694424778223038 , iter: 251536, best 84.0 best
+Ep 1585 | avg100=20.63 , 25.87 | last_loss=0.0924 | eps=0.29674383545810434
+Last episode 1585 rewards: 24.27 last episode loss: 0.09237755835056305 , iter: 252412, best 84.0 best
+Ep 1590 | avg100=20.64 , 25.87 | last_loss=0.0345 | eps=0.29555875775809803
+Last episode 1590 rewards: 9.940000000000015 last episode loss: 0.034493252635002136 , iter: 253353, best 84.0 best
+Ep 1595 | avg100=20.65 , 25.88 | last_loss=0.0360 | eps=0.2943784127904596
+Last episode 1595 rewards: 11.37000000000001 last episode loss: 0.03601512685418129 , iter: 254196, best 84.0 best
+Ep 1600 | avg100=20.38 , 25.60 | last_loss=0.0520 | eps=0.2932027816545249
+Last episode 1600 rewards: 12.130000000000013 last episode loss: 0.05196211487054825 , iter: 255036, best 84.0 best
+Ep 1605 | avg100=20.53 , 25.75 | last_loss=0.1250 | eps=0.2920318455251115
+Last episode 1605 rewards: 28.239999999999988 last episode loss: 0.12495429813861847 , iter: 256087, best 84.0 best
+Ep 1610 | avg100=20.63 , 25.83 | last_loss=0.0319 | eps=0.2908655856522174
+Last episode 1610 rewards: 28.930000000000003 last episode loss: 0.031913433223962784 , iter: 257049, best 84.0 best
+Ep 1615 | avg100=20.63 , 25.84 | last_loss=0.0591 | eps=0.2897039833607205
+Last episode 1615 rewards: 20.939999999999987 last episode loss: 0.05911044031381607 , iter: 258219, best 84.0 best
+Ep 1620 | avg100=20.97 , 26.17 | last_loss=0.0425 | eps=0.2885470200500799
+Last episode 1620 rewards: 22.26000000000001 last episode loss: 0.042461097240448 , iter: 259297, best 84.0 best
+Ep 1625 | avg100=21.15 , 26.35 | last_loss=0.1662 | eps=0.28739467719403794
+Last episode 1625 rewards: 17.459999999999997 last episode loss: 0.16617465019226074 , iter: 260302, best 84.0 best
+Ep 1630 | avg100=21.16 , 26.36 | last_loss=0.0329 | eps=0.2862469363403235
+Last episode 1630 rewards: 26.239999999999988 last episode loss: 0.03291112184524536 , iter: 261324, best 84.0 best
+Ep 1635 | avg100=21.46 , 26.66 | last_loss=0.0556 | eps=0.2851037791103566
+Last episode 1635 rewards: 29.139999999999983 last episode loss: 0.05556957423686981 , iter: 262385, best 84.0 best
+Ep 1640 | avg100=21.38 , 26.57 | last_loss=0.1276 | eps=0.2839651871989539
+Last episode 1640 rewards: 19.43000000000001 last episode loss: 0.12760628759860992 , iter: 263392, best 84.0 best
+Ep 1645 | avg100=21.36 , 26.09 | last_loss=0.1491 | eps=0.2828311423740359
+Last episode 1645 rewards: 16.490000000000006 last episode loss: 0.1491374969482422 , iter: 264426, best 84.0 best
+Ep 1650 | avg100=21.51 , 26.23 | last_loss=0.0483 | eps=0.2817016264763346
+Last episode 1650 rewards: 27.54999999999999 last episode loss: 0.04828489571809769 , iter: 265397, best 84.0 best
+Ep 1655 | avg100=21.66 , 26.38 | last_loss=0.0395 | eps=0.2805766214191032
+Last episode 1655 rewards: 23.22 last episode loss: 0.039470694959163666 , iter: 266304, best 84.0 best
+Ep 1660 | avg100=21.38 , 26.09 | last_loss=0.0629 | eps=0.27945610918782615
+Last episode 1660 rewards: 12.590000000000007 last episode loss: 0.06290998309850693 , iter: 267029, best 84.0 best
+Ep 1665 | avg100=21.47 , 26.18 | last_loss=0.1856 | eps=0.2783400718399306
+Last episode 1665 rewards: 25.36999999999999 last episode loss: 0.18562352657318115 , iter: 268047, best 84.0 best
+Ep 1670 | avg100=21.40 , 26.10 | last_loss=0.0377 | eps=0.27722849150449935
+Last episode 1670 rewards: 20.370000000000005 last episode loss: 0.037655338644981384 , iter: 268928, best 84.0 best
+Ep 1675 | avg100=21.52 , 26.22 | last_loss=0.0588 | eps=0.2761213503819848
+Last episode 1675 rewards: 23.159999999999993 last episode loss: 0.05876690521836281 , iter: 269930, best 84.0 best
+Ep 1680 | avg100=21.59 , 26.29 | last_loss=0.0988 | eps=0.2750186307439234
+Last episode 1680 rewards: 23.399999999999995 last episode loss: 0.09880714863538742 , iter: 270895, best 84.0 best
+Ep 1685 | avg100=21.60 , 26.30 | last_loss=0.0487 | eps=0.2739203149326522
+Last episode 1685 rewards: 13.590000000000003 last episode loss: 0.048723407089710236 , iter: 271681, best 84.0 best
+Ep 1690 | avg100=21.66 , 26.34 | last_loss=0.0446 | eps=0.272826385361026
+Last episode 1690 rewards: 16.460000000000004 last episode loss: 0.04463794454932213 , iter: 272508, best 84.0 best
+Ep 1695 | avg100=21.77 , 26.46 | last_loss=0.0785 | eps=0.2717368245121357
+Last episode 1695 rewards: 21.63 last episode loss: 0.07854573428630829 , iter: 273510, best 84.0 best
+Ep 1700 | avg100=22.42 , 27.11 | last_loss=0.0248 | eps=0.27065161493902784
+Last episode 1700 rewards: 26.289999999999992 last episode loss: 0.024799857288599014 , iter: 274551, best 84.0 best
+Ep 1705 | avg100=22.22 , 26.91 | last_loss=0.0638 | eps=0.2695707392644253
+Last episode 1705 rewards: 24.210000000000004 last episode loss: 0.06380723416805267 , iter: 275420, best 84.0 best
+Ep 1710 | avg100=21.99 , 26.67 | last_loss=0.0479 | eps=0.26849418018044874
+Last episode 1710 rewards: 32.22999999999999 last episode loss: 0.047871701419353485 , iter: 276241, best 84.0 best
+Ep 1715 | avg100=21.57 , 26.23 | last_loss=0.0324 | eps=0.2674219204483396
+Last episode 1715 rewards: 12.610000000000007 last episode loss: 0.03241029381752014 , iter: 277080, best 84.0 best
+Ep 1720 | avg100=21.33 , 25.98 | last_loss=0.0814 | eps=0.2663539428981845
+Last episode 1720 rewards: 19.490000000000006 last episode loss: 0.08136920630931854 , iter: 277937, best 84.0 best
+Ep 1725 | avg100=21.01 , 25.65 | last_loss=0.0435 | eps=0.2652902304286395
+Last episode 1725 rewards: 15.360000000000007 last episode loss: 0.043536290526390076 , iter: 278668, best 84.0 best
+Ep 1730 | avg100=20.98 , 25.61 | last_loss=0.0683 | eps=0.2642307660066569
+Last episode 1730 rewards: 21.429999999999993 last episode loss: 0.06827065348625183 , iter: 279546, best 84.0 best
+Ep 1735 | avg100=20.73 , 25.35 | last_loss=0.1611 | eps=0.2631755326672122
+Last episode 1735 rewards: 16.450000000000006 last episode loss: 0.1610904335975647 , iter: 280435, best 84.0 best
+Ep 1740 | avg100=20.62 , 25.24 | last_loss=0.0368 | eps=0.26212451351303256
+Last episode 1740 rewards: 19.200000000000006 last episode loss: 0.036810502409935 , iter: 281332, best 84.0 best
+Ep 1745 | avg100=20.53 , 25.14 | last_loss=0.0545 | eps=0.26107769171432615
+Last episode 1745 rewards: 14.630000000000006 last episode loss: 0.054536063224077225 , iter: 282169, best 84.0 best
+Ep 1750 | avg100=20.37 , 24.98 | last_loss=0.0779 | eps=0.2600350505085126
+Last episode 1750 rewards: 24.320000000000007 last episode loss: 0.0779309943318367 , iter: 283005, best 84.0 best
+Ep 1755 | avg100=20.16 , 24.76 | last_loss=0.0319 | eps=0.25899657319995484
+Last episode 1755 rewards: 9.620000000000003 last episode loss: 0.0318819060921669 , iter: 283813, best 84.0 best
+Ep 1760 | avg100=20.41 , 25.01 | last_loss=0.0759 | eps=0.25796224315969135
+Last episode 1760 rewards: 14.750000000000004 last episode loss: 0.07585916668176651 , iter: 284711, best 84.0 best
+Ep 1765 | avg100=20.35 , 24.96 | last_loss=0.0869 | eps=0.2569320438251703
+Last episode 1765 rewards: 24.920000000000005 last episode loss: 0.08685250580310822 , iter: 285663, best 84.0 best
+Ep 1770 | avg100=20.46 , 25.06 | last_loss=0.0781 | eps=0.25590595869998417
+Last episode 1770 rewards: 18.290000000000003 last episode loss: 0.07805751264095306 , iter: 286632, best 84.0 best
+Ep 1775 | avg100=20.55 , 25.15 | last_loss=0.0925 | eps=0.2548839713536054
+Last episode 1775 rewards: 23.280000000000005 last episode loss: 0.09249163419008255 , iter: 287627, best 84.0 best
+Ep 1780 | avg100=20.42 , 25.01 | last_loss=0.1469 | eps=0.25386606542112367
+Last episode 1780 rewards: 14.490000000000007 last episode loss: 0.14686213433742523 , iter: 288503, best 84.0 best
+Ep 1785 | avg100=20.64 , 25.23 | last_loss=0.0445 | eps=0.25285222460298346
+Last episode 1785 rewards: 23.440000000000005 last episode loss: 0.044457267969846725 , iter: 289460, best 84.0 best
+Ep 1790 | avg100=20.70 , 25.30 | last_loss=0.0794 | eps=0.2518424326647233
+Last episode 1790 rewards: 33.42999999999999 last episode loss: 0.0794350653886795 , iter: 290409, best 84.0 best
+Ep 1795 | avg100=20.63 , 25.22 | last_loss=0.0983 | eps=0.2508366734367159
+Last episode 1795 rewards: 18.690000000000005 last episode loss: 0.09834051132202148 , iter: 291252, best 84.0 best
+Ep 1800 | avg100=20.54 , 25.13 | last_loss=0.0662 | eps=0.2498349308139088
+Last episode 1800 rewards: 14.510000000000007 last episode loss: 0.06615956872701645 , iter: 292341, best 84.0 best
+Ep 1805 | avg100=20.73 , 25.32 | last_loss=0.0442 | eps=0.2488371887555671
+Last episode 1805 rewards: 34.51999999999999 last episode loss: 0.04416527599096298 , iter: 293273, best 84.0 best
+Ep 1810 | avg100=20.97 , 25.57 | last_loss=0.0589 | eps=0.24784343128501599
+Last episode 1810 rewards: 20.47 last episode loss: 0.058898553252220154 , iter: 294197, best 84.0 best
+Ep 1815 | avg100=21.42 , 26.03 | last_loss=0.0458 | eps=0.24685364248938527
+Last episode 1815 rewards: 31.289999999999946 last episode loss: 0.04575912654399872 , iter: 295270, best 84.0 best
+Ep 1820 | avg100=21.67 , 26.29 | last_loss=0.0326 | eps=0.24586780651935447
+Last episode 1820 rewards: 31.539999999999996 last episode loss: 0.03261017054319382 , iter: 296313, best 84.0 best
+Ep 1825 | avg100=21.92 , 26.54 | last_loss=0.1630 | eps=0.24488590758889903
+Last episode 1825 rewards: 14.540000000000004 last episode loss: 0.16297104954719543 , iter: 297204, best 84.0 best
+Ep 1830 | avg100=21.73 , 26.35 | last_loss=0.0937 | eps=0.24390792997503757
+Last episode 1830 rewards: 14.410000000000009 last episode loss: 0.09374906122684479 , iter: 298131, best 84.0 best
+Ep 1835 | avg100=21.63 , 26.26 | last_loss=0.0683 | eps=0.24293385801758008
+Last episode 1835 rewards: 16.380000000000006 last episode loss: 0.06827745586633682 , iter: 299052, best 84.0 best
+Ep 1840 | avg100=21.70 , 26.33 | last_loss=0.1062 | eps=0.24196367611887715
+Last episode 1840 rewards: 25.16 last episode loss: 0.10619042813777924 , iter: 300127, best 84.0 best
+Ep 1845 | avg100=21.94 , 26.58 | last_loss=0.0310 | eps=0.24099736874357022
+Last episode 1845 rewards: 27.110000000000003 last episode loss: 0.031042585149407387 , iter: 301138, best 84.0 best
+Ep 1850 | avg100=21.86 , 26.50 | last_loss=0.1712 | eps=0.24003492041834282
+Last episode 1850 rewards: 14.460000000000004 last episode loss: 0.17116817831993103 , iter: 301965, best 84.0 best
+Ep 1855 | avg100=21.99 , 26.63 | last_loss=0.0305 | eps=0.23907631573167282
+Last episode 1855 rewards: 28.380000000000006 last episode loss: 0.030542079359292984 , iter: 302853, best 84.0 best
+Ep 1860 | avg100=22.23 , 26.88 | last_loss=0.0722 | eps=0.2381215393335856
+Last episode 1860 rewards: 35.97999999999996 last episode loss: 0.07215198874473572 , iter: 303975, best 84.0 best
+Ep 1865 | avg100=22.30 , 26.95 | last_loss=0.0675 | eps=0.2371705759354083
+Last episode 1865 rewards: 25.410000000000004 last episode loss: 0.0675157681107521 , iter: 305054, best 84.0 best
+Ep 1870 | avg100=22.31 , 26.97 | last_loss=0.0491 | eps=0.23622341030952493
+Last episode 1870 rewards: 24.499999999999996 last episode loss: 0.04913075640797615 , iter: 306060, best 84.0 best
+Ep 1875 | avg100=22.34 , 27.00 | last_loss=0.0415 | eps=0.2352800272891326
+Last episode 1875 rewards: 10.040000000000012 last episode loss: 0.041525959968566895 , iter: 307025, best 84.0 best
+Ep 1880 | avg100=22.51 , 27.18 | last_loss=0.0552 | eps=0.23434041176799875
+Last episode 1880 rewards: 32.02 last episode loss: 0.05523328483104706 , iter: 308060, best 84.0 best
+Ep 1885 | avg100=22.48 , 27.17 | last_loss=0.0623 | eps=0.233404548700219
+Last episode 1885 rewards: 25.769999999999946 last episode loss: 0.06227843463420868 , iter: 309179, best 84.0 best
+Ep 1890 | avg100=22.63 , 27.33 | last_loss=0.0902 | eps=0.23247242309997643
+Last episode 1890 rewards: 26.519999999999985 last episode loss: 0.09020120650529861 , iter: 310248, best 84.0 best
+Ep 1895 | avg100=22.73 , 27.44 | last_loss=0.1073 | eps=0.23154402004130156
+Last episode 1895 rewards: 33.129999999999995 last episode loss: 0.10727881640195847 , iter: 311255, best 84.0 best
+Ep 1900 | avg100=22.76 , 27.46 | last_loss=0.0441 | eps=0.23061932465783333
+Last episode 1900 rewards: 25.35 last episode loss: 0.04406290501356125 , iter: 312232, best 84.0 best
+Ep 1905 | avg100=22.87 , 27.57 | last_loss=0.0489 | eps=0.22969832214258107
+Last episode 1905 rewards: 26.129999999999995 last episode loss: 0.04887142777442932 , iter: 313270, best 84.0 best
+Ep 1910 | avg100=23.03 , 27.74 | last_loss=0.0345 | eps=0.22878099774768734
+Last episode 1910 rewards: 28.35 last episode loss: 0.03453247994184494 , iter: 314288, best 84.0 best
+Ep 1915 | avg100=23.17 , 27.88 | last_loss=0.0440 | eps=0.2278673367841919
+Last episode 1915 rewards: 28.939999999999994 last episode loss: 0.04397574067115784 , iter: 315481, best 84.0 best
+Ep 1920 | avg100=22.97 , 27.68 | last_loss=0.0304 | eps=0.22695732462179638
+Last episode 1920 rewards: 22.11999999999999 last episode loss: 0.030356986448168755 , iter: 316389, best 84.0 best
+Ep 1925 | avg100=23.01 , 28.20 | last_loss=0.0325 | eps=0.22605094668862996
+Last episode 1925 rewards: 26.429999999999996 last episode loss: 0.032482922077178955 , iter: 317319, best 84.0 best
+Ep 1930 | avg100=23.25 , 28.45 | last_loss=0.0280 | eps=0.22514818847101625
+Last episode 1930 rewards: 30.09999999999999 last episode loss: 0.028046125546097755 , iter: 318322, best 84.0 best
+Ep 1935 | avg100=23.41 , 28.61 | last_loss=0.0460 | eps=0.22424903551324069
+Last episode 1935 rewards: 26.429999999999993 last episode loss: 0.046045079827308655 , iter: 319395, best 84.0 best
+Ep 1940 | avg100=23.40 , 28.59 | last_loss=0.0768 | eps=0.2233534734173191
+Last episode 1940 rewards: 19.410000000000004 last episode loss: 0.07679292559623718 , iter: 320248, best 84.0 best
+Ep 1945 | avg100=23.43 , 28.63 | last_loss=0.1050 | eps=0.2224614878427672
+Last episode 1945 rewards: 30.09999999999998 last episode loss: 0.1050473302602768 , iter: 321339, best 84.0 best
+Ep 1950 | avg100=23.73 , 28.92 | last_loss=0.0341 | eps=0.22157306450637101
+Last episode 1950 rewards: 29.28999999999998 last episode loss: 0.03409995511174202 , iter: 322250, best 84.0 best
+Ep 1955 | avg100=23.82 , 29.01 | last_loss=0.0359 | eps=0.22068818918195798
+Last episode 1955 rewards: 16.730000000000004 last episode loss: 0.035909563302993774 , iter: 323173, best 84.0 best
+Ep 1960 | avg100=23.64 , 28.82 | last_loss=0.0261 | eps=0.21980684770016928
+Last episode 1960 rewards: 26.13 last episode loss: 0.0260685496032238 , iter: 324109, best 84.0 best
+Ep 1965 | avg100=23.67 , 28.84 | last_loss=0.1418 | eps=0.2189290259482329
+Last episode 1965 rewards: 23.550000000000008 last episode loss: 0.14175844192504883 , iter: 325032, best 84.0 best
+Ep 1970 | avg100=23.55 , 28.71 | last_loss=0.0404 | eps=0.21805470986973768
+Last episode 1970 rewards: 20.49000000000001 last episode loss: 0.04038738086819649 , iter: 326014, best 84.0 best
+Ep 1975 | avg100=23.58 , 28.74 | last_loss=0.0312 | eps=0.21718388546440826
+Last episode 1975 rewards: 23.170000000000005 last episode loss: 0.031161483377218246 , iter: 327078, best 84.0 best
+Ep 1980 | avg100=23.62 , 28.78 | last_loss=0.0444 | eps=0.2163165387878808
+Last episode 1980 rewards: 30.43 last episode loss: 0.04442550614476204 , iter: 328091, best 84.0 best
+Ep 1985 | avg100=23.74 , 28.88 | last_loss=0.1115 | eps=0.21545265595147975
+Last episode 1985 rewards: 23.619999999999997 last episode loss: 0.11147668957710266 , iter: 329139, best 84.0 best
+Ep 1990 | avg100=23.62 , 28.75 | last_loss=0.0751 | eps=0.2145922231219955
+Last episode 1990 rewards: 19.400000000000002 last episode loss: 0.07511766254901886 , iter: 330058, best 84.0 best
+Ep 1995 | avg100=23.67 , 28.80 | last_loss=0.2438 | eps=0.2137352265214627
+Last episode 1995 rewards: 21.570000000000004 last episode loss: 0.24376694858074188 , iter: 330999, best 84.0 best
+Ep 2000 | avg100=23.50 , 28.63 | last_loss=0.0582 | eps=0.2128816524269399
+Last episode 2000 rewards: 25.31999999999999 last episode loss: 0.05817495658993721 , iter: 331922, best 84.0 best
+Ep 2005 | avg100=23.19 , 28.31 | last_loss=0.0289 | eps=0.21203148717028952
+Last episode 2005 rewards: 18.710000000000004 last episode loss: 0.028908807784318924 , iter: 332731, best 84.0 best
+Ep 2010 | avg100=22.90 , 28.02 | last_loss=0.0860 | eps=0.2111847171379592
+Last episode 2010 rewards: 19.190000000000005 last episode loss: 0.08600416779518127 , iter: 333601, best 84.0 best
+Ep 2015 | avg100=22.91 , 28.02 | last_loss=0.0781 | eps=0.2103413287707637
+Last episode 2015 rewards: 23.119999999999997 last episode loss: 0.07813393324613571 , iter: 334574, best 84.0 best
+Ep 2020 | avg100=22.93 , 28.04 | last_loss=0.0520 | eps=0.20950130856366786
+Last episode 2020 rewards: 14.770000000000005 last episode loss: 0.052041247487068176 , iter: 335526, best 84.0 best
+Ep 2025 | avg100=22.86 , 27.49 | last_loss=0.1328 | eps=0.20866464306557025
+Last episode 2025 rewards: 25.52999999999999 last episode loss: 0.1328403353691101 , iter: 336499, best 84.0 best
+Ep 2030 | avg100=22.82 , 27.44 | last_loss=0.1417 | eps=0.20783131887908787
+Last episode 2030 rewards: 20.540000000000003 last episode loss: 0.14172929525375366 , iter: 337466, best 84.0 best
+Ep 2035 | avg100=22.77 , 27.38 | last_loss=0.0377 | eps=0.20700132266034155
+Last episode 2035 rewards: 17.689999999999998 last episode loss: 0.03774353116750717 , iter: 338398, best 84.0 best
+Ep 2040 | avg100=22.70 , 27.30 | last_loss=0.0678 | eps=0.20617464111874229
+Last episode 2040 rewards: 21.57 last episode loss: 0.06779761612415314 , iter: 339279, best 84.0 best
+Ep 2045 | avg100=22.57 , 27.16 | last_loss=0.0820 | eps=0.20535126101677847
+Last episode 2045 rewards: 30.11999999999999 last episode loss: 0.08202870190143585 , iter: 340136, best 84.0 best
+Ep 2050 | avg100=22.47 , 27.05 | last_loss=0.0439 | eps=0.20453116916980388
+Last episode 2050 rewards: 13.500000000000007 last episode loss: 0.04394104331731796 , iter: 341010, best 84.0 best
+Ep 2055 | avg100=22.35 , 26.93 | last_loss=0.1644 | eps=0.20371435244582656
+Last episode 2055 rewards: 12.950000000000001 last episode loss: 0.1644275039434433 , iter: 341835, best 84.0 best
+Ep 2060 | avg100=22.40 , 26.98 | last_loss=0.0682 | eps=0.20290079776529854
+Last episode 2060 rewards: 26.63 last episode loss: 0.06817913800477982 , iter: 342728, best 84.0 best
+Ep 2065 | avg100=22.40 , 26.98 | last_loss=0.0264 | eps=0.20209049210090638
+Last episode 2065 rewards: 25.290000000000006 last episode loss: 0.026353515684604645 , iter: 343725, best 84.0 best
+Ep 2070 | avg100=22.49 , 27.06 | last_loss=0.0932 | eps=0.20128342247736267
+Last episode 2070 rewards: 35.430000000000014 last episode loss: 0.09323878586292267 , iter: 344622, best 84.0 best
+Ep 2075 | avg100=22.40 , 26.97 | last_loss=0.0508 | eps=0.20047957597119806
+Last episode 2075 rewards: 28.53 last episode loss: 0.05084298178553581 , iter: 345497, best 84.0 best
+Ep 2080 | avg100=22.35 , 26.91 | last_loss=0.0399 | eps=0.19967893971055453
+Last episode 2080 rewards: 29.09 last episode loss: 0.03994585573673248 , iter: 346452, best 84.0 best
+Ep 2085 | avg100=22.25 , 26.81 | last_loss=0.1165 | eps=0.19888150087497913
+Last episode 2085 rewards: 24.379999999999992 last episode loss: 0.11649365723133087 , iter: 347357, best 84.0 best
+Ep 2090 | avg100=22.27 , 26.83 | last_loss=0.0360 | eps=0.19808724669521877
+Last episode 2090 rewards: 24.76 last episode loss: 0.035984061658382416 , iter: 348220, best 84.0 best
+Ep 2095 | avg100=22.47 , 27.04 | last_loss=0.0910 | eps=0.19729616445301562
+Last episode 2095 rewards: 31.919999999999984 last episode loss: 0.09095273911952972 , iter: 349247, best 84.0 best
+Ep 2100 | avg100=22.53 , 27.09 | last_loss=0.0805 | eps=0.19650824148090368
+Last episode 2100 rewards: 18.560000000000006 last episode loss: 0.08053182810544968 , iter: 350101, best 84.0 best
+Ep 2105 | avg100=22.63 , 27.19 | last_loss=0.0370 | eps=0.19572346516200573
+Last episode 2105 rewards: 24.45 last episode loss: 0.03699912503361702 , iter: 351014, best 84.0 best
+Ep 2110 | avg100=22.65 , 27.22 | last_loss=0.0459 | eps=0.1949418229298314
+Last episode 2110 rewards: 22.519999999999996 last episode loss: 0.045901305973529816 , iter: 351937, best 84.0 best
+Ep 2115 | avg100=22.41 , 26.98 | last_loss=0.1415 | eps=0.19416330226807582
+Last episode 2115 rewards: 25.599999999999998 last episode loss: 0.14146369695663452 , iter: 352859, best 84.0 best
+Ep 2120 | avg100=22.39 , 26.98 | last_loss=0.0662 | eps=0.19338789071041948
+Last episode 2120 rewards: 22.400000000000006 last episode loss: 0.06619071960449219 , iter: 353819, best 84.0 best
+Ep 2125 | avg100=22.52 , 27.10 | last_loss=0.0383 | eps=0.19261557584032832
+Last episode 2125 rewards: 18.369999999999994 last episode loss: 0.038335926830768585 , iter: 354748, best 84.0 best
+Ep 2130 | avg100=22.42 , 27.01 | last_loss=0.2132 | eps=0.191846345290855
+Last episode 2130 rewards: 22.31000000000001 last episode loss: 0.21316371858119965 , iter: 355675, best 84.0 best
+Ep 2135 | avg100=22.36 , 26.96 | last_loss=0.0255 | eps=0.19108018674444097
+Last episode 2135 rewards: 16.41000000000001 last episode loss: 0.025466736406087875 , iter: 356584, best 84.0 best
+Ep 2140 | avg100=22.39 , 27.00 | last_loss=0.0677 | eps=0.19031708793271906
+Last episode 2140 rewards: 16.300000000000004 last episode loss: 0.06774506717920303 , iter: 357482, best 84.0 best
+Ep 2145 | avg100=22.21 , 26.83 | last_loss=0.0331 | eps=0.18955703663631712
+Last episode 2145 rewards: 20.490000000000002 last episode loss: 0.03310925513505936 , iter: 358393, best 84.0 best
+Ep 2150 | avg100=22.24 , 26.87 | last_loss=0.0368 | eps=0.18880002068466242
+Last episode 2150 rewards: 22.39 last episode loss: 0.03677920997142792 , iter: 359346, best 84.0 best
+Ep 2155 | avg100=22.46 , 27.10 | last_loss=0.0438 | eps=0.18804602795578665
+Last episode 2155 rewards: 22.509999999999998 last episode loss: 0.04375152289867401 , iter: 360311, best 84.0 best
+Ep 2160 | avg100=22.25 , 26.89 | last_loss=0.0540 | eps=0.18729504637613179
+Last episode 2160 rewards: 21.539999999999996 last episode loss: 0.053954388946294785 , iter: 361130, best 84.0 best
+Ep 2165 | avg100=21.97 , 26.61 | last_loss=0.0322 | eps=0.18654706392035691
+Last episode 2165 rewards: 20.650000000000002 last episode loss: 0.03218137100338936 , iter: 361945, best 84.0 best
+Ep 2170 | avg100=21.92 , 26.56 | last_loss=0.0660 | eps=0.1858020686111456
+Last episode 2170 rewards: 20.489999999999995 last episode loss: 0.06597505509853363 , iter: 362861, best 84.0 best
+Ep 2175 | avg100=21.94 , 26.58 | last_loss=0.1624 | eps=0.18506004851901398
+Last episode 2175 rewards: 24.100000000000005 last episode loss: 0.1623542159795761 , iter: 363698, best 84.0 best
+Ep 2180 | avg100=21.84 , 26.48 | last_loss=0.0476 | eps=0.18432099176211994
+Last episode 2180 rewards: 20.270000000000007 last episode loss: 0.04760223627090454 , iter: 364600, best 84.0 best
+Ep 2185 | avg100=21.63 , 26.27 | last_loss=0.1272 | eps=0.1835848865060727
+Last episode 2185 rewards: 20.529999999999998 last episode loss: 0.12722404301166534 , iter: 365459, best 84.0 best
+Ep 2190 | avg100=21.51 , 26.15 | last_loss=0.0887 | eps=0.18285172096374333
+Last episode 2190 rewards: 20.500000000000004 last episode loss: 0.08872544765472412 , iter: 366260, best 84.0 best
+Ep 2195 | avg100=21.19 , 25.82 | last_loss=0.2118 | eps=0.18212148339507608
+Last episode 2195 rewards: 14.490000000000009 last episode loss: 0.21178895235061646 , iter: 367137, best 84.0 best
+Ep 2200 | avg100=21.21 , 25.85 | last_loss=0.0612 | eps=0.18139416210690043
+Last episode 2200 rewards: 24.330000000000005 last episode loss: 0.06123199686408043 , iter: 368038, best 84.0 best
+Ep 2205 | avg100=21.25 , 25.88 | last_loss=0.2157 | eps=0.1806697454527436
+Last episode 2205 rewards: 28.379999999999995 last episode loss: 0.21570995450019836 , iter: 368858, best 84.0 best
+Ep 2210 | avg100=21.31 , 25.95 | last_loss=0.0318 | eps=0.17994822183264436
+Last episode 2210 rewards: 28.349999999999998 last episode loss: 0.03178207576274872 , iter: 369760, best 84.0 best
+Ep 2215 | avg100=21.35 , 25.98 | last_loss=0.2062 | eps=0.17922957969296707
+Last episode 2215 rewards: 21.03999999999999 last episode loss: 0.2061619609594345 , iter: 370719, best 84.0 best
+Ep 2220 | avg100=21.45 , 26.07 | last_loss=0.0540 | eps=0.1785138075262168
+Last episode 2220 rewards: 20.64 last episode loss: 0.05397180840373039 , iter: 371606, best 84.0 best
+Ep 2225 | avg100=21.29 , 25.90 | last_loss=0.0819 | eps=0.1778008938708549
+Last episode 2225 rewards: 21.389999999999997 last episode loss: 0.08185072988271713 , iter: 372472, best 84.0 best
+Ep 2230 | avg100=21.27 , 25.86 | last_loss=0.1862 | eps=0.17709082731111575
+Last episode 2230 rewards: 27.530000000000005 last episode loss: 0.18622027337551117 , iter: 373157, best 84.0 best
+Ep 2235 | avg100=21.15 , 25.75 | last_loss=0.2009 | eps=0.17638359647682364
+Last episode 2235 rewards: 12.210000000000013 last episode loss: 0.20089542865753174 , iter: 374014, best 84.0 best
+Ep 2240 | avg100=21.28 , 25.87 | last_loss=0.0725 | eps=0.17567919004321095
+Last episode 2240 rewards: 27.259999999999998 last episode loss: 0.07248999178409576 , iter: 374866, best 84.0 best
+Ep 2245 | avg100=21.36 , 25.95 | last_loss=0.2319 | eps=0.17497759673073665
+Last episode 2245 rewards: 15.400000000000011 last episode loss: 0.2319336235523224 , iter: 375726, best 84.0 best
+Ep 2250 | avg100=21.19 , 25.77 | last_loss=0.0896 | eps=0.17427880530490575
+Last episode 2250 rewards: 14.600000000000007 last episode loss: 0.08959551155567169 , iter: 376522, best 84.0 best
+Ep 2255 | avg100=21.07 , 25.65 | last_loss=0.1241 | eps=0.17358280457608943
+Last episode 2255 rewards: 18.170000000000005 last episode loss: 0.12408465147018433 , iter: 377377, best 84.0 best
+Ep 2260 | avg100=21.26 , 25.84 | last_loss=0.0438 | eps=0.17288958339934582
+Last episode 2260 rewards: 16.60000000000001 last episode loss: 0.04384329169988632 , iter: 378163, best 84.0 best
+Ep 2265 | avg100=21.45 , 26.03 | last_loss=0.0482 | eps=0.1721991306742415
+Last episode 2265 rewards: 22.670000000000005 last episode loss: 0.0482008159160614 , iter: 379040, best 84.0 best
+Ep 2270 | avg100=21.55 , 26.13 | last_loss=0.0330 | eps=0.17151143534467386
+Last episode 2270 rewards: 16.530000000000005 last episode loss: 0.03303256258368492 , iter: 379882, best 84.0 best
+Ep 2275 | avg100=21.54 , 26.11 | last_loss=0.0854 | eps=0.170826486398694
+Last episode 2275 rewards: 14.690000000000003 last episode loss: 0.08539828658103943 , iter: 380686, best 84.0 best
+Ep 2280 | avg100=21.46 , 26.03 | last_loss=0.1096 | eps=0.17014427286833034
+Last episode 2280 rewards: 19.44000000000001 last episode loss: 0.10962960124015808 , iter: 381437, best 84.0 best
+Ep 2285 | avg100=21.38 , 25.95 | last_loss=0.3372 | eps=0.16946478382941307
+Last episode 2285 rewards: 13.510000000000003 last episode loss: 0.3372277021408081 , iter: 382169, best 84.0 best
+Ep 2290 | avg100=21.47 , 26.04 | last_loss=0.0728 | eps=0.1687880084013992
+Last episode 2290 rewards: 22.35 last episode loss: 0.07284634560346603 , iter: 383013, best 84.0 best
+Ep 2295 | avg100=21.49 , 26.05 | last_loss=0.0811 | eps=0.1681139357471984
+Last episode 2295 rewards: 24.489999999999995 last episode loss: 0.08107303828001022 , iter: 383814, best 84.0 best
+Ep 2300 | avg100=21.50 , 26.05 | last_loss=0.1475 | eps=0.16744255507299927
+Last episode 2300 rewards: 19.630000000000006 last episode loss: 0.14748762547969818 , iter: 384624, best 84.0 best
+Ep 2305 | avg100=21.53 , 26.08 | last_loss=0.1959 | eps=0.16677385562809668
+Last episode 2305 rewards: 25.66999999999999 last episode loss: 0.19588255882263184 , iter: 385444, best 84.0 best
+Ep 2310 | avg100=21.58 , 26.13 | last_loss=0.2632 | eps=0.16610782670471966
+Last episode 2310 rewards: 21.73999999999996 last episode loss: 0.2632162272930145 , iter: 386508, best 84.0 best
+Ep 2315 | avg100=21.40 , 25.95 | last_loss=0.0340 | eps=0.1654444576378597
+Last episode 2315 rewards: 20.430000000000007 last episode loss: 0.034022800624370575 , iter: 387309, best 84.0 best
+Ep 2320 | avg100=21.13 , 25.69 | last_loss=0.0873 | eps=0.16478373780510028
+Last episode 2320 rewards: 20.020000000000003 last episode loss: 0.08730727434158325 , iter: 388095, best 84.0 best
+Ep 2325 | avg100=21.04 , 25.59 | last_loss=0.1697 | eps=0.1641256566264465
+Last episode 2325 rewards: 18.539999999999992 last episode loss: 0.16971838474273682 , iter: 388764, best 84.0 best
+Ep 2330 | avg100=21.08 , 25.64 | last_loss=0.1647 | eps=0.16347020356415579
+Last episode 2330 rewards: 19.269999999999992 last episode loss: 0.16468098759651184 , iter: 389584, best 84.0 best
+Ep 2335 | avg100=21.16 , 25.71 | last_loss=0.0839 | eps=0.16281736812256928
+Last episode 2335 rewards: 19.700000000000003 last episode loss: 0.0838734358549118 , iter: 390372, best 84.0 best
+Ep 2340 | avg100=21.06 , 25.61 | last_loss=0.0491 | eps=0.16216713984794348
+Last episode 2340 rewards: 20.50999999999999 last episode loss: 0.049064479768276215 , iter: 391237, best 84.0 best
+Ep 2345 | avg100=20.92 , 25.47 | last_loss=0.1526 | eps=0.16151950832828302
+Last episode 2345 rewards: 20.419999999999998 last episode loss: 0.152617946267128 , iter: 391943, best 84.0 best
+Ep 2350 | avg100=21.03 , 25.57 | last_loss=0.0608 | eps=0.160874463193174
+Last episode 2350 rewards: 24.319999999999993 last episode loss: 0.060844700783491135 , iter: 392796, best 84.0 best
+Ep 2355 | avg100=20.98 , 25.51 | last_loss=0.0827 | eps=0.1602319941136179
+Last episode 2355 rewards: 17.68 last episode loss: 0.08270230889320374 , iter: 393526, best 84.0 best
+Ep 2360 | avg100=20.79 , 25.32 | last_loss=0.0297 | eps=0.159592090801866
+Last episode 2360 rewards: 10.540000000000003 last episode loss: 0.02970193326473236 , iter: 394292, best 84.0 best
+Ep 2365 | avg100=20.81 , 25.34 | last_loss=0.2428 | eps=0.15895474301125495
+Last episode 2365 rewards: 18.680000000000003 last episode loss: 0.2428380697965622 , iter: 395143, best 84.0 best
+Ep 2370 | avg100=20.83 , 25.36 | last_loss=0.0384 | eps=0.1583199405360424
+Last episode 2370 rewards: 11.710000000000003 last episode loss: 0.03843935579061508 , iter: 395940, best 84.0 best
+Ep 2375 | avg100=20.87 , 25.40 | last_loss=0.0531 | eps=0.15768767321124375
+Last episode 2375 rewards: 17.590000000000003 last episode loss: 0.05310878902673721 , iter: 396755, best 84.0 best
+Ep 2380 | avg100=21.02 , 25.55 | last_loss=0.0692 | eps=0.15705793091246928
+Last episode 2380 rewards: 14.680000000000003 last episode loss: 0.069233238697052 , iter: 397527, best 84.0 best
+Ep 2385 | avg100=21.17 , 25.70 | last_loss=0.0301 | eps=0.15643070355576222
+Last episode 2385 rewards: 23.38999999999998 last episode loss: 0.030054302886128426 , iter: 398355, best 84.0 best
+Ep 2390 | avg100=21.18 , 25.72 | last_loss=0.1469 | eps=0.15580598109743704
+Last episode 2390 rewards: 21.419999999999995 last episode loss: 0.14693912863731384 , iter: 399179, best 84.0 best
+Ep 2395 | avg100=21.17 , 25.71 | last_loss=0.1590 | eps=0.15518375353391872
+Last episode 2395 rewards: 15.580000000000007 last episode loss: 0.15900199115276337 , iter: 400014, best 84.0 best
+Ep 2400 | avg100=21.13 , 25.67 | last_loss=0.0610 | eps=0.1545640109015826
+Last episode 2400 rewards: 23.410000000000004 last episode loss: 0.061006657779216766 , iter: 400826, best 84.0 best
+Ep 2405 | avg100=20.97 , 25.51 | last_loss=0.0413 | eps=0.15394674327659477
+Last episode 2405 rewards: 27.430000000000007 last episode loss: 0.0412747822701931 , iter: 401570, best 84.0 best
+Ep 2410 | avg100=20.77 , 25.29 | last_loss=0.0585 | eps=0.15333194077475323
+Last episode 2410 rewards: 15.450000000000006 last episode loss: 0.05849233642220497 , iter: 402323, best 84.0 best
+Ep 2415 | avg100=20.82 , 25.33 | last_loss=0.2223 | eps=0.15271959355132958
+Last episode 2415 rewards: 16.44 last episode loss: 0.22225645184516907 , iter: 403069, best 84.0 best
+Ep 2420 | avg100=21.17 , 25.67 | last_loss=0.1147 | eps=0.15210969180091136
+Last episode 2420 rewards: 27.74999999999999 last episode loss: 0.11465540528297424 , iter: 403904, best 84.0 best
+Ep 2425 | avg100=21.41 , 25.91 | last_loss=0.0733 | eps=0.15150222575724506
+Last episode 2425 rewards: 24.75 last episode loss: 0.07325689494609833 , iter: 404752, best 84.0 best
+Ep 2430 | avg100=21.54 , 26.04 | last_loss=0.1068 | eps=0.15089718569307975
+Last episode 2430 rewards: 24.639999999999983 last episode loss: 0.10679243505001068 , iter: 405520, best 84.0 best
+Ep 2435 | avg100=21.53 , 26.03 | last_loss=0.0473 | eps=0.15029456192001125
+Last episode 2435 rewards: 24.50999999999999 last episode loss: 0.04731772094964981 , iter: 406263, best 84.0 best
+Ep 2440 | avg100=21.60 , 26.09 | last_loss=0.0897 | eps=0.14969434478832708
+Last episode 2440 rewards: 23.52 last episode loss: 0.089678093791008 , iter: 407149, best 84.0 best
+Ep 2445 | avg100=21.72 , 26.22 | last_loss=0.0261 | eps=0.1490965246868519
+Last episode 2445 rewards: 30.519999999999996 last episode loss: 0.02609403431415558 , iter: 407954, best 84.0 best
+Ep 2450 | avg100=21.90 , 26.41 | last_loss=0.0916 | eps=0.14850109204279355
+Last episode 2450 rewards: 28.089999999999993 last episode loss: 0.09159869700670242 , iter: 408875, best 84.0 best
+Ep 2455 | avg100=22.03 , 26.55 | last_loss=0.0311 | eps=0.1479080373215899
+Last episode 2455 rewards: 22.67 last episode loss: 0.031132198870182037 , iter: 409756, best 84.0 best
+Ep 2460 | avg100=22.29 , 26.82 | last_loss=0.0942 | eps=0.1473173510267561
+Last episode 2460 rewards: 23.210000000000004 last episode loss: 0.0941704660654068 , iter: 410665, best 84.0 best
+Ep 2465 | avg100=22.20 , 26.73 | last_loss=0.0959 | eps=0.14672902369973245
+Last episode 2465 rewards: 16.610000000000003 last episode loss: 0.09592872858047485 , iter: 411489, best 84.0 best
+Ep 2470 | avg100=21.98 , 26.51 | last_loss=0.1504 | eps=0.14614304591973304
+Last episode 2470 rewards: 15.460000000000004 last episode loss: 0.1503918468952179 , iter: 412182, best 84.0 best
+Ep 2475 | avg100=21.96 , 26.48 | last_loss=0.0735 | eps=0.14555940830359487
+Last episode 2475 rewards: 23.640000000000004 last episode loss: 0.07354209572076797 , iter: 412936, best 84.0 best
+Ep 2480 | avg100=22.04 , 26.57 | last_loss=0.1118 | eps=0.14497810150562748
+Last episode 2480 rewards: 31.459999999999994 last episode loss: 0.11182428151369095 , iter: 413803, best 84.0 best
+Ep 2485 | avg100=22.00 , 26.53 | last_loss=0.1037 | eps=0.1443991162174636
+Last episode 2485 rewards: 17.220000000000013 last episode loss: 0.10368950664997101 , iter: 414671, best 84.0 best
+Ep 2490 | avg100=21.93 , 26.44 | last_loss=0.0545 | eps=0.1438224431679097
+Last episode 2490 rewards: 20.329999999999984 last episode loss: 0.0545162595808506 , iter: 415412, best 84.0 best
+Ep 2495 | avg100=21.78 , 26.29 | last_loss=0.0303 | eps=0.14324807312279794
+Last episode 2495 rewards: 18.640000000000004 last episode loss: 0.030268754810094833 , iter: 416110, best 84.0 best
+Ep 2500 | avg100=21.85 , 26.36 | last_loss=0.0372 | eps=0.14267599688483792
+Last episode 2500 rewards: 27.679999999999996 last episode loss: 0.03721342980861664 , iter: 417039, best 84.0 best
+Ep 2505 | avg100=21.96 , 26.48 | last_loss=0.0455 | eps=0.14210620529346968
+Last episode 2505 rewards: 18.51 last episode loss: 0.04548473283648491 , iter: 417898, best 84.0 best
+Ep 2510 | avg100=22.01 , 26.54 | last_loss=0.0720 | eps=0.14153868922471688
+Last episode 2510 rewards: 19.269999999999968 last episode loss: 0.07196006178855896 , iter: 418752, best 84.0 best
+Ep 2515 | avg100=22.16 , 26.70 | last_loss=0.0912 | eps=0.1409734395910408
+Last episode 2515 rewards: 23.939999999999994 last episode loss: 0.09124188125133514 , iter: 419634, best 84.0 best
+Ep 2520 | avg100=22.29 , 26.84 | last_loss=0.0393 | eps=0.14041044734119468
+Last episode 2520 rewards: 25.64999999999999 last episode loss: 0.0393192321062088 , iter: 420523, best 84.0 best
+Ep 2525 | avg100=22.53 , 27.08 | last_loss=0.0289 | eps=0.1398497034600789
+Last episode 2525 rewards: 30.719999999999988 last episode loss: 0.028909366577863693 , iter: 421368, best 84.0 best
+Ep 2530 | avg100=22.64 , 27.19 | last_loss=0.1144 | eps=0.1392911989685966
+Last episode 2530 rewards: 30.599999999999987 last episode loss: 0.1144469827413559 , iter: 422282, best 84.0 best
+Ep 2535 | avg100=22.53 , 27.08 | last_loss=0.0422 | eps=0.1387349249235099
+Last episode 2535 rewards: 17.30999999999999 last episode loss: 0.04217565059661865 , iter: 422992, best 84.0 best
+Ep 2540 | avg100=22.35 , 26.89 | last_loss=0.0765 | eps=0.1381808724172966
+Last episode 2540 rewards: 18.39000000000001 last episode loss: 0.07649491727352142 , iter: 423706, best 84.0 best
+Ep 2545 | avg100=22.20 , 26.74 | last_loss=0.0713 | eps=0.13762903257800777
+Last episode 2545 rewards: 16.230000000000004 last episode loss: 0.0712624043226242 , iter: 424509, best 84.0 best
+Ep 2550 | avg100=22.01 , 26.54 | last_loss=0.0498 | eps=0.1370793965691254
+Last episode 2550 rewards: 18.230000000000004 last episode loss: 0.04979006201028824 , iter: 425263, best 84.0 best
+Ep 2555 | avg100=22.00 , 26.53 | last_loss=0.0848 | eps=0.1365319555894211
+Last episode 2555 rewards: 29.23999999999999 last episode loss: 0.08476904034614563 , iter: 426126, best 84.0 best
+Ep 2560 | avg100=22.01 , 26.53 | last_loss=0.0236 | eps=0.13598670087281514
+Last episode 2560 rewards: 25.509999999999994 last episode loss: 0.023563377559185028 , iter: 426930, best 84.0 best
+Ep 2565 | avg100=22.28 , 26.81 | last_loss=0.0341 | eps=0.135443623688236
+Last episode 2565 rewards: 19.570000000000004 last episode loss: 0.03413392975926399 , iter: 427841, best 84.0 best
+Ep 2570 | avg100=22.59 , 27.12 | last_loss=0.0313 | eps=0.13490271533948064
+Last episode 2570 rewards: 21.470000000000002 last episode loss: 0.0312744677066803 , iter: 428714, best 84.0 best
+Ep 2575 | avg100=22.78 , 27.32 | last_loss=0.0277 | eps=0.13436396716507518
+Last episode 2575 rewards: 27.490000000000002 last episode loss: 0.027722986415028572 , iter: 429542, best 84.0 best
+Ep 2580 | avg100=22.98 , 27.50 | last_loss=0.0403 | eps=0.13382737053813631
+Last episode 2580 rewards: 29.739999999999995 last episode loss: 0.040251657366752625 , iter: 430344, best 84.0 best
+Ep 2585 | avg100=23.23 , 27.75 | last_loss=0.0346 | eps=0.1332929168662331
+Last episode 2585 rewards: 29.259999999999987 last episode loss: 0.03459189832210541 , iter: 431208, best 84.0 best
+Ep 2590 | avg100=23.42 , 27.95 | last_loss=0.0836 | eps=0.13276059759124934
+Last episode 2590 rewards: 21.58 last episode loss: 0.08363513648509979 , iter: 432040, best 84.0 best
+Ep 2595 | avg100=23.61 , 28.13 | last_loss=0.0746 | eps=0.1322304041892465
+Last episode 2595 rewards: 17.620000000000005 last episode loss: 0.07458822429180145 , iter: 432770, best 84.0 best
+Ep 2600 | avg100=23.50 , 28.02 | last_loss=0.0360 | eps=0.13170232817032743
+Last episode 2600 rewards: 20.58 last episode loss: 0.03596356511116028 , iter: 433504, best 84.0 best
+Ep 2605 | avg100=23.75 , 28.28 | last_loss=0.0867 | eps=0.13117636107850014
+Last episode 2605 rewards: 22.019999999999975 last episode loss: 0.08668958395719528 , iter: 434539, best 84.0 best
+Ep 2610 | avg100=23.96 , 28.48 | last_loss=0.0767 | eps=0.1306524944915427
+Last episode 2610 rewards: 31.309999999999995 last episode loss: 0.07673580944538116 , iter: 435310, best 84.0 best
+Ep 2615 | avg100=24.02 , 28.55 | last_loss=0.0463 | eps=0.13013072002086803
+Last episode 2615 rewards: 24.36999999999998 last episode loss: 0.04630710929632187 , iter: 436307, best 84.0 best
+Ep 2620 | avg100=23.87 , 28.39 | last_loss=0.1210 | eps=0.12961102931138987
+Last episode 2620 rewards: 20.22 last episode loss: 0.12097445875406265 , iter: 437171, best 84.0 best
+Ep 2625 | avg100=23.88 , 28.40 | last_loss=0.1350 | eps=0.12909341404138883
+Last episode 2625 rewards: 28.739999999999984 last episode loss: 0.1350412666797638 , iter: 437999, best 84.0 best
+Ep 2630 | avg100=23.92 , 28.44 | last_loss=0.0310 | eps=0.1285778659223792
+Last episode 2630 rewards: 28.310000000000006 last episode loss: 0.03104730136692524 , iter: 438815, best 84.0 best
+Ep 2635 | avg100=24.11 , 28.63 | last_loss=0.1188 | eps=0.12806437669897616
+Last episode 2635 rewards: 22.22999999999997 last episode loss: 0.11883515864610672 , iter: 439581, best 84.0 best
+Ep 2640 | avg100=24.27 , 28.80 | last_loss=0.0661 | eps=0.12755293814876376
+Last episode 2640 rewards: 17.460000000000004 last episode loss: 0.0660611093044281 , iter: 440379, best 84.0 best
+Ep 2645 | avg100=24.64 , 29.15 | last_loss=0.0704 | eps=0.12704354208216298
+Last episode 2645 rewards: 33.79999999999999 last episode loss: 0.07044576108455658 , iter: 441119, best 84.0 best
+Ep 2650 | avg100=24.89 , 29.39 | last_loss=0.0308 | eps=0.12653618034230085
+Last episode 2650 rewards: 31.639999999999997 last episode loss: 0.030842579901218414 , iter: 441874, best 84.0 best
+Ep 2655 | avg100=25.01 , 29.50 | last_loss=0.0967 | eps=0.1260308448048797
+Last episode 2655 rewards: 28.66 last episode loss: 0.09669630229473114 , iter: 442662, best 84.0 best
+Ep 2660 | avg100=25.08 , 29.58 | last_loss=0.0451 | eps=0.12552752737804704
+Last episode 2660 rewards: 26.22000000000001 last episode loss: 0.04506887495517731 , iter: 443594, best 84.0 best
+Ep 2665 | avg100=25.00 , 29.50 | last_loss=0.0538 | eps=0.12502622000226615
+Last episode 2665 rewards: 23.339999999999975 last episode loss: 0.05377897247672081 , iter: 444473, best 84.0 best
+Ep 2670 | avg100=24.89 , 29.39 | last_loss=0.0946 | eps=0.12452691465018685
+Last episode 2670 rewards: 21.540000000000003 last episode loss: 0.0945843830704689 , iter: 445270, best 84.0 best
+Ep 2675 | avg100=24.73 , 29.23 | last_loss=0.0764 | eps=0.12402960332651705
+Last episode 2675 rewards: 16.400000000000006 last episode loss: 0.07639707624912262 , iter: 446089, best 84.0 best
+Ep 2680 | avg100=24.38 , 28.89 | last_loss=0.1276 | eps=0.12353427806789466
+Last episode 2680 rewards: 19.420000000000005 last episode loss: 0.1275741457939148 , iter: 446982, best 84.0 best
+Ep 2685 | avg100=24.26 , 28.78 | last_loss=0.1616 | eps=0.12304093094276017
+Last episode 2685 rewards: 31.33999999999999 last episode loss: 0.1615508496761322 , iter: 447802, best 84.0 best
+Ep 2690 | avg100=24.29 , 28.81 | last_loss=0.0398 | eps=0.12254955405122951
+Last episode 2690 rewards: 23.38 last episode loss: 0.03983072191476822 , iter: 448642, best 84.0 best
+Ep 2695 | avg100=24.37 , 28.90 | last_loss=0.0564 | eps=0.12206013952496775
+Last episode 2695 rewards: 18.27000000000001 last episode loss: 0.0563640333712101 , iter: 449488, best 84.0 best
+Ep 2700 | avg100=24.51 , 29.05 | last_loss=0.0969 | eps=0.12157267952706284
+Last episode 2700 rewards: 22.759999999999998 last episode loss: 0.09690728783607483 , iter: 450325, best 84.0 best
+Ep 2705 | avg100=24.38 , 28.91 | last_loss=0.1048 | eps=0.12108716625190036
+Last episode 2705 rewards: 26.970000000000013 last episode loss: 0.10484884679317474 , iter: 451185, best 84.0 best
+Ep 2710 | avg100=24.55 , 29.07 | last_loss=0.0248 | eps=0.1206035919250384
+Last episode 2710 rewards: 29.660000000000004 last episode loss: 0.024829022586345673 , iter: 452072, best 84.0 best
+Ep 2715 | avg100=24.61 , 29.11 | last_loss=0.0205 | eps=0.12012194880308312
+Last episode 2715 rewards: 29.66 last episode loss: 0.02047288790345192 , iter: 452836, best 84.0 best
+Ep 2720 | avg100=24.57 , 29.07 | last_loss=0.0392 | eps=0.1196422291735647
+Last episode 2720 rewards: 22.829999999999995 last episode loss: 0.03915216773748398 , iter: 453624, best 84.0 best
+Ep 2725 | avg100=24.48 , 28.98 | last_loss=0.0918 | eps=0.1191644253548139
+Last episode 2725 rewards: 26.579999999999977 last episode loss: 0.0918082594871521 , iter: 454479, best 84.0 best
+Ep 2730 | avg100=24.33 , 28.83 | last_loss=0.0611 | eps=0.11868852969583907
+Last episode 2730 rewards: 22.21 last episode loss: 0.06111817806959152 , iter: 455288, best 84.0 best
+Ep 2735 | avg100=24.47 , 28.97 | last_loss=0.1052 | eps=0.11821453457620353
+Last episode 2735 rewards: 14.520000000000007 last episode loss: 0.10522373020648956 , iter: 456059, best 84.0 best
+Ep 2740 | avg100=24.46 , 28.95 | last_loss=0.2533 | eps=0.11774243240590364
+Last episode 2740 rewards: 18.51 last episode loss: 0.25334087014198303 , iter: 456810, best 84.0 best
+Ep 2745 | avg100=24.29 , 28.78 | last_loss=0.0492 | eps=0.11727221562524727
+Last episode 2745 rewards: 22.589999999999993 last episode loss: 0.04923694208264351 , iter: 457493, best 84.0 best
+Ep 2750 | avg100=24.08 , 28.58 | last_loss=0.1245 | eps=0.11680387670473266
+Last episode 2750 rewards: 17.279999999999987 last episode loss: 0.12454278767108917 , iter: 458312, best 84.0 best
+Ep 2755 | avg100=24.12 , 28.63 | last_loss=0.0364 | eps=0.11633740814492795
+Last episode 2755 rewards: 27.77999999999999 last episode loss: 0.03643469512462616 , iter: 459264, best 84.0 best
+Ep 2760 | avg100=24.22 , 28.73 | last_loss=0.0375 | eps=0.11587280247635104
+Last episode 2760 rewards: 30.189999999999973 last episode loss: 0.03748580068349838 , iter: 460150, best 84.0 best
+Ep 2765 | avg100=24.13 , 28.63 | last_loss=0.1663 | eps=0.11541005225934999
+Last episode 2765 rewards: 24.599999999999994 last episode loss: 0.1663210541009903 , iter: 460890, best 84.0 best
+Ep 2770 | avg100=24.21 , 28.70 | last_loss=0.0196 | eps=0.11494915008398388
+Last episode 2770 rewards: 30.720000000000002 last episode loss: 0.019551504403352737 , iter: 461721, best 84.0 best
+Ep 2775 | avg100=24.27 , 28.77 | last_loss=0.1187 | eps=0.1144900885699042
+Last episode 2775 rewards: 28.56 last episode loss: 0.1187044233083725 , iter: 462602, best 84.0 best
+Ep 2780 | avg100=24.37 , 28.88 | last_loss=0.0347 | eps=0.11403286036623661
+Last episode 2780 rewards: 24.84 last episode loss: 0.03468707948923111 , iter: 463537, best 84.0 best
+Ep 2785 | avg100=24.56 , 29.07 | last_loss=0.1741 | eps=0.11357745815146325
+Last episode 2785 rewards: 18.28999999999999 last episode loss: 0.17412632703781128 , iter: 464465, best 84.0 best
+Ep 2790 | avg100=24.53 , 29.03 | last_loss=0.0320 | eps=0.11312387463330555
+Last episode 2790 rewards: 20.71 last episode loss: 0.03201606124639511 , iter: 465327, best 84.0 best
+Ep 2795 | avg100=24.40 , 28.90 | last_loss=0.2051 | eps=0.11267210254860735
+Last episode 2795 rewards: 21.869999999999983 last episode loss: 0.2051030993461609 , iter: 466147, best 84.0 best
+Ep 2800 | avg100=24.32 , 28.82 | last_loss=0.0929 | eps=0.11222213466321879
+Last episode 2800 rewards: 25.679999999999996 last episode loss: 0.09292472153902054 , iter: 467035, best 84.0 best
+Ep 2805 | avg100=24.20 , 28.70 | last_loss=0.0523 | eps=0.1117739637718802
+Last episode 2805 rewards: 29.450000000000003 last episode loss: 0.052264075726270676 , iter: 467853, best 84.0 best
+Ep 2810 | avg100=23.84 , 28.35 | last_loss=0.0299 | eps=0.11132758269810698
+Last episode 2810 rewards: 23.43999999999999 last episode loss: 0.02986682578921318 , iter: 468646, best 84.0 best
+Ep 2815 | avg100=23.62 , 28.13 | last_loss=0.0351 | eps=0.11088298429407457
+Last episode 2815 rewards: 16.55 last episode loss: 0.03509840369224548 , iter: 469350, best 84.0 best
+Ep 2820 | avg100=23.45 , 27.97 | last_loss=0.0682 | eps=0.11044016144050392
+Last episode 2820 rewards: 11.700000000000003 last episode loss: 0.06819212436676025 , iter: 470101, best 84.0 best
+Ep 2825 | avg100=23.35 , 27.87 | last_loss=0.0181 | eps=0.10999910704654761
+Last episode 2825 rewards: 34.810000000000024 last episode loss: 0.018059847876429558 , iter: 471054, best 84.0 best
+Ep 2830 | avg100=23.30 , 27.82 | last_loss=0.0274 | eps=0.10955981404967632
+Last episode 2830 rewards: 31.689999999999987 last episode loss: 0.027376852929592133 , iter: 471828, best 84.0 best
+Ep 2835 | avg100=23.30 , 27.82 | last_loss=0.1033 | eps=0.10912227541556561
+Last episode 2835 rewards: 30.549999999999994 last episode loss: 0.10332988202571869 , iter: 472762, best 84.0 best
+Ep 2840 | avg100=23.26 , 27.78 | last_loss=0.0887 | eps=0.10868648413798339
+Last episode 2840 rewards: 20.549999999999994 last episode loss: 0.0887443795800209 , iter: 473538, best 84.0 best
+Ep 2845 | avg100=23.36 , 27.89 | last_loss=0.0670 | eps=0.10825243323867768
+Last episode 2845 rewards: 34.45 last episode loss: 0.06699158251285553 , iter: 474349, best 84.0 best
+Ep 2850 | avg100=23.42 , 27.94 | last_loss=0.0504 | eps=0.1078201157672649
+Last episode 2850 rewards: 24.339999999999993 last episode loss: 0.050410933792591095 , iter: 475128, best 84.0 best
+Ep 2855 | avg100=23.12 , 27.64 | last_loss=0.1349 | eps=0.10738952480111852
+Last episode 2855 rewards: 20.580000000000002 last episode loss: 0.1349341869354248 , iter: 475858, best 84.0 best
+Ep 2860 | avg100=22.72 , 27.24 | last_loss=0.1513 | eps=0.10696065344525829
+Last episode 2860 rewards: 17.480000000000008 last episode loss: 0.1513335406780243 , iter: 476570, best 84.0 best
+Ep 2865 | avg100=22.60 , 27.12 | last_loss=0.0544 | eps=0.10653349483223977
+Last episode 2865 rewards: 18.629999999999995 last episode loss: 0.054430872201919556 , iter: 477408, best 84.0 best
+Ep 2870 | avg100=22.76 , 27.28 | last_loss=0.0345 | eps=0.10610804212204436
+Last episode 2870 rewards: 31.519999999999992 last episode loss: 0.03445392847061157 , iter: 478298, best 84.0 best
+Ep 2875 | avg100=22.81 , 27.33 | last_loss=0.0671 | eps=0.10568428850196984
+Last episode 2875 rewards: 18.490000000000002 last episode loss: 0.06705299019813538 , iter: 479101, best 84.0 best
+Ep 2880 | avg100=22.92 , 27.43 | last_loss=0.0836 | eps=0.10526222718652122
+Last episode 2880 rewards: 29.759999999999998 last episode loss: 0.0836176648736 , iter: 480008, best 84.0 best
+Ep 2885 | avg100=22.88 , 27.39 | last_loss=0.0499 | eps=0.10484185141730204
+Last episode 2885 rewards: 28.480000000000004 last episode loss: 0.04985234513878822 , iter: 480928, best 84.0 best
+Ep 2890 | avg100=23.07 , 27.59 | last_loss=0.0560 | eps=0.1044231544629063
+Last episode 2890 rewards: 26.31 last episode loss: 0.05596911907196045 , iter: 481852, best 84.0 best
+Ep 2895 | avg100=23.29 , 27.81 | last_loss=0.0416 | eps=0.10400612961881049
+Last episode 2895 rewards: 23.69999999999999 last episode loss: 0.0415574349462986 , iter: 482707, best 84.0 best
+Ep 2900 | avg100=23.43 , 27.94 | last_loss=0.0606 | eps=0.10359077020726638
+Last episode 2900 rewards: 32.65 last episode loss: 0.060564301908016205 , iter: 483527, best 84.0 best
+Ep 2905 | avg100=23.60 , 28.11 | last_loss=0.0535 | eps=0.10317706957719402
+Last episode 2905 rewards: 26.510000000000005 last episode loss: 0.053458113223314285 , iter: 484363, best 84.0 best
+Ep 2910 | avg100=23.63 , 28.14 | last_loss=0.0643 | eps=0.10276502110407522
+Last episode 2910 rewards: 17.11000000000001 last episode loss: 0.06433552503585815 , iter: 485164, best 84.0 best
+Ep 2915 | avg100=23.91 , 28.42 | last_loss=0.1315 | eps=0.10235461818984751
+Last episode 2915 rewards: 32.36999999999999 last episode loss: 0.13154801726341248 , iter: 486097, best 84.0 best
+Ep 2920 | avg100=24.08 , 28.60 | last_loss=0.0363 | eps=0.10194585426279847
+Last episode 2920 rewards: 19.489999999999995 last episode loss: 0.03626542538404465 , iter: 486920, best 84.0 best
+Ep 2925 | avg100=24.13 , 28.64 | last_loss=0.1687 | eps=0.10153872277746052
+Last episode 2925 rewards: 20.439999999999984 last episode loss: 0.1687398999929428 , iter: 487767, best 84.0 best
+Ep 2930 | avg100=24.32 , 28.83 | last_loss=0.0271 | eps=0.10113321721450609
+Last episode 2930 rewards: 15.500000000000007 last episode loss: 0.027095966041088104 , iter: 488753, best 84.0 best
+Ep 2935 | avg100=24.27 , 28.79 | last_loss=0.0485 | eps=0.10072933108064323
+Last episode 2935 rewards: 18.440000000000005 last episode loss: 0.04851346090435982 , iter: 489596, best 84.0 best
+Ep 2940 | avg100=24.68 , 29.20 | last_loss=0.0479 | eps=0.10032705790851165
+Last episode 2940 rewards: 33.46999999999999 last episode loss: 0.047862425446510315 , iter: 490559, best 84.0 best
+Ep 2945 | avg100=24.71 , 29.23 | last_loss=0.0692 | eps=0.0999263912565791
+Last episode 2945 rewards: 29.469999999999978 last episode loss: 0.06922771036624908 , iter: 491460, best 84.0 best
+Ep 2950 | avg100=24.78 , 29.30 | last_loss=0.1801 | eps=0.0995273247090383
+Last episode 2950 rewards: 24.32999999999999 last episode loss: 0.18011915683746338 , iter: 492376, best 84.0 best
+Ep 2955 | avg100=24.87 , 29.39 | last_loss=0.0541 | eps=0.09912985187570417
+Last episode 2955 rewards: 24.37 last episode loss: 0.054133959114551544 , iter: 493191, best 84.0 best
+Ep 2960 | avg100=24.91 , 29.44 | last_loss=0.1814 | eps=0.09873396639191147
+Last episode 2960 rewards: 22.109999999999992 last episode loss: 0.18138433992862701 , iter: 494119, best 84.0 best
+Ep 2965 | avg100=25.08 , 29.61 | last_loss=0.0719 | eps=0.09833966191841298
+Last episode 2965 rewards: 23.68 last episode loss: 0.07190501689910889 , iter: 494916, best 84.0 best
+Ep 2970 | avg100=25.07 , 29.60 | last_loss=0.0304 | eps=0.09794693214127789
+Last episode 2970 rewards: 25.33 last episode loss: 0.03040291741490364 , iter: 495899, best 84.0 best
+Ep 2975 | avg100=25.13 , 29.67 | last_loss=0.0402 | eps=0.09755577077179076
+Last episode 2975 rewards: 26.319999999999997 last episode loss: 0.040169596672058105 , iter: 496744, best 84.0 best
+Ep 2980 | avg100=25.11 , 29.65 | last_loss=0.1802 | eps=0.09716617154635074
+Last episode 2980 rewards: 23.369999999999994 last episode loss: 0.18016430735588074 , iter: 497681, best 84.0 best
+Ep 2985 | avg100=24.88 , 29.42 | last_loss=0.0319 | eps=0.09677812822637138
+Last episode 2985 rewards: 19.380000000000003 last episode loss: 0.03188636898994446 , iter: 498439, best 84.0 best
+Ep 2990 | avg100=24.73 , 29.26 | last_loss=0.0383 | eps=0.0963916345981807
+Last episode 2990 rewards: 25.800000000000004 last episode loss: 0.0383058525621891 , iter: 499212, best 84.0 best
+Ep 2995 | avg100=24.82 , 29.35 | last_loss=0.0835 | eps=0.0960066844729216
+Last episode 2995 rewards: 31.42999999999998 last episode loss: 0.08349844813346863 , iter: 500166, best 84.0 best
+Ep 3000 | avg100=24.85 , 29.38 | last_loss=0.0500 | eps=0.0956232716864529
+Last episode 3000 rewards: 28.359999999999985 last episode loss: 0.05002809315919876 , iter: 501063, best 84.0 best
+Ep 3005 | avg100=24.99 , 29.52 | last_loss=0.0525 | eps=0.09524139009925053
+Last episode 3005 rewards: 28.499999999999996 last episode loss: 0.05247655510902405 , iter: 501954, best 84.0 best
+Ep 3010 | avg100=25.08 , 29.60 | last_loss=0.0684 | eps=0.09486103359630926
+Last episode 3010 rewards: 25.44 last episode loss: 0.06841471046209335 , iter: 502759, best 84.0 best
+Ep 3015 | avg100=25.03 , 29.55 | last_loss=0.1425 | eps=0.09448219608704478
+Last episode 3015 rewards: 25.71999999999999 last episode loss: 0.14246989786624908 , iter: 503634, best 84.0 best
+Ep 3020 | avg100=25.18 , 29.71 | last_loss=0.1613 | eps=0.09410487150519617
+Last episode 3020 rewards: 30.999999999999968 last episode loss: 0.1612643003463745 , iter: 504588, best 84.0 best
+Ep 3025 | avg100=25.28 , 29.82 | last_loss=0.0306 | eps=0.09372905380872876
+Last episode 3025 rewards: 29.65 last episode loss: 0.030566636472940445 , iter: 505583, best 84.0 best
+Ep 3030 | avg100=25.27 , 29.80 | last_loss=0.1396 | eps=0.09335473697973738
+Last episode 3030 rewards: 31.359999999999996 last episode loss: 0.13962692022323608 , iter: 506422, best 84.0 best
+Ep 3035 | avg100=25.50 , 30.03 | last_loss=0.0340 | eps=0.09298191502434999
+Last episode 3035 rewards: 33.54 last episode loss: 0.03398904576897621 , iter: 507266, best 84.0 best
+Ep 3040 | avg100=25.31 , 29.84 | last_loss=0.0978 | eps=0.09261058197263172
+Last episode 3040 rewards: 18.509999999999973 last episode loss: 0.09781262278556824 , iter: 508244, best 84.0 best
+Ep 3045 | avg100=25.33 , 29.87 | last_loss=0.2074 | eps=0.09224073187848926
+Last episode 3045 rewards: 30.03999999999999 last episode loss: 0.20737484097480774 , iter: 509126, best 84.0 best
+Ep 3050 | avg100=25.14 , 29.69 | last_loss=0.0269 | eps=0.09187235881957566
+Last episode 3050 rewards: 19.20999999999997 last episode loss: 0.026864737272262573 , iter: 509940, best 84.0 best
+Ep 3055 | avg100=25.26 , 29.81 | last_loss=0.0892 | eps=0.09150545689719544
+Last episode 3055 rewards: 19.610000000000007 last episode loss: 0.08924803137779236 , iter: 510863, best 84.0 best
+Ep 3060 | avg100=25.47 , 30.02 | last_loss=0.0904 | eps=0.09114002023621022
+Last episode 3060 rewards: 24.220000000000013 last episode loss: 0.09040292352437973 , iter: 511792, best 84.0 best
+Ep 3065 | avg100=25.54 , 30.09 | last_loss=0.0276 | eps=0.0907760429849446
+Last episode 3065 rewards: 30.57 last episode loss: 0.027612673118710518 , iter: 512689, best 84.0 best
+Ep 3070 | avg100=25.60 , 30.15 | last_loss=0.0312 | eps=0.09041351931509245
+Last episode 3070 rewards: 27.339999999999996 last episode loss: 0.031233884394168854 , iter: 513593, best 84.0 best
+Ep 3075 | avg100=25.50 , 30.06 | last_loss=0.0868 | eps=0.0900524434216236
+Last episode 3075 rewards: 22.389999999999986 last episode loss: 0.08675441145896912 , iter: 514523, best 84.0 best
+Ep 3080 | avg100=25.46 , 30.03 | last_loss=0.1886 | eps=0.08969280952269089
+Last episode 3080 rewards: 30.02999999999999 last episode loss: 0.188615083694458 , iter: 515428, best 84.0 best
+Ep 3085 | avg100=25.62 , 30.19 | last_loss=0.0339 | eps=0.08933461185953753
+Last episode 3085 rewards: 28.490000000000002 last episode loss: 0.03391309082508087 , iter: 516399, best 84.0 best
+Ep 3090 | avg100=25.62 , 30.21 | last_loss=0.0301 | eps=0.08897784469640499
+Last episode 3090 rewards: 30.840000000000003 last episode loss: 0.03006146475672722 , iter: 517378, best 84.0 best
+Ep 3095 | avg100=25.51 , 30.10 | last_loss=0.0350 | eps=0.08862250232044105
+Last episode 3095 rewards: 26.470000000000002 last episode loss: 0.03495916351675987 , iter: 518244, best 84.0 best
+Ep 3100 | avg100=25.41 , 30.00 | last_loss=0.0628 | eps=0.0882685790416084
+Last episode 3100 rewards: 20.07999999999996 last episode loss: 0.0628228411078453 , iter: 519109, best 84.0 best
+Ep 3105 | avg100=25.08 , 29.67 | last_loss=0.1916 | eps=0.08791606919259344
+Last episode 3105 rewards: 18.479999999999993 last episode loss: 0.19162723422050476 , iter: 519962, best 84.0 best
+Ep 3110 | avg100=25.12 , 29.71 | last_loss=0.0930 | eps=0.08756496712871566
+Last episode 3110 rewards: 29.580000000000005 last episode loss: 0.09298466145992279 , iter: 520759, best 84.0 best
+Ep 3115 | avg100=24.99 , 29.58 | last_loss=0.1150 | eps=0.08721526722783708
+Last episode 3115 rewards: 20.270000000000003 last episode loss: 0.11500335484743118 , iter: 521608, best 84.0 best
+Ep 3120 | avg100=24.97 , 29.56 | last_loss=0.0469 | eps=0.08686696389027239
+Last episode 3120 rewards: 26.34999999999998 last episode loss: 0.04694375395774841 , iter: 522511, best 84.0 best
+Ep 3125 | avg100=24.85 , 29.43 | last_loss=0.1293 | eps=0.08652005153869921
+Last episode 3125 rewards: 27.170000000000005 last episode loss: 0.12929823994636536 , iter: 523360, best 84.0 best
+Ep 3130 | avg100=24.90 , 29.49 | last_loss=0.0632 | eps=0.08617452461806875
+Last episode 3130 rewards: 31.340000000000007 last episode loss: 0.06316882371902466 , iter: 524229, best 84.0 best
+Ep 3135 | avg100=24.58 , 29.18 | last_loss=0.1259 | eps=0.08583037759551691
+Last episode 3135 rewards: 19.439999999999984 last episode loss: 0.12586350739002228 , iter: 525163, best 84.0 best
+Ep 3140 | avg100=24.67 , 29.27 | last_loss=0.0780 | eps=0.08548760496027566
+Last episode 3140 rewards: 27.550000000000004 last episode loss: 0.07798952609300613 , iter: 526082, best 84.0 best
+Ep 3145 | avg100=24.86 , 29.47 | last_loss=0.1232 | eps=0.08514620122358481
+Last episode 3145 rewards: 28.02999999999995 last episode loss: 0.12320718914270401 , iter: 526998, best 84.0 best
+Ep 3150 | avg100=25.44 , 30.05 | last_loss=0.0767 | eps=0.08480616091860409
+Last episode 3150 rewards: 33.149999999999984 last episode loss: 0.07673138380050659 , iter: 527991, best 84.0 best
+Ep 3155 | avg100=25.61 , 30.23 | last_loss=0.0342 | eps=0.08446747860032564
+Last episode 3155 rewards: 33.56999999999997 last episode loss: 0.034194253385066986 , iter: 528965, best 84.0 best
+Ep 3160 | avg100=25.83 , 30.45 | last_loss=0.0382 | eps=0.08413014884548685
+Last episode 3160 rewards: 30.39999999999999 last episode loss: 0.03817091882228851 , iter: 529940, best 84.0 best
+Ep 3165 | avg100=25.97 , 30.59 | last_loss=0.0519 | eps=0.08379416625248343
+Last episode 3165 rewards: 23.56000000000001 last episode loss: 0.051915161311626434 , iter: 530914, best 84.0 best
+Ep 3170 | avg100=25.96 , 30.58 | last_loss=0.0388 | eps=0.08345952544128295
+Last episode 3170 rewards: 33.339999999999975 last episode loss: 0.03882839158177376 , iter: 531806, best 84.0 best
+Ep 3175 | avg100=26.19 , 30.81 | last_loss=0.0298 | eps=0.08312622105333876
+Last episode 3175 rewards: 26.38 last episode loss: 0.029794588685035706 , iter: 532746, best 84.0 best
+Ep 3180 | avg100=26.23 , 30.84 | last_loss=0.1139 | eps=0.08279424775150411
+Last episode 3180 rewards: 25.43000000000001 last episode loss: 0.11394733935594559 , iter: 533657, best 84.0 best
+Ep 3185 | avg100=26.54 , 31.14 | last_loss=0.0647 | eps=0.0824636002199467
+Last episode 3185 rewards: 34.67999999999999 last episode loss: 0.06473667919635773 , iter: 534507, best 84.0 best
+Ep 3190 | avg100=26.49 , 31.09 | last_loss=0.0697 | eps=0.08213427316406353
+Last episode 3190 rewards: 26.45 last episode loss: 0.06965063512325287 , iter: 535382, best 84.0 best
+Ep 3195 | avg100=26.63 , 31.23 | last_loss=0.0371 | eps=0.08180626131039624
+Last episode 3195 rewards: 26.54 last episode loss: 0.037071336060762405 , iter: 536242, best 84.0 best
+Ep 3200 | avg100=26.73 , 31.33 | last_loss=0.1369 | eps=0.08147955940654648
+Last episode 3200 rewards: 28.509999999999998 last episode loss: 0.1369006186723709 , iter: 537082, best 84.0 best
+Ep 3205 | avg100=27.06 , 31.66 | last_loss=0.0799 | eps=0.081154162221092
+Last episode 3205 rewards: 26.33 last episode loss: 0.07986338436603546 , iter: 538004, best 84.0 best
+Ep 3210 | avg100=27.23 , 31.83 | last_loss=0.0193 | eps=0.0808300645435027
+Last episode 3210 rewards: 16.660000000000004 last episode loss: 0.019262684509158134 , iter: 538814, best 84.0 best
+Ep 3215 | avg100=27.57 , 32.18 | last_loss=0.0298 | eps=0.08050726118405734
+Last episode 3215 rewards: 24.32 last episode loss: 0.029849274083971977 , iter: 539932, best 84.0 best
+Ep 3220 | avg100=27.80 , 32.41 | last_loss=0.0840 | eps=0.08018574697376037
+Last episode 3220 rewards: 30.539999999999996 last episode loss: 0.08404494822025299 , iter: 540866, best 84.0 best
+Ep 3225 | avg100=28.01 , 32.62 | last_loss=0.0617 | eps=0.0798655167642591
+Last episode 3225 rewards: 27.320000000000004 last episode loss: 0.061662234365940094 , iter: 541699, best 84.0 best
+Ep 3230 | avg100=27.88 , 32.49 | last_loss=0.0709 | eps=0.07954656542776142
+Last episode 3230 rewards: 32.20000000000001 last episode loss: 0.07091739773750305 , iter: 542567, best 84.0 best
+Ep 3235 | avg100=28.20 , 32.80 | last_loss=0.0500 | eps=0.07922888785695358
+Last episode 3235 rewards: 29.540000000000003 last episode loss: 0.049975939095020294 , iter: 543454, best 84.0 best
+Ep 3240 | avg100=28.31 , 32.91 | last_loss=0.0376 | eps=0.07891247896491836
+Last episode 3240 rewards: 21.04 last episode loss: 0.03756864368915558 , iter: 544403, best 84.0 best
+Ep 3245 | avg100=28.43 , 33.02 | last_loss=0.0810 | eps=0.07859733368505374
+Last episode 3245 rewards: 30.689999999999994 last episode loss: 0.08103824406862259 , iter: 545285, best 84.0 best
+Ep 3250 | avg100=28.39 , 32.97 | last_loss=0.0474 | eps=0.0782834469709917
+Last episode 3250 rewards: 29.629999999999995 last episode loss: 0.04742211848497391 , iter: 546279, best 84.0 best
+Ep 3255 | avg100=28.38 , 32.95 | last_loss=0.0328 | eps=0.0779708137965174
+Last episode 3255 rewards: 25.850000000000005 last episode loss: 0.032804183661937714 , iter: 547285, best 84.0 best
+Ep 3260 | avg100=28.44 , 33.02 | last_loss=0.2043 | eps=0.07765942915548871
+Last episode 3260 rewards: 28.67 last episode loss: 0.2042676955461502 , iter: 548322, best 84.0 best
+Ep 3265 | avg100=28.38 , 32.95 | last_loss=0.0216 | eps=0.07734928806175609
+Last episode 3265 rewards: 21.96999999999996 last episode loss: 0.02161148190498352 , iter: 549187, best 84.0 best
+Ep 3270 | avg100=28.41 , 32.98 | last_loss=0.0948 | eps=0.07704038554908267
+Last episode 3270 rewards: 28.12999999999999 last episode loss: 0.09481407701969147 , iter: 550215, best 84.0 best
+Ep 3275 | avg100=28.64 , 33.21 | last_loss=0.0543 | eps=0.07673271667106484
+Last episode 3275 rewards: 39.360000000000014 last episode loss: 0.05434634909033775 , iter: 551195, best 84.0 best
+Ep 3280 | avg100=28.85 , 33.41 | last_loss=0.0383 | eps=0.07642627650105287
+Last episode 3280 rewards: 26.809999999999985 last episode loss: 0.03834434971213341 , iter: 552043, best 84.0 best
+Ep 3285 | avg100=28.84 , 33.42 | last_loss=0.0274 | eps=0.07612106013207222
+Last episode 3285 rewards: 33.329999999999856 last episode loss: 0.02743188664317131 , iter: 553121, best 84.0 best
+Ep 3290 | avg100=29.05 , 33.63 | last_loss=0.0676 | eps=0.0758170626767448
+Last episode 3290 rewards: 29.389999999999986 last episode loss: 0.06761884689331055 , iter: 554051, best 84.0 best
+Ep 3295 | avg100=28.92 , 33.52 | last_loss=0.1130 | eps=0.07551427926721085
+Last episode 3295 rewards: 26.009999999999955 last episode loss: 0.11300265789031982 , iter: 555160, best 84.0 best
+Ep 3300 | avg100=29.08 , 33.68 | last_loss=0.1620 | eps=0.07521270505505083
+Last episode 3300 rewards: 30.509999999999984 last episode loss: 0.1620481312274933 , iter: 556010, best 84.0 best
+Ep 3305 | avg100=29.09 , 33.69 | last_loss=0.0878 | eps=0.07491233521120794
+Last episode 3305 rewards: 28.74999999999999 last episode loss: 0.08783060312271118 , iter: 556935, best 84.0 best
+Ep 3310 | avg100=29.17 , 33.77 | last_loss=0.0893 | eps=0.07461316492591069
+Last episode 3310 rewards: 25.12999999999997 last episode loss: 0.08932575583457947 , iter: 557831, best 84.0 best
+Ep 3315 | avg100=29.08 , 33.67 | last_loss=0.0497 | eps=0.07431518940859597
+Last episode 3315 rewards: 26.559999999999995 last episode loss: 0.04974661394953728 , iter: 558798, best 84.0 best
+Ep 3320 | avg100=28.87 , 33.46 | last_loss=0.2425 | eps=0.07401840388783218
+Last episode 3320 rewards: 24.319999999999983 last episode loss: 0.24253085255622864 , iter: 559803, best 84.0 best
+Ep 3325 | avg100=28.86 , 33.45 | last_loss=0.0513 | eps=0.07372280361124306
+Last episode 3325 rewards: 27.309999999999988 last episode loss: 0.051299143582582474 , iter: 560657, best 84.0 best
+Ep 3330 | avg100=29.02 , 33.60 | last_loss=0.0456 | eps=0.07342838384543139
+Last episode 3330 rewards: 26.45999999999999 last episode loss: 0.045565783977508545 , iter: 561548, best 84.0 best
+Ep 3335 | avg100=29.02 , 33.61 | last_loss=0.1596 | eps=0.0731351398759033
+Last episode 3335 rewards: 33.219999999999956 last episode loss: 0.1596209555864334 , iter: 562472, best 84.0 best
+Ep 3340 | avg100=28.78 , 33.36 | last_loss=0.0234 | eps=0.07284306700699272
+Last episode 3340 rewards: 26.439999999999973 last episode loss: 0.023354709148406982 , iter: 563260, best 84.0 best
+Ep 3345 | avg100=28.49 , 33.07 | last_loss=0.0560 | eps=0.07255216056178623
+Last episode 3345 rewards: 26.46999999999999 last episode loss: 0.055959925055503845 , iter: 564072, best 84.0 best
+Ep 3350 | avg100=28.20 , 32.78 | last_loss=0.0256 | eps=0.07226241588204817
+Last episode 3350 rewards: 26.269999999999985 last episode loss: 0.02562280371785164 , iter: 564957, best 84.0 best
+Ep 3355 | avg100=28.21 , 32.80 | last_loss=0.0568 | eps=0.07197382832814601
+Last episode 3355 rewards: 27.77999999999999 last episode loss: 0.0567777156829834 , iter: 566048, best 84.0 best
+Ep 3360 | avg100=27.92 , 32.50 | last_loss=0.0989 | eps=0.07168639327897611
+Last episode 3360 rewards: 22.509999999999998 last episode loss: 0.09887553751468658 , iter: 566865, best 84.0 best
+Ep 3365 | avg100=27.94 , 32.53 | last_loss=0.0660 | eps=0.07140010613188964
+Last episode 3365 rewards: 30.040000000000003 last episode loss: 0.06603075563907623 , iter: 567921, best 84.0 best
+Ep 3370 | avg100=27.79 , 32.37 | last_loss=0.0629 | eps=0.07111496230261899
+Last episode 3370 rewards: 28.399999999999995 last episode loss: 0.06289467215538025 , iter: 568736, best 84.0 best
+Ep 3375 | avg100=27.52 , 32.10 | last_loss=0.0707 | eps=0.07083095722520426
+Last episode 3375 rewards: 30.759999999999994 last episode loss: 0.0706796795129776 , iter: 569585, best 84.0 best
+Ep 3380 | avg100=27.33 , 31.93 | last_loss=0.0480 | eps=0.07054808635192023
+Last episode 3380 rewards: 27.269999999999982 last episode loss: 0.04795190691947937 , iter: 570735, best 84.0 best
+Ep 3385 | avg100=27.08 , 31.67 | last_loss=0.0515 | eps=0.07026634515320344
+Last episode 3385 rewards: 27.269999999999968 last episode loss: 0.05151640251278877 , iter: 571886, best 84.0 best
+Ep 3390 | avg100=26.94 , 31.53 | last_loss=0.0631 | eps=0.0699857291175798
+Last episode 3390 rewards: 28.179999999999996 last episode loss: 0.06309285759925842 , iter: 572810, best 84.0 best
+Ep 3395 | avg100=27.03 , 31.61 | last_loss=0.0485 | eps=0.06970623375159221
+Last episode 3395 rewards: 28.309999999999977 last episode loss: 0.048514291644096375 , iter: 573769, best 84.0 best
+Ep 3400 | avg100=26.92 , 31.50 | last_loss=0.1856 | eps=0.06942785457972867
+Last episode 3400 rewards: 26.599999999999994 last episode loss: 0.18564246594905853 , iter: 574617, best 84.0 best
+Ep 3405 | avg100=26.84 , 31.41 | last_loss=0.0346 | eps=0.0691505871443506
+Last episode 3405 rewards: 26.43999999999998 last episode loss: 0.034567221999168396 , iter: 575527, best 84.0 best
+Ep 3410 | avg100=26.68 , 31.26 | last_loss=0.0625 | eps=0.06887442700562149
+Last episode 3410 rewards: 26.09999999999998 last episode loss: 0.062456630170345306 , iter: 576452, best 84.0 best
+Ep 3415 | avg100=26.57 , 31.15 | last_loss=0.1109 | eps=0.06859936974143581
+Last episode 3415 rewards: 19.11000000000001 last episode loss: 0.11091230809688568 , iter: 577392, best 84.0 best
+Ep 3420 | avg100=26.36 , 30.94 | last_loss=0.0472 | eps=0.06832541094734809
+Last episode 3420 rewards: 16.330000000000005 last episode loss: 0.047201596200466156 , iter: 578226, best 84.0 best
+Ep 3425 | avg100=26.36 , 30.94 | last_loss=0.1738 | eps=0.06805254623650256
+Last episode 3425 rewards: 29.790000000000003 last episode loss: 0.17381441593170166 , iter: 579041, best 84.0 best
+Ep 3430 | avg100=26.43 , 31.01 | last_loss=0.0669 | eps=0.06778077123956276
+Last episode 3430 rewards: 24.710000000000004 last episode loss: 0.06685290485620499 , iter: 579956, best 84.0 best
+Ep 3435 | avg100=26.39 , 30.96 | last_loss=0.1569 | eps=0.06751008160464167
+Last episode 3435 rewards: 29.40999999999999 last episode loss: 0.15694163739681244 , iter: 580887, best 84.0 best
+Ep 3440 | avg100=26.59 , 31.18 | last_loss=0.0325 | eps=0.067240472997232
+Last episode 3440 rewards: 28.879999999999995 last episode loss: 0.03247405216097832 , iter: 581986, best 84.0 best
+Ep 3445 | avg100=26.54 , 31.14 | last_loss=0.0412 | eps=0.06697194110013673
+Last episode 3445 rewards: 23.380000000000006 last episode loss: 0.04119080305099487 , iter: 582850, best 84.0 best
+Ep 3450 | avg100=26.59 , 31.19 | last_loss=0.0563 | eps=0.0667044816134
+Last episode 3450 rewards: 28.400000000000006 last episode loss: 0.056343093514442444 , iter: 583621, best 84.0 best
+Ep 3455 | avg100=26.46 , 31.07 | last_loss=0.1100 | eps=0.06643809025423834
+Last episode 3455 rewards: 26.08000000000001 last episode loss: 0.10998793691396713 , iter: 584696, best 84.0 best
+Ep 3460 | avg100=26.51 , 31.13 | last_loss=0.0449 | eps=0.06617276275697204
+Last episode 3460 rewards: 26.49 last episode loss: 0.044884733855724335 , iter: 585629, best 84.0 best
+Ep 3465 | avg100=26.63 , 31.23 | last_loss=0.0848 | eps=0.06590849487295675
+Last episode 3465 rewards: 31.539999999999992 last episode loss: 0.08481121808290482 , iter: 586541, best 84.0 best
+Ep 3470 | avg100=26.80 , 31.43 | last_loss=0.0521 | eps=0.06564528237051558
+Last episode 3470 rewards: 26.609999999999996 last episode loss: 0.052125267684459686 , iter: 587901, best 84.0 best
+Ep 3475 | avg100=26.67 , 31.32 | last_loss=0.0268 | eps=0.06538312103487125
+Last episode 3475 rewards: 19.400000000000006 last episode loss: 0.02679799497127533 , iter: 589050, best 84.0 best
+Ep 3480 | avg100=26.75 , 31.40 | last_loss=0.0724 | eps=0.06512200666807867
+Last episode 3480 rewards: 30.05999999999998 last episode loss: 0.07241799682378769 , iter: 590109, best 84.0 best
+Ep 3485 | avg100=26.75 , 31.39 | last_loss=0.0340 | eps=0.0648619350889577
+Last episode 3485 rewards: 28.25999999999998 last episode loss: 0.0339992493391037 , iter: 590942, best 84.0 best
+Ep 3490 | avg100=26.72 , 31.37 | last_loss=0.0332 | eps=0.06460290213302614
+Last episode 3490 rewards: 29.219999999999985 last episode loss: 0.03323795273900032 , iter: 592043, best 84.0 best
+Ep 3495 | avg100=26.70 , 31.35 | last_loss=0.0434 | eps=0.0643449036524331
+Last episode 3495 rewards: 28.229999999999986 last episode loss: 0.04343194514513016 , iter: 593072, best 84.0 best
+Ep 3500 | avg100=26.73 , 31.39 | last_loss=0.1157 | eps=0.06408793551589259
+Last episode 3500 rewards: 27.519999999999985 last episode loss: 0.11569754779338837 , iter: 594049, best 84.0 best
+Ep 3505 | avg100=26.83 , 31.49 | last_loss=0.0494 | eps=0.06383199360861731
+Last episode 3505 rewards: 26.36999999999999 last episode loss: 0.04936372488737106 , iter: 594976, best 84.0 best
+Ep 3510 | avg100=26.88 , 31.53 | last_loss=0.0250 | eps=0.06357707383225283
+Last episode 3510 rewards: 24.52 last episode loss: 0.02501099556684494 , iter: 595847, best 84.0 best
+Ep 3515 | avg100=26.96 , 31.61 | last_loss=0.0334 | eps=0.0633231721048119
+Last episode 3515 rewards: 22.62 last episode loss: 0.0333528034389019 , iter: 596718, best 84.0 best
+Ep 3520 | avg100=27.11 , 31.76 | last_loss=0.0465 | eps=0.06307028436060914
+Last episode 3520 rewards: 21.27999999999999 last episode loss: 0.04648011550307274 , iter: 597660, best 84.0 best
+Ep 3525 | avg100=26.94 , 31.60 | last_loss=0.0383 | eps=0.06281840655019591
+Last episode 3525 rewards: 22.339999999999996 last episode loss: 0.03826502338051796 , iter: 598474, best 84.0 best
+Ep 3530 | avg100=26.70 , 31.37 | last_loss=0.0703 | eps=0.06256753464029544
+Last episode 3530 rewards: 23.689999999999994 last episode loss: 0.0703253224492073 , iter: 599317, best 84.0 best
+Ep 3535 | avg100=26.68 , 31.34 | last_loss=0.1218 | eps=0.062317664613738284
+Last episode 3535 rewards: 30.57999999999999 last episode loss: 0.1218060627579689 , iter: 600193, best 84.0 best
+Ep 3540 | avg100=26.50 , 31.15 | last_loss=0.0743 | eps=0.06206879246939801
+Last episode 3540 rewards: 29.639999999999986 last episode loss: 0.07434327900409698 , iter: 600946, best 84.0 best
+Ep 3545 | avg100=26.48 , 31.12 | last_loss=0.0686 | eps=0.06182091422212709
+Last episode 3545 rewards: 23.710000000000004 last episode loss: 0.06863825023174286 , iter: 601730, best 84.0 best
+Ep 3550 | avg100=26.58 , 31.21 | last_loss=0.1502 | eps=0.061574025902693105
+Last episode 3550 rewards: 26.349999999999994 last episode loss: 0.1501784324645996 , iter: 602644, best 84.0 best
+Ep 3555 | avg100=26.58 , 31.19 | last_loss=0.0777 | eps=0.061328123557715164
+Last episode 3555 rewards: 25.639999999999993 last episode loss: 0.07769854366779327 , iter: 603471, best 84.0 best
+Ep 3560 | avg100=26.67 , 31.28 | last_loss=0.1144 | eps=0.06108320324960065
+Last episode 3560 rewards: 31.52 last episode loss: 0.1144135445356369 , iter: 604353, best 84.0 best
+Ep 3565 | avg100=26.64 , 31.25 | last_loss=0.0262 | eps=0.060839261056482116
+Last episode 3565 rewards: 32.649999999999984 last episode loss: 0.026240168139338493 , iter: 605309, best 84.0 best
+Ep 3570 | avg100=26.58 , 31.16 | last_loss=0.0250 | eps=0.06059629307215451
+Last episode 3570 rewards: 25.669999999999998 last episode loss: 0.024961482733488083 , iter: 606127, best 84.0 best
+Ep 3575 | avg100=26.81 , 31.37 | last_loss=0.0479 | eps=0.0603542954060126
+Last episode 3575 rewards: 28.189999999999998 last episode loss: 0.04787800461053848 , iter: 607061, best 84.0 best
+Ep 3580 | avg100=26.85 , 31.39 | last_loss=0.0431 | eps=0.060113264182988735
+Last episode 3580 rewards: 25.069999999999954 last episode loss: 0.04308360815048218 , iter: 607940, best 84.0 best
+Ep 3585 | avg100=26.76 , 31.31 | last_loss=0.1422 | eps=0.05987319554349073
+Last episode 3585 rewards: 28.75999999999999 last episode loss: 0.1421557068824768 , iter: 608726, best 84.0 best
+Ep 3590 | avg100=26.86 , 31.42 | last_loss=0.0228 | eps=0.05963408564334008
+Last episode 3590 rewards: 29.2 last episode loss: 0.02280859276652336 , iter: 609934, best 84.0 best
+Ep 3595 | avg100=26.92 , 31.47 | last_loss=0.0833 | eps=0.05939593065371042
+Last episode 3595 rewards: 18.82 last episode loss: 0.0833449736237526 , iter: 610963, best 84.0 best
+Ep 3600 | avg100=27.00 , 31.56 | last_loss=0.0348 | eps=0.05915872676106622
+Last episode 3600 rewards: 26.829999999999945 last episode loss: 0.034803349524736404 , iter: 611975, best 84.0 best
+Ep 3605 | avg100=27.05 , 31.60 | last_loss=0.0259 | eps=0.05892247016710167
+Last episode 3605 rewards: 29.739999999999995 last episode loss: 0.025946849957108498 , iter: 612892, best 84.0 best
+Ep 3610 | avg100=27.24 , 31.78 | last_loss=0.0271 | eps=0.058687157088679935
+Last episode 3610 rewards: 31.52 last episode loss: 0.027115315198898315 , iter: 613717, best 84.0 best
+Ep 3615 | avg100=27.29 , 31.84 | last_loss=0.0242 | eps=0.058452783757772506
+Last episode 3615 rewards: 19.62999999999998 last episode loss: 0.024248607456684113 , iter: 614811, best 84.0 best
+Ep 3620 | avg100=27.40 , 31.95 | last_loss=0.0527 | eps=0.05821934642139889
+Last episode 3620 rewards: 29.329999999999995 last episode loss: 0.05274907127022743 , iter: 615723, best 84.0 best
+Ep 3625 | avg100=27.51 , 32.06 | last_loss=0.0331 | eps=0.05798684134156654
+Last episode 3625 rewards: 27.52999999999999 last episode loss: 0.033133767545223236 , iter: 616516, best 84.0 best
+Ep 3630 | avg100=27.75 , 32.31 | last_loss=0.0273 | eps=0.05775526479521096
+Last episode 3630 rewards: 28.47 last episode loss: 0.027312271296977997 , iter: 617451, best 84.0 best
+Ep 3635 | avg100=27.76 , 32.32 | last_loss=0.0848 | eps=0.057524613074136116
+Last episode 3635 rewards: 26.389999999999993 last episode loss: 0.08481177687644958 , iter: 618420, best 84.0 best
+Ep 3640 | avg100=27.87 , 32.43 | last_loss=0.0903 | eps=0.05729488248495501
+Last episode 3640 rewards: 26.399999999999995 last episode loss: 0.09029201418161392 , iter: 619363, best 84.0 best
+Ep 3645 | avg100=28.15 , 32.71 | last_loss=0.0449 | eps=0.057066069349030614
+Last episode 3645 rewards: 28.499999999999982 last episode loss: 0.044873736798763275 , iter: 620317, best 84.0 best
+Ep 3650 | avg100=28.17 , 32.74 | last_loss=0.0926 | eps=0.0568381700024169
+Last episode 3650 rewards: 29.369999999999976 last episode loss: 0.09263502061367035 , iter: 621391, best 84.0 best
+Ep 3655 | avg100=28.28 , 32.85 | last_loss=0.0394 | eps=0.056611180795800194
+Last episode 3655 rewards: 26.379999999999995 last episode loss: 0.03939668834209442 , iter: 622283, best 84.0 best
+Ep 3660 | avg100=28.31 , 32.88 | last_loss=0.0281 | eps=0.056385098094440755
+Last episode 3660 rewards: 25.06 last episode loss: 0.028131529688835144 , iter: 623101, best 84.0 best
+Ep 3665 | avg100=28.43 , 33.01 | last_loss=0.0863 | eps=0.05615991827811455
+Last episode 3665 rewards: 33.040000000000006 last episode loss: 0.08625046163797379 , iter: 624124, best 84.0 best
+Ep 3670 | avg100=28.64 , 33.23 | last_loss=0.0568 | eps=0.05593563774105528
+Last episode 3670 rewards: 32.459999999999994 last episode loss: 0.05684546381235123 , iter: 625008, best 84.0 best
+Ep 3675 | avg100=28.56 , 33.15 | last_loss=0.0979 | eps=0.05571225289189667
+Last episode 3675 rewards: 30.11999999999999 last episode loss: 0.09792887419462204 , iter: 625947, best 84.0 best
+Ep 3680 | avg100=28.56 , 33.16 | last_loss=0.1545 | eps=0.05548976015361494
+Last episode 3680 rewards: 28.959999999999987 last episode loss: 0.15451748669147491 , iter: 626948, best 84.0 best
+Ep 3685 | avg100=28.93 , 33.52 | last_loss=0.0321 | eps=0.05526815596347151
+Last episode 3685 rewards: 34.349999999999994 last episode loss: 0.032069526612758636 , iter: 627822, best 84.0 best
+Ep 3690 | avg100=29.04 , 33.62 | last_loss=0.0916 | eps=0.055047436772955996
+Last episode 3690 rewards: 30.579999999999995 last episode loss: 0.09159734100103378 , iter: 628805, best 84.0 best
+Ep 3695 | avg100=28.97 , 33.56 | last_loss=0.1063 | eps=0.05482759904772935
+Last episode 3695 rewards: 26.369999999999997 last episode loss: 0.10628940165042877 , iter: 629822, best 84.0 best
+Ep 3700 | avg100=29.01 , 33.60 | last_loss=0.0317 | eps=0.054608639267567295
+Last episode 3700 rewards: 30.58999999999998 last episode loss: 0.03167489171028137 , iter: 630817, best 84.0 best
+Ep 3705 | avg100=28.86 , 33.45 | last_loss=0.0958 | eps=0.05439055392630392
+Last episode 3705 rewards: 27.539999999999957 last episode loss: 0.09579582512378693 , iter: 631797, best 84.0 best
+Ep 3710 | avg100=28.76 , 33.35 | last_loss=0.0317 | eps=0.054173339531775555
+Last episode 3710 rewards: 21.569999999999993 last episode loss: 0.03168736770749092 , iter: 632684, best 84.0 best
+Ep 3715 | avg100=28.70 , 33.29 | last_loss=0.2675 | eps=0.05395699260576488
+Last episode 3715 rewards: 21.479999999999993 last episode loss: 0.2675379812717438 , iter: 633722, best 84.0 best
+Ep 3720 | avg100=28.75 , 33.33 | last_loss=0.0764 | eps=0.05374150968394517
+Last episode 3720 rewards: 28.79 last episode loss: 0.07637938857078552 , iter: 634599, best 84.0 best
+Ep 3725 | avg100=28.84 , 33.43 | last_loss=0.0619 | eps=0.05352688731582487
+Last episode 3725 rewards: 24.789999999999996 last episode loss: 0.06185060739517212 , iter: 635635, best 84.0 best
+Ep 3730 | avg100=28.81 , 33.41 | last_loss=0.0773 | eps=0.053313122064692325
+Last episode 3730 rewards: 28.80000000000001 last episode loss: 0.07725591957569122 , iter: 636826, best 84.0 best
+Ep 3735 | avg100=28.94 , 33.54 | last_loss=0.0355 | eps=0.053100210507560745
+Last episode 3735 rewards: 28.419999999999998 last episode loss: 0.03554699569940567 , iter: 637778, best 84.0 best
+Ep 3740 | avg100=29.07 , 33.69 | last_loss=0.0459 | eps=0.0528881492351134
+Last episode 3740 rewards: 33.30999999999999 last episode loss: 0.04592154547572136 , iter: 638836, best 84.0 best
+Ep 3745 | avg100=29.03 , 33.68 | last_loss=0.0718 | eps=0.05267693485164902
+Last episode 3745 rewards: 31.349999999999994 last episode loss: 0.07178911566734314 , iter: 640025, best 84.0 best
+Ep 3750 | avg100=29.11 , 33.75 | last_loss=0.0601 | eps=0.05246656397502743
+Last episode 3750 rewards: 30.510000000000005 last episode loss: 0.060091450810432434 , iter: 640869, best 84.0 best
+Ep 3755 | avg100=29.23 , 33.87 | last_loss=0.0310 | eps=0.052257033236615374
+Last episode 3755 rewards: 35.57000000000001 last episode loss: 0.031046492978930473 , iter: 641826, best 84.0 best
+Ep 3760 | avg100=29.24 , 33.90 | last_loss=0.0298 | eps=0.05204833928123262
+Last episode 3760 rewards: 30.42999999999998 last episode loss: 0.02979070320725441 , iter: 643021, best 84.0 best
+Ep 3765 | avg100=29.03 , 33.68 | last_loss=0.0407 | eps=0.05184047876709816
+Last episode 3765 rewards: 24.77 last episode loss: 0.04074057936668396 , iter: 643792, best 84.0 best
+Ep 3770 | avg100=28.76 , 33.41 | last_loss=0.0208 | eps=0.05163344836577677
+Last episode 3770 rewards: 26.459999999999997 last episode loss: 0.020764172077178955 , iter: 644753, best 84.0 best
+Ep 3775 | avg100=28.64 , 33.29 | last_loss=0.0514 | eps=0.05142724476212567
+Last episode 3775 rewards: 22.35 last episode loss: 0.05137772858142853 , iter: 645654, best 84.0 best
+Ep 3780 | avg100=28.80 , 33.45 | last_loss=0.0302 | eps=0.05122186465424145
+Last episode 3780 rewards: 31.740000000000002 last episode loss: 0.030228745192289352 , iter: 646630, best 84.0 best
+Ep 3785 | avg100=28.59 , 33.26 | last_loss=0.0374 | eps=0.0510173047534072
+Last episode 3785 rewards: 29.45999999999999 last episode loss: 0.037388063967227936 , iter: 647870, best 84.0 best
+Ep 3790 | avg100=28.56 , 33.22 | last_loss=0.0385 | eps=0.050813561784039854
+Last episode 3790 rewards: 27.119999999999987 last episode loss: 0.03845369815826416 , iter: 648803, best 84.0 best
+Ep 3795 | avg100=28.62 , 33.28 | last_loss=0.1325 | eps=0.05061063248363772
+Last episode 3795 rewards: 29.93999999999999 last episode loss: 0.13250873982906342 , iter: 649741, best 84.0 best
+Ep 3800 | avg100=28.35 , 33.01 | last_loss=0.0730 | eps=0.05040851360272826
+Last episode 3800 rewards: 28.44999999999999 last episode loss: 0.07304273545742035 , iter: 650714, best 84.0 best
+Ep 3805 | avg100=28.54 , 33.22 | last_loss=0.0234 | eps=0.05020720190481602
+Last episode 3805 rewards: 30.67 last episode loss: 0.023448430001735687 , iter: 651833, best 84.0 best
+Ep 3810 | avg100=28.53 , 33.23 | last_loss=0.0268 | eps=0.05000669416633088
+Last episode 3810 rewards: 27.219999999999988 last episode loss: 0.026789288967847824 , iter: 652923, best 84.0 best
+Ep 3815 | avg100=28.71 , 33.40 | last_loss=0.0895 | eps=0.05
+Last episode 3815 rewards: 29.659999999999997 last episode loss: 0.0895218700170517 , iter: 653853, best 84.0 best
+Ep 3820 | avg100=28.50 , 33.19 | last_loss=0.1057 | eps=0.05
+Last episode 3820 rewards: 20.459999999999983 last episode loss: 0.1057310700416565 , iter: 654673, best 84.0 best
+Ep 3825 | avg100=28.39 , 33.07 | last_loss=0.0480 | eps=0.05
+Last episode 3825 rewards: 29.57 last episode loss: 0.04803849011659622 , iter: 655604, best 84.0 best
+Ep 3830 | avg100=28.32 , 32.98 | last_loss=0.0409 | eps=0.05
+Last episode 3830 rewards: 24.479999999999997 last episode loss: 0.04090885818004608 , iter: 656421, best 84.0 best
+Ep 3835 | avg100=28.32 , 32.99 | last_loss=0.0722 | eps=0.05
+Last episode 3835 rewards: 30.08999999999998 last episode loss: 0.07215701043605804 , iter: 657477, best 84.0 best
+Ep 3840 | avg100=28.36 , 33.04 | last_loss=0.1198 | eps=0.05
+Last episode 3840 rewards: 32.61999999999999 last episode loss: 0.11981771886348724 , iter: 658635, best 84.0 best
+Ep 3845 | avg100=28.43 , 33.08 | last_loss=0.0929 | eps=0.05
+Last episode 3845 rewards: 32.379999999999995 last episode loss: 0.09293971955776215 , iter: 659519, best 84.0 best
+Ep 3850 | avg100=28.39 , 33.05 | last_loss=0.1428 | eps=0.05
+Last episode 3850 rewards: 27.09999999999997 last episode loss: 0.14281632006168365 , iter: 660636, best 84.0 best
+Ep 3855 | avg100=28.28 , 32.94 | last_loss=0.1085 | eps=0.05
+Last episode 3855 rewards: 30.590000000000003 last episode loss: 0.10845979303121567 , iter: 661492, best 84.0 best
+Ep 3860 | avg100=28.34 , 32.99 | last_loss=0.0502 | eps=0.05
+Last episode 3860 rewards: 28.049999999999997 last episode loss: 0.050189994275569916 , iter: 662607, best 84.0 best
+Ep 3865 | avg100=28.43 , 33.08 | last_loss=0.0250 | eps=0.05
+Last episode 3865 rewards: 30.109999999999978 last episode loss: 0.02504631318151951 , iter: 663398, best 84.0 best
+Ep 3870 | avg100=28.59 , 33.27 | last_loss=0.0859 | eps=0.05
+Last episode 3870 rewards: 28.379999999999978 last episode loss: 0.08592124283313751 , iter: 664700, best 84.0 best
+Ep 3875 | avg100=28.80 , 33.49 | last_loss=0.0267 | eps=0.05
+Last episode 3875 rewards: 28.229999999999986 last episode loss: 0.026680950075387955 , iter: 665874, best 84.0 best
+Ep 3880 | avg100=28.76 , 33.44 | last_loss=0.1360 | eps=0.05
+Last episode 3880 rewards: 33.5 last episode loss: 0.1360360085964203 , iter: 666890, best 84.0 best
+Ep 3885 | avg100=29.02 , 33.69 | last_loss=0.0673 | eps=0.05
+Last episode 3885 rewards: 36.53000000000002 last episode loss: 0.06727856397628784 , iter: 667871, best 84.0 best
+Ep 3890 | avg100=29.12 , 33.79 | last_loss=0.0312 | eps=0.05
+Last episode 3890 rewards: 27.139999999999972 last episode loss: 0.03121155872941017 , iter: 668911, best 84.0 best
+Ep 3895 | avg100=29.11 , 33.78 | last_loss=0.0195 | eps=0.05
+Last episode 3895 rewards: 27.280000000000005 last episode loss: 0.019545873627066612 , iter: 669906, best 84.0 best
+Ep 3900 | avg100=29.33 , 34.02 | last_loss=0.1076 | eps=0.05
+Last episode 3900 rewards: 27.48 last episode loss: 0.10760045796632767 , iter: 671046, best 84.0 best
+Ep 3905 | avg100=29.47 , 34.16 | last_loss=0.0411 | eps=0.05
+Last episode 3905 rewards: 38.239999999999924 last episode loss: 0.04114367812871933 , iter: 672306, best 84.0 best
+Ep 3910 | avg100=29.61 , 34.29 | last_loss=0.0789 | eps=0.05
+Last episode 3910 rewards: 30.819999999999997 last episode loss: 0.07892808318138123 , iter: 673495, best 84.0 best
+Ep 3915 | avg100=29.59 , 34.28 | last_loss=0.0250 | eps=0.05
+Last episode 3915 rewards: 20.509999999999994 last episode loss: 0.025036653503775597 , iter: 674509, best 84.0 best
+Ep 3920 | avg100=29.82 , 34.52 | last_loss=0.0525 | eps=0.05
+Last episode 3920 rewards: 30.77 last episode loss: 0.05247918516397476 , iter: 675491, best 84.0 best
+Ep 3925 | avg100=29.96 , 34.66 | last_loss=0.0859 | eps=0.05
+Last episode 3925 rewards: 30.539999999999985 last episode loss: 0.08594567328691483 , iter: 676303, best 84.0 best
+Ep 3930 | avg100=30.21 , 34.91 | last_loss=0.0260 | eps=0.05
+Last episode 3930 rewards: 34.74 last episode loss: 0.02597133070230484 , iter: 677244, best 84.0 best
+Ep 3935 | avg100=30.21 , 34.92 | last_loss=0.0776 | eps=0.05
+Last episode 3935 rewards: 32.300000000000004 last episode loss: 0.07761707901954651 , iter: 678585, best 84.0 best
+Ep 3940 | avg100=30.19 , 34.88 | last_loss=0.0325 | eps=0.05
+Last episode 3940 rewards: 38.650000000000006 last episode loss: 0.0325065478682518 , iter: 679543, best 84.0 best
+Ep 3945 | avg100=30.19 , 34.90 | last_loss=0.0504 | eps=0.05
+Last episode 3945 rewards: 28.239999999999988 last episode loss: 0.05035018175840378 , iter: 680772, best 84.0 best
+Ep 3950 | avg100=30.23 , 34.92 | last_loss=0.0318 | eps=0.05
+Last episode 3950 rewards: 32.730000000000004 last episode loss: 0.03176672384142876 , iter: 681564, best 84.0 best
+Ep 3955 | avg100=30.35 , 35.04 | last_loss=0.0436 | eps=0.05
+Last episode 3955 rewards: 30.509999999999994 last episode loss: 0.04360384866595268 , iter: 682610, best 84.0 best
+Ep 3960 | avg100=30.31 , 34.99 | last_loss=0.0313 | eps=0.05
+Last episode 3960 rewards: 20.710000000000008 last episode loss: 0.031275443732738495 , iter: 683532, best 84.0 best
+Ep 3965 | avg100=30.49 , 35.17 | last_loss=0.0822 | eps=0.05
+Last episode 3965 rewards: 34.46000000000003 last episode loss: 0.08216072618961334 , iter: 684533, best 84.0 best
+Ep 3970 | avg100=30.53 , 35.18 | last_loss=0.1303 | eps=0.05
+Last episode 3970 rewards: 30.210000000000008 last episode loss: 0.13027998805046082 , iter: 685455, best 84.0 best
+Ep 3975 | avg100=30.45 , 35.11 | last_loss=0.0327 | eps=0.05
+Last episode 3975 rewards: 27.029999999999994 last episode loss: 0.03274598345160484 , iter: 686527, best 84.0 best
+Ep 3980 | avg100=30.33 , 35.00 | last_loss=0.1973 | eps=0.05
+Last episode 3980 rewards: 29.099999999999998 last episode loss: 0.19726671278476715 , iter: 687582, best 84.0 best
+Ep 3985 | avg100=30.18 , 34.86 | last_loss=0.1138 | eps=0.05
+Last episode 3985 rewards: 27.27999999999995 last episode loss: 0.11382022500038147 , iter: 688706, best 84.0 best
+Ep 3990 | avg100=30.19 , 34.86 | last_loss=0.0263 | eps=0.05
+Last episode 3990 rewards: 29.59999999999999 last episode loss: 0.02629106119275093 , iter: 689582, best 84.0 best
+Ep 3995 | avg100=30.30 , 34.96 | last_loss=0.0614 | eps=0.05
+Last episode 3995 rewards: 26.539999999999996 last episode loss: 0.06141538918018341 , iter: 690391, best 84.0 best
+Ep 4000 | avg100=30.31 , 34.97 | last_loss=0.0776 | eps=0.05
+Last episode 4000 rewards: 30.360000000000003 last episode loss: 0.07759760320186615 , iter: 691541, best 84.0 best
+Ep 4005 | avg100=30.20 , 34.85 | last_loss=0.1374 | eps=0.05
+Last episode 4005 rewards: 35.72000000000001 last episode loss: 0.13736869394779205 , iter: 692622, best 84.0 best
+Ep 4010 | avg100=29.99 , 34.65 | last_loss=0.0511 | eps=0.05
+Last episode 4010 rewards: 31.630000000000006 last episode loss: 0.051066793501377106 , iter: 693807, best 84.0 best
+Ep 4015 | avg100=29.94 , 34.60 | last_loss=0.0226 | eps=0.05
+Last episode 4015 rewards: 25.39 last episode loss: 0.022598784416913986 , iter: 694839, best 84.0 best
+Ep 4020 | avg100=29.84 , 34.50 | last_loss=0.0291 | eps=0.05
+Last episode 4020 rewards: 26.70999999999999 last episode loss: 0.029061878100037575 , iter: 695908, best 84.0 best
+Ep 4025 | avg100=29.89 , 34.56 | last_loss=0.0608 | eps=0.05
+Last episode 4025 rewards: 32.68 last episode loss: 0.0608014240860939 , iter: 696933, best 84.0 best
+Ep 4030 | avg100=29.72 , 34.39 | last_loss=0.0344 | eps=0.05
+Last episode 4030 rewards: 20.550000000000004 last episode loss: 0.0344340018928051 , iter: 697902, best 84.0 best
+Ep 4035 | avg100=29.74 , 34.38 | last_loss=0.0227 | eps=0.05
+Last episode 4035 rewards: 30.810000000000002 last episode loss: 0.02268465980887413 , iter: 698885, best 84.0 best
+Ep 4040 | avg100=29.77 , 34.42 | last_loss=0.0386 | eps=0.05
+Last episode 4040 rewards: 29.32999999999999 last episode loss: 0.03855437785387039 , iter: 699908, best 84.0 best
+Ep 4045 | avg100=29.72 , 34.37 | last_loss=0.0533 | eps=0.05
+Last episode 4045 rewards: 32.849999999999994 last episode loss: 0.0532630980014801 , iter: 701047, best 84.0 best
+Ep 4050 | avg100=29.84 , 34.50 | last_loss=0.0861 | eps=0.05
+Last episode 4050 rewards: 34.39999999999994 last episode loss: 0.08606906980276108 , iter: 702168, best 84.0 best
+Ep 4055 | avg100=29.83 , 34.50 | last_loss=0.1450 | eps=0.05
+Last episode 4055 rewards: 24.069999999999993 last episode loss: 0.14499026536941528 , iter: 703232, best 84.0 best
+Ep 4060 | avg100=29.88 , 34.55 | last_loss=0.1089 | eps=0.05
+Last episode 4060 rewards: 30.879999999999995 last episode loss: 0.10885782539844513 , iter: 704251, best 84.0 best
+Ep 4065 | avg100=29.66 , 34.33 | last_loss=0.0772 | eps=0.05
+Last episode 4065 rewards: 19.23 last episode loss: 0.07721180468797684 , iter: 705054, best 84.0 best
+Ep 4070 | avg100=29.59 , 34.29 | last_loss=0.0385 | eps=0.05
+Last episode 4070 rewards: 33.43 last episode loss: 0.038520317524671555 , iter: 706274, best 84.0 best
+Ep 4075 | avg100=29.61 , 34.29 | last_loss=0.1332 | eps=0.05
+Last episode 4075 rewards: 29.72 last episode loss: 0.13318194448947906 , iter: 707148, best 84.0 best
+Ep 4080 | avg100=29.83 , 34.51 | last_loss=0.0927 | eps=0.05
+Last episode 4080 rewards: 29.369999999999987 last episode loss: 0.09270384907722473 , iter: 708236, best 84.0 best
+Ep 4085 | avg100=29.71 , 34.37 | last_loss=0.0361 | eps=0.05
+Last episode 4085 rewards: 23.489999999999988 last episode loss: 0.03608967363834381 , iter: 709091, best 84.0 best
+Ep 4090 | avg100=29.87 , 34.53 | last_loss=0.0200 | eps=0.05
+Last episode 4090 rewards: 33.64000000000001 last episode loss: 0.019985411316156387 , iter: 709992, best 84.0 best
+Ep 4095 | avg100=29.88 , 34.53 | last_loss=0.0483 | eps=0.05
+Last episode 4095 rewards: 27.589999999999993 last episode loss: 0.04831245541572571 , iter: 710840, best 84.0 best
+Ep 4100 | avg100=29.88 , 34.52 | last_loss=0.0725 | eps=0.05
+Last episode 4100 rewards: 30.20999999999999 last episode loss: 0.07251884788274765 , iter: 711836, best 84.0 best
+Ep 4105 | avg100=29.78 , 34.41 | last_loss=0.0437 | eps=0.05
+Last episode 4105 rewards: 30.580000000000005 last episode loss: 0.043724238872528076 , iter: 712826, best 84.0 best
+Ep 4110 | avg100=29.80 , 34.40 | last_loss=0.0505 | eps=0.05
+Last episode 4110 rewards: 26.629999999999992 last episode loss: 0.05052768811583519 , iter: 713669, best 84.0 best
+Ep 4115 | avg100=29.80 , 34.39 | last_loss=0.0387 | eps=0.05
+Last episode 4115 rewards: 32.39999999999999 last episode loss: 0.03868594020605087 , iter: 714558, best 84.0 best
+Ep 4120 | avg100=29.91 , 34.49 | last_loss=0.0409 | eps=0.05
+Last episode 4120 rewards: 24.48 last episode loss: 0.0409424751996994 , iter: 715440, best 84.0 best
+Ep 4125 | avg100=29.93 , 34.51 | last_loss=0.0325 | eps=0.05
+Last episode 4125 rewards: 30.30999999999997 last episode loss: 0.032466739416122437 , iter: 716330, best 84.0 best
+Ep 4130 | avg100=30.09 , 34.67 | last_loss=0.0285 | eps=0.05
+Last episode 4130 rewards: 36.69 last episode loss: 0.028496045619249344 , iter: 717173, best 84.0 best
+Ep 4135 | avg100=30.06 , 34.65 | last_loss=0.0602 | eps=0.05
+Last episode 4135 rewards: 30.499999999999982 last episode loss: 0.060225505381822586 , iter: 718362, best 84.0 best
+Ep 4140 | avg100=29.95 , 34.55 | last_loss=0.1192 | eps=0.05
+Last episode 4140 rewards: 26.42999999999993 last episode loss: 0.119174525141716 , iter: 719438, best 84.0 best
+Ep 4145 | avg100=30.04 , 34.62 | last_loss=0.0364 | eps=0.05
+Last episode 4145 rewards: 28.3 last episode loss: 0.03644389659166336 , iter: 720326, best 84.0 best
+Ep 4150 | avg100=29.88 , 34.46 | last_loss=0.0473 | eps=0.05
+Last episode 4150 rewards: 30.39 last episode loss: 0.04725559800863266 , iter: 721266, best 84.0 best
+Ep 4155 | avg100=29.94 , 34.52 | last_loss=0.0310 | eps=0.05
+Last episode 4155 rewards: 31.119999999999987 last episode loss: 0.03098444640636444 , iter: 722280, best 84.0 best
+Ep 4160 | avg100=29.88 , 34.46 | last_loss=0.0591 | eps=0.05
+Last episode 4160 rewards: 31.419999999999973 last episode loss: 0.059094205498695374 , iter: 723190, best 84.0 best
+Ep 4165 | avg100=29.89 , 34.48 | last_loss=0.0867 | eps=0.05
+Last episode 4165 rewards: 31.089999999999964 last episode loss: 0.08665113896131516 , iter: 724248, best 84.0 best
+Ep 4170 | avg100=29.96 , 34.53 | last_loss=0.0446 | eps=0.05
+Last episode 4170 rewards: 30.57 last episode loss: 0.04459422081708908 , iter: 725307, best 84.0 best
+Ep 4175 | avg100=29.90 , 34.49 | last_loss=0.0338 | eps=0.05
+Last episode 4175 rewards: 25.670000000000005 last episode loss: 0.03379667550325394 , iter: 726349, best 84.0 best
+Ep 4180 | avg100=29.81 , 34.39 | last_loss=0.0248 | eps=0.05
+Last episode 4180 rewards: 31.70999999999998 last episode loss: 0.02475752681493759 , iter: 727315, best 84.0 best
+Ep 4185 | avg100=30.02 , 34.62 | last_loss=0.0267 | eps=0.05
+Last episode 4185 rewards: 29.019999999999964 last episode loss: 0.026744183152914047 , iter: 728550, best 84.0 best
+Ep 4190 | avg100=29.78 , 34.38 | last_loss=0.0440 | eps=0.05
+Last episode 4190 rewards: 31.560000000000002 last episode loss: 0.04396864026784897 , iter: 729419, best 84.0 best
+Ep 4195 | avg100=29.66 , 34.26 | last_loss=0.0409 | eps=0.05
+Last episode 4195 rewards: 30.06999999999998 last episode loss: 0.04087602719664574 , iter: 730338, best 84.0 best
+Ep 4200 | avg100=29.62 , 34.23 | last_loss=0.0452 | eps=0.05
+Last episode 4200 rewards: 29.229999999999997 last episode loss: 0.045162346214056015 , iter: 731223, best 84.0 best
+Ep 4205 | avg100=29.67 , 34.27 | last_loss=0.0316 | eps=0.05
+Last episode 4205 rewards: 28.519999999999968 last episode loss: 0.03158240020275116 , iter: 732199, best 84.0 best
+Ep 4210 | avg100=29.85 , 34.46 | last_loss=0.0313 | eps=0.05
+Last episode 4210 rewards: 28.26000000000001 last episode loss: 0.03132610023021698 , iter: 733213, best 84.0 best
+Ep 4215 | avg100=29.79 , 34.41 | last_loss=0.2029 | eps=0.05
+Last episode 4215 rewards: 18.749999999999993 last episode loss: 0.20290406048297882 , iter: 734329, best 84.0 best
+Ep 4220 | avg100=29.86 , 34.48 | last_loss=0.0645 | eps=0.05
+Last episode 4220 rewards: 28.10999999999995 last episode loss: 0.06448937207460403 , iter: 735303, best 84.0 best
+Ep 4225 | avg100=29.48 , 34.10 | last_loss=0.1047 | eps=0.05
+Last episode 4225 rewards: 20.26 last episode loss: 0.10467540472745895 , iter: 736089, best 84.0 best
+Ep 4230 | avg100=29.48 , 34.11 | last_loss=0.0477 | eps=0.05
+Last episode 4230 rewards: 34.39 last episode loss: 0.04765629768371582 , iter: 737191, best 84.0 best
+Ep 4235 | avg100=29.39 , 34.03 | last_loss=0.0159 | eps=0.05
+Last episode 4235 rewards: 28.829999999999995 last episode loss: 0.015933256596326828 , iter: 738327, best 84.0 best
+Ep 4240 | avg100=29.48 , 34.11 | last_loss=0.0205 | eps=0.05
+Last episode 4240 rewards: 31.639999999999986 last episode loss: 0.020461715757846832 , iter: 739357, best 84.0 best
+Ep 4245 | avg100=29.36 , 34.00 | last_loss=0.0723 | eps=0.05
+Last episode 4245 rewards: 34.82000000000001 last episode loss: 0.07231123745441437 , iter: 740356, best 84.0 best
+Ep 4250 | avg100=29.33 , 33.97 | last_loss=0.0334 | eps=0.05
+Last episode 4250 rewards: 29.11999999999993 last episode loss: 0.033404845744371414 , iter: 741406, best 84.0 best
+Ep 4255 | avg100=29.18 , 33.80 | last_loss=0.0300 | eps=0.05
+Last episode 4255 rewards: 26.70999999999999 last episode loss: 0.03003508225083351 , iter: 742133, best 84.0 best
+Ep 4260 | avg100=29.19 , 33.81 | last_loss=0.0435 | eps=0.05
+Last episode 4260 rewards: 27.6 last episode loss: 0.04352973401546478 , iter: 743046, best 84.0 best
+Ep 4265 | avg100=29.20 , 33.81 | last_loss=0.0584 | eps=0.05
+Last episode 4265 rewards: 32.45999999999997 last episode loss: 0.05837132781744003 , iter: 743912, best 84.0 best
+Ep 4270 | avg100=29.13 , 33.75 | last_loss=0.0220 | eps=0.05
+Last episode 4270 rewards: 30.3 last episode loss: 0.022033873945474625 , iter: 744990, best 84.0 best
+Ep 4275 | avg100=29.20 , 33.80 | last_loss=0.0459 | eps=0.05
+Last episode 4275 rewards: 31.82 last episode loss: 0.04593273997306824 , iter: 745860, best 84.0 best
+Ep 4280 | avg100=29.16 , 33.78 | last_loss=0.0210 | eps=0.05
+Last episode 4280 rewards: 24.950000000000003 last episode loss: 0.020954124629497528 , iter: 746868, best 84.0 best
+Ep 4285 | avg100=29.17 , 33.77 | last_loss=0.0234 | eps=0.05
+Last episode 4285 rewards: 29.660000000000004 last episode loss: 0.02340020425617695 , iter: 747971, best 84.0 best
+Ep 4290 | avg100=29.15 , 33.76 | last_loss=0.0267 | eps=0.05
+Last episode 4290 rewards: 26.369999999999997 last episode loss: 0.026716992259025574 , iter: 749042, best 84.0 best
+Ep 4295 | avg100=29.14 , 33.76 | last_loss=0.0641 | eps=0.05
+Last episode 4295 rewards: 27.479999999999986 last episode loss: 0.0640505999326706 , iter: 750207, best 84.0 best
+Ep 4300 | avg100=29.24 , 33.86 | last_loss=0.0918 | eps=0.05
+Last episode 4300 rewards: 25.049999999999994 last episode loss: 0.09181875735521317 , iter: 751288, best 84.0 best
+Ep 4305 | avg100=29.33 , 33.96 | last_loss=0.0621 | eps=0.05
+Last episode 4305 rewards: 29.580000000000002 last episode loss: 0.06212253496050835 , iter: 752258, best 84.0 best
+Ep 4310 | avg100=29.40 , 34.02 | last_loss=0.0454 | eps=0.05
+Last episode 4310 rewards: 30.589999999999993 last episode loss: 0.045380257070064545 , iter: 753152, best 84.0 best
+Ep 4315 | avg100=29.42 , 34.04 | last_loss=0.0267 | eps=0.05
+Last episode 4315 rewards: 30.389999999999972 last episode loss: 0.026681821793317795 , iter: 754147, best 84.0 best
+Ep 4320 | avg100=29.27 , 33.90 | last_loss=0.0705 | eps=0.05
+Last episode 4320 rewards: 30.679999999999996 last episode loss: 0.07052667438983917 , iter: 755187, best 84.0 best
+Ep 4325 | avg100=29.49 , 34.12 | last_loss=0.0763 | eps=0.05
+Last episode 4325 rewards: 30.989999999999974 last episode loss: 0.07633624970912933 , iter: 756077, best 84.0 best
+Ep 4330 | avg100=29.33 , 33.97 | last_loss=0.0221 | eps=0.05
+Last episode 4330 rewards: 28.509999999999966 last episode loss: 0.022058025002479553 , iter: 757105, best 84.0 best
+Ep 4335 | avg100=29.48 , 34.12 | last_loss=0.0416 | eps=0.05
+Last episode 4335 rewards: 33.71000000000001 last episode loss: 0.04164893180131912 , iter: 758324, best 84.0 best
+Ep 4340 | avg100=29.49 , 34.13 | last_loss=0.0268 | eps=0.05
+Last episode 4340 rewards: 31.250000000000004 last episode loss: 0.02681756764650345 , iter: 759286, best 84.0 best
+Ep 4345 | avg100=29.50 , 34.14 | last_loss=0.0876 | eps=0.05
+Last episode 4345 rewards: 30.130000000000003 last episode loss: 0.08758708089590073 , iter: 760227, best 84.0 best
+Ep 4350 | avg100=29.57 , 34.21 | last_loss=0.0344 | eps=0.05
+Last episode 4350 rewards: 26.72999999999999 last episode loss: 0.034357864409685135 , iter: 761186, best 84.0 best
+Ep 4355 | avg100=29.41 , 34.06 | last_loss=0.0352 | eps=0.05
+Last episode 4355 rewards: 30.309999999999985 last episode loss: 0.0351518839597702 , iter: 762081, best 84.0 best
+Ep 4360 | avg100=29.40 , 34.05 | last_loss=0.0925 | eps=0.05
+Last episode 4360 rewards: 23.48 last episode loss: 0.09250391274690628 , iter: 763149, best 84.0 best
+Ep 4365 | avg100=29.60 , 34.65 | last_loss=0.1935 | eps=0.05
+Last episode 4365 rewards: 31.58 last episode loss: 0.19346360862255096 , iter: 764344, best 84.0 best
+Ep 4370 | avg100=29.50 , 34.56 | last_loss=0.0358 | eps=0.05
+Last episode 4370 rewards: 21.57 last episode loss: 0.03581802919507027 , iter: 765493, best 84.0 best
+Ep 4375 | avg100=29.61 , 34.67 | last_loss=0.0375 | eps=0.05
+Last episode 4375 rewards: 30.439999999999966 last episode loss: 0.03745417296886444 , iter: 766529, best 84.0 best
+Ep 4380 | avg100=29.68 , 34.74 | last_loss=0.0185 | eps=0.05
+Last episode 4380 rewards: 34.73 last episode loss: 0.018535897135734558 , iter: 767543, best 84.0 best
+Ep 4385 | avg100=29.55 , 34.61 | last_loss=0.0237 | eps=0.05
+Last episode 4385 rewards: 25.49999999999993 last episode loss: 0.023656440898776054 , iter: 768637, best 84.0 best
+Ep 4390 | avg100=29.60 , 34.66 | last_loss=0.0397 | eps=0.05
+Last episode 4390 rewards: 29.620000000000005 last episode loss: 0.03965742886066437 , iter: 769676, best 84.0 best
+Ep 4395 | avg100=29.79 , 34.85 | last_loss=0.0281 | eps=0.05
+Last episode 4395 rewards: 33.620000000000005 last episode loss: 0.028065666556358337 , iter: 770777, best 84.0 best
+Ep 4400 | avg100=29.66 , 34.72 | last_loss=0.0606 | eps=0.05
+Last episode 4400 rewards: 32.73 last episode loss: 0.06061116233468056 , iter: 771906, best 84.0 best
+Ep 4405 | avg100=29.52 , 34.59 | last_loss=0.0189 | eps=0.05
+Last episode 4405 rewards: 25.979999999999986 last episode loss: 0.018897658213973045 , iter: 773052, best 84.0 best
+Ep 4410 | avg100=29.28 , 34.38 | last_loss=0.0176 | eps=0.05
+Last episode 4410 rewards: 20.500000000000004 last episode loss: 0.017637034878134727 , iter: 774310, best 84.0 best
+Ep 4415 | avg100=29.36 , 34.45 | last_loss=0.0408 | eps=0.05
+Last episode 4415 rewards: 31.49999999999998 last episode loss: 0.0408308282494545 , iter: 775266, best 84.0 best
+Ep 4420 | avg100=29.34 , 34.43 | last_loss=0.0708 | eps=0.05
+Last episode 4420 rewards: 30.42 last episode loss: 0.07077324390411377 , iter: 776197, best 84.0 best
+Ep 4425 | avg100=29.41 , 34.50 | last_loss=0.0204 | eps=0.05
+Last episode 4425 rewards: 30.389999999999986 last episode loss: 0.020373165607452393 , iter: 777299, best 84.0 best
+Ep 4430 | avg100=29.45 , 34.54 | last_loss=0.0166 | eps=0.05
+Last episode 4430 rewards: 33.57000000000001 last episode loss: 0.016559768468141556 , iter: 778503, best 84.0 best
+Ep 4435 | avg100=29.44 , 34.51 | last_loss=0.0919 | eps=0.05
+Last episode 4435 rewards: 30.49 last episode loss: 0.09192880243062973 , iter: 779478, best 84.0 best
+Ep 4440 | avg100=29.42 , 34.50 | last_loss=0.0380 | eps=0.05
+Last episode 4440 rewards: 26.979999999999976 last episode loss: 0.03804951161146164 , iter: 780703, best 84.0 best
+Ep 4445 | avg100=29.23 , 34.33 | last_loss=0.0287 | eps=0.05
+Last episode 4445 rewards: 29.35999999999997 last episode loss: 0.028735138475894928 , iter: 781841, best 84.0 best
+Ep 4450 | avg100=29.17 , 34.27 | last_loss=0.0381 | eps=0.05
+Last episode 4450 rewards: 30.609999999999978 last episode loss: 0.038061048835515976 , iter: 782821, best 84.0 best
+Ep 4455 | avg100=29.43 , 34.53 | last_loss=0.0317 | eps=0.05
+Last episode 4455 rewards: 33.63000000000001 last episode loss: 0.031724657863378525 , iter: 783873, best 84.0 best
+Ep 4460 | avg100=29.44 , 34.56 | last_loss=0.0532 | eps=0.05
+Last episode 4460 rewards: 25.25 last episode loss: 0.05315136909484863 , iter: 784972, best 84.0 best
+Ep 4465 | avg100=29.33 , 34.05 | last_loss=0.0412 | eps=0.05
+Last episode 4465 rewards: 31.03999999999999 last episode loss: 0.04115600511431694 , iter: 785977, best 84.0 best
+Ep 4470 | avg100=29.44 , 34.15 | last_loss=0.0489 | eps=0.05
+Last episode 4470 rewards: 31.149999999999956 last episode loss: 0.04888802394270897 , iter: 787049, best 84.0 best
+Ep 4475 | avg100=29.27 , 33.98 | last_loss=0.0367 | eps=0.05
+Last episode 4475 rewards: 29.91999999999996 last episode loss: 0.036653876304626465 , iter: 788142, best 84.0 best
+Ep 4480 | avg100=29.06 , 33.77 | last_loss=0.0952 | eps=0.05
+Last episode 4480 rewards: 32.38 last episode loss: 0.09522820264101028 , iter: 789165, best 84.0 best
+Ep 4485 | avg100=29.20 , 33.90 | last_loss=0.0414 | eps=0.05
+Last episode 4485 rewards: 28.369999999999983 last episode loss: 0.0413564071059227 , iter: 790216, best 84.0 best
+Ep 4490 | avg100=29.21 , 33.91 | last_loss=0.0284 | eps=0.05
+Last episode 4490 rewards: 34.35000000000004 last episode loss: 0.028418902307748795 , iter: 791238, best 84.0 best
+Ep 4495 | avg100=29.37 , 34.05 | last_loss=0.0173 | eps=0.05
+Last episode 4495 rewards: 31.729999999999986 last episode loss: 0.017287027090787888 , iter: 792165, best 84.0 best
+Ep 4500 | avg100=29.40 , 34.07 | last_loss=0.1366 | eps=0.05
+Last episode 4500 rewards: 32.66 last episode loss: 0.13664782047271729 , iter: 793096, best 84.0 best
+Ep 4505 | avg100=29.48 , 34.13 | last_loss=0.0189 | eps=0.05
+Last episode 4505 rewards: 31.57999999999999 last episode loss: 0.018907906487584114 , iter: 793940, best 84.0 best
+Ep 4510 | avg100=29.45 , 34.07 | last_loss=0.0184 | eps=0.05
+Last episode 4510 rewards: 27.689999999999998 last episode loss: 0.01840268075466156 , iter: 794926, best 84.0 best
+Ep 4515 | avg100=29.48 , 34.12 | last_loss=0.0551 | eps=0.05
+Last episode 4515 rewards: 32.149999999999984 last episode loss: 0.05512741208076477 , iter: 796122, best 84.0 best
+Ep 4520 | avg100=29.65 , 34.28 | last_loss=0.0881 | eps=0.05
+Last episode 4520 rewards: 29.51 last episode loss: 0.0881301686167717 , iter: 797043, best 84.0 best
+Ep 4525 | avg100=29.77 , 34.40 | last_loss=0.0254 | eps=0.05
+Last episode 4525 rewards: 31.599999999999998 last episode loss: 0.025416776537895203 , iter: 797957, best 84.0 best
+Ep 4530 | avg100=29.81 , 34.42 | last_loss=0.0423 | eps=0.05
+Last episode 4530 rewards: 31.57 last episode loss: 0.04231243580579758 , iter: 798796, best 84.0 best
+Ep 4535 | avg100=29.73 , 34.35 | last_loss=0.1167 | eps=0.05
+Last episode 4535 rewards: 33.56000000000002 last episode loss: 0.11669373512268066 , iter: 799805, best 84.0 best
+[BEST] New best 93.00 with mod: 42.20000000000004-> checkpoint saved.
+Ep 4540 | avg100=29.90 , 34.96 | last_loss=0.0340 | eps=0.05
+Last episode 4540 rewards: 42.20000000000004 last episode loss: 0.033979564905166626 , iter: 800778, best 93.0 best
+Ep 4545 | avg100=30.11 , 35.16 | last_loss=0.0269 | eps=0.05
+Last episode 4545 rewards: 32.649999999999935 last episode loss: 0.0268706101924181 , iter: 801715, best 93.0 best
+Ep 4550 | avg100=30.21 , 35.26 | last_loss=0.0343 | eps=0.05
+Last episode 4550 rewards: 30.049999999999983 last episode loss: 0.03429987281560898 , iter: 802779, best 93.0 best
+Ep 4555 | avg100=30.28 , 35.33 | last_loss=0.0277 | eps=0.05
+Last episode 4555 rewards: 34.54 last episode loss: 0.02773170918226242 , iter: 803675, best 93.0 best
+Ep 4560 | avg100=30.37 , 35.83 | last_loss=0.0314 | eps=0.05
+Last episode 4560 rewards: 32.510000000000005 last episode loss: 0.03137402608990669 , iter: 804728, best 93.0 best
+Ep 4565 | avg100=30.24 , 35.70 | last_loss=0.0407 | eps=0.05
+Last episode 4565 rewards: 27.43999999999999 last episode loss: 0.040659625083208084 , iter: 805782, best 93.0 best
+Ep 4570 | avg100=30.29 , 35.75 | last_loss=0.0379 | eps=0.05
+Last episode 4570 rewards: 30.610000000000003 last episode loss: 0.0379210039973259 , iter: 806852, best 93.0 best
+Ep 4575 | avg100=30.37 , 35.84 | last_loss=0.0645 | eps=0.05
+Last episode 4575 rewards: 31.179999999999964 last episode loss: 0.06453145295381546 , iter: 807858, best 93.0 best
+Ep 4580 | avg100=30.38 , 35.85 | last_loss=0.0233 | eps=0.05
+Last episode 4580 rewards: 21.599999999999994 last episode loss: 0.023280922323465347 , iter: 808790, best 93.0 best
+Ep 4585 | avg100=30.35 , 35.82 | last_loss=0.0184 | eps=0.05
+Last episode 4585 rewards: 30.63 last episode loss: 0.018381349742412567 , iter: 809698, best 93.0 best
+Ep 4590 | avg100=30.31 , 35.77 | last_loss=0.0261 | eps=0.05
+Last episode 4590 rewards: 26.580000000000002 last episode loss: 0.026130538433790207 , iter: 810597, best 93.0 best
+Ep 4595 | avg100=30.24 , 35.72 | last_loss=0.0600 | eps=0.05
+Last episode 4595 rewards: 34.05000000000004 last episode loss: 0.06004972755908966 , iter: 811707, best 93.0 best
+Ep 4600 | avg100=30.36 , 35.86 | last_loss=0.0297 | eps=0.05
+Last episode 4600 rewards: 35.86999999999994 last episode loss: 0.029676280915737152 , iter: 812910, best 93.0 best
+Ep 4605 | avg100=30.29 , 35.81 | last_loss=0.0235 | eps=0.05
+Last episode 4605 rewards: 31.47999999999999 last episode loss: 0.02345692366361618 , iter: 813986, best 93.0 best
+Ep 4610 | avg100=30.49 , 36.00 | last_loss=0.0653 | eps=0.05
+Last episode 4610 rewards: 32.47 last episode loss: 0.06531444191932678 , iter: 814851, best 93.0 best
+Ep 4615 | avg100=30.47 , 35.98 | last_loss=0.0264 | eps=0.05
+Last episode 4615 rewards: 31.560000000000006 last episode loss: 0.026362089440226555 , iter: 815942, best 93.0 best
+Ep 4620 | avg100=30.33 , 35.86 | last_loss=0.1125 | eps=0.05
+Last episode 4620 rewards: 32.53 last episode loss: 0.11245173215866089 , iter: 817159, best 93.0 best
+Ep 4625 | avg100=30.16 , 35.70 | last_loss=0.0869 | eps=0.05
+Last episode 4625 rewards: 27.70999999999999 last episode loss: 0.08691835403442383 , iter: 818390, best 93.0 best
+Ep 4630 | avg100=30.11 , 35.66 | last_loss=0.0491 | eps=0.05
+Last episode 4630 rewards: 26.640000000000004 last episode loss: 0.049079712480306625 , iter: 819440, best 93.0 best
+Ep 4635 | avg100=29.97 , 35.52 | last_loss=0.1012 | eps=0.05
+Last episode 4635 rewards: 30.01999999999992 last episode loss: 0.10119525343179703 , iter: 820402, best 93.0 best
+Ep 4640 | avg100=29.88 , 34.97 | last_loss=0.0514 | eps=0.05
+Last episode 4640 rewards: 31.23999999999998 last episode loss: 0.0514102503657341 , iter: 821327, best 93.0 best
+Ep 4645 | avg100=29.93 , 35.01 | last_loss=0.0253 | eps=0.05
+Last episode 4645 rewards: 27.639999999999983 last episode loss: 0.025280531495809555 , iter: 822398, best 93.0 best
+Ep 4650 | avg100=29.88 , 34.96 | last_loss=0.0206 | eps=0.05
+Last episode 4650 rewards: 31.199999999999985 last episode loss: 0.02062002755701542 , iter: 823378, best 93.0 best
+Ep 4655 | avg100=29.62 , 34.72 | last_loss=0.0262 | eps=0.05
+Last episode 4655 rewards: 19.56 last episode loss: 0.026151198893785477 , iter: 824541, best 93.0 best
+Ep 4660 | avg100=29.55 , 34.22 | last_loss=0.0329 | eps=0.05
+Last episode 4660 rewards: 29.569999999999997 last episode loss: 0.03286677598953247 , iter: 825571, best 93.0 best
+Ep 4665 | avg100=29.62 , 34.29 | last_loss=0.0283 | eps=0.05
+Last episode 4665 rewards: 31.209999999999994 last episode loss: 0.028286654502153397 , iter: 826567, best 93.0 best
+Ep 4670 | avg100=29.44 , 34.11 | last_loss=0.0264 | eps=0.05
+Last episode 4670 rewards: 18.439999999999973 last episode loss: 0.026431679725646973 , iter: 827475, best 93.0 best
+Ep 4675 | avg100=29.57 , 34.24 | last_loss=0.0329 | eps=0.05
+Last episode 4675 rewards: 31.37999999999997 last episode loss: 0.03292927145957947 , iter: 828620, best 93.0 best
+Ep 4680 | avg100=29.64 , 34.31 | last_loss=0.0307 | eps=0.05
+Last episode 4680 rewards: 29.709999999999994 last episode loss: 0.030690738931298256 , iter: 829710, best 93.0 best
+Ep 4685 | avg100=29.65 , 34.32 | last_loss=0.0364 | eps=0.05
+Last episode 4685 rewards: 32.629999999999995 last episode loss: 0.03637434542179108 , iter: 830649, best 93.0 best
+Ep 4690 | avg100=29.74 , 34.41 | last_loss=0.0187 | eps=0.05
+Last episode 4690 rewards: 27.529999999999987 last episode loss: 0.018704727292060852 , iter: 831626, best 93.0 best
+Ep 4695 | avg100=29.61 , 34.27 | last_loss=0.0227 | eps=0.05
+Last episode 4695 rewards: 28.409999999999997 last episode loss: 0.022742344066500664 , iter: 832594, best 93.0 best
+Ep 4700 | avg100=29.62 , 34.29 | last_loss=0.0594 | eps=0.05
+Last episode 4700 rewards: 34.5 last episode loss: 0.05937507748603821 , iter: 833721, best 93.0 best
+Ep 4705 | avg100=29.79 , 34.46 | last_loss=0.1458 | eps=0.05
+Last episode 4705 rewards: 28.699999999999903 last episode loss: 0.145785391330719 , iter: 834894, best 93.0 best
+Ep 4710 | avg100=29.91 , 34.60 | last_loss=0.0243 | eps=0.05
+Last episode 4710 rewards: 33.679999999999986 last episode loss: 0.024275973439216614 , iter: 836092, best 93.0 best
+Ep 4715 | avg100=29.95 , 34.64 | last_loss=0.0280 | eps=0.05
+Last episode 4715 rewards: 34.29000000000006 last episode loss: 0.028001531958580017 , iter: 837415, best 93.0 best
+Ep 4720 | avg100=30.08 , 34.77 | last_loss=0.0450 | eps=0.05
+Last episode 4720 rewards: 26.30999999999999 last episode loss: 0.04502535238862038 , iter: 838506, best 93.0 best
+Ep 4725 | avg100=30.18 , 34.87 | last_loss=0.0262 | eps=0.05
+Last episode 4725 rewards: 27.44999999999997 last episode loss: 0.026156894862651825 , iter: 839571, best 93.0 best
+Ep 4730 | avg100=30.25 , 34.98 | last_loss=0.0358 | eps=0.05
+Last episode 4730 rewards: 26.42 last episode loss: 0.03577025607228279 , iter: 840931, best 93.0 best
+Ep 4735 | avg100=30.46 , 35.19 | last_loss=0.0317 | eps=0.05
+Last episode 4735 rewards: 31.469999999999995 last episode loss: 0.031652309000492096 , iter: 842069, best 93.0 best
+Ep 4740 | avg100=30.29 , 35.02 | last_loss=0.0358 | eps=0.05
+Last episode 4740 rewards: 31.319999999999983 last episode loss: 0.035773925483226776 , iter: 842962, best 93.0 best
+Ep 4745 | avg100=30.36 , 35.09 | last_loss=0.0850 | eps=0.05
+Last episode 4745 rewards: 31.669999999999987 last episode loss: 0.08501944690942764 , iter: 844027, best 93.0 best
+Ep 4750 | avg100=30.52 , 35.27 | last_loss=0.0332 | eps=0.05
+Last episode 4750 rewards: 28.709999999999987 last episode loss: 0.033243328332901 , iter: 845282, best 93.0 best
+Ep 4755 | avg100=30.67 , 35.42 | last_loss=0.0345 | eps=0.05
+Last episode 4755 rewards: 26.85999999999993 last episode loss: 0.03446260094642639 , iter: 846574, best 93.0 best
+Ep 4760 | avg100=30.84 , 35.58 | last_loss=0.0959 | eps=0.05
+Last episode 4760 rewards: 27.709999999999997 last episode loss: 0.09593086689710617 , iter: 847662, best 93.0 best
+Ep 4765 | avg100=30.99 , 35.73 | last_loss=0.1018 | eps=0.05
+Last episode 4765 rewards: 32.639999999999986 last episode loss: 0.10178013145923615 , iter: 848655, best 93.0 best
+Ep 4770 | avg100=31.13 , 35.87 | last_loss=0.0197 | eps=0.05
+Last episode 4770 rewards: 26.959999999999937 last episode loss: 0.019744159653782845 , iter: 849691, best 93.0 best
+Ep 4775 | avg100=31.20 , 35.94 | last_loss=0.1007 | eps=0.05
+Last episode 4775 rewards: 35.96000000000001 last episode loss: 0.10069488734006882 , iter: 850624, best 93.0 best
+Ep 4780 | avg100=31.48 , 36.22 | last_loss=0.0361 | eps=0.05
+Last episode 4780 rewards: 38.56 last episode loss: 0.03614991158246994 , iter: 851707, best 93.0 best
+Ep 4785 | avg100=31.55 , 36.29 | last_loss=0.0932 | eps=0.05
+Last episode 4785 rewards: 32.43999999999998 last episode loss: 0.09319403767585754 , iter: 852682, best 93.0 best
+Ep 4790 | avg100=31.54 , 36.28 | last_loss=0.0184 | eps=0.05
+Last episode 4790 rewards: 32.39999999999999 last episode loss: 0.01843154802918434 , iter: 853708, best 93.0 best
+Ep 4795 | avg100=31.47 , 36.21 | last_loss=0.0390 | eps=0.05
+Last episode 4795 rewards: 32.29999999999999 last episode loss: 0.03898032382130623 , iter: 854602, best 93.0 best
+Ep 4800 | avg100=31.49 , 36.21 | last_loss=0.0740 | eps=0.05
+Last episode 4800 rewards: 38.440000000000005 last episode loss: 0.0739501565694809 , iter: 855621, best 93.0 best
+Ep 4805 | avg100=31.29 , 36.00 | last_loss=0.0384 | eps=0.05
+Last episode 4805 rewards: 36.22999999999999 last episode loss: 0.038447581231594086 , iter: 856682, best 93.0 best
+Ep 4810 | avg100=31.21 , 35.91 | last_loss=0.0240 | eps=0.05
+Last episode 4810 rewards: 32.30999999999996 last episode loss: 0.023990947753190994 , iter: 857544, best 93.0 best
+Ep 4815 | avg100=31.29 , 35.98 | last_loss=0.0175 | eps=0.05
+Last episode 4815 rewards: 31.78999999999992 last episode loss: 0.01751391775906086 , iter: 858756, best 93.0 best
+Ep 4820 | avg100=31.23 , 35.92 | last_loss=0.0284 | eps=0.05
+Last episode 4820 rewards: 24.99999999999994 last episode loss: 0.0283834058791399 , iter: 859853, best 93.0 best
+Ep 4825 | avg100=31.26 , 35.96 | last_loss=0.0464 | eps=0.05
+Last episode 4825 rewards: 33.16 last episode loss: 0.04641997069120407 , iter: 860974, best 93.0 best
+Ep 4830 | avg100=31.33 , 35.99 | last_loss=0.0248 | eps=0.05
+Last episode 4830 rewards: 29.849999999999962 last episode loss: 0.024828366935253143 , iter: 861971, best 93.0 best
+Ep 4835 | avg100=31.42 , 36.08 | last_loss=0.0240 | eps=0.05
+Last episode 4835 rewards: 32.44000000000001 last episode loss: 0.023959502577781677 , iter: 863206, best 93.0 best
+Ep 4840 | avg100=31.49 , 36.16 | last_loss=0.0272 | eps=0.05
+Last episode 4840 rewards: 24.66999999999998 last episode loss: 0.027160272002220154 , iter: 864347, best 93.0 best
+Ep 4845 | avg100=31.39 , 36.06 | last_loss=0.0652 | eps=0.05
+Last episode 4845 rewards: 27.50999999999999 last episode loss: 0.06516148149967194 , iter: 865261, best 93.0 best
+Ep 4850 | avg100=31.27 , 35.93 | last_loss=0.0236 | eps=0.05
+Last episode 4850 rewards: 33.02000000000001 last episode loss: 0.023619862273335457 , iter: 866240, best 93.0 best
+Ep 4855 | avg100=31.34 , 35.99 | last_loss=0.0671 | eps=0.05
+Last episode 4855 rewards: 30.26999999999997 last episode loss: 0.06710308790206909 , iter: 867302, best 93.0 best
+Ep 4860 | avg100=31.20 , 35.85 | last_loss=0.1171 | eps=0.05
+Last episode 4860 rewards: 30.40999999999996 last episode loss: 0.11711369454860687 , iter: 868249, best 93.0 best
+Ep 4865 | avg100=31.11 , 35.75 | last_loss=0.0379 | eps=0.05
+Last episode 4865 rewards: 34.61000000000001 last episode loss: 0.03794652596116066 , iter: 869206, best 93.0 best
+Ep 4870 | avg100=31.05 , 35.69 | last_loss=0.0230 | eps=0.05
+Last episode 4870 rewards: 32.010000000000005 last episode loss: 0.023002320900559425 , iter: 870269, best 93.0 best
+Ep 4875 | avg100=30.96 , 35.62 | last_loss=0.0204 | eps=0.05
+Last episode 4875 rewards: 34.08999999999999 last episode loss: 0.020397156476974487 , iter: 871520, best 93.0 best
+Ep 4880 | avg100=30.76 , 35.41 | last_loss=0.0511 | eps=0.05
+Last episode 4880 rewards: 31.270000000000003 last episode loss: 0.05109728127717972 , iter: 872462, best 93.0 best
+Ep 4885 | avg100=30.79 , 35.45 | last_loss=0.0293 | eps=0.05
+Last episode 4885 rewards: 36.79 last episode loss: 0.029258089140057564 , iter: 873399, best 93.0 best
+Ep 4890 | avg100=30.94 , 35.60 | last_loss=0.0248 | eps=0.05
+Last episode 4890 rewards: 32.51999999999999 last episode loss: 0.024815674871206284 , iter: 874588, best 93.0 best
+Ep 4895 | avg100=31.22 , 35.90 | last_loss=0.0325 | eps=0.05
+Last episode 4895 rewards: 32.38 last episode loss: 0.03252861648797989 , iter: 875917, best 93.0 best
+Ep 4900 | avg100=31.22 , 35.90 | last_loss=0.0542 | eps=0.05
+Last episode 4900 rewards: 27.58 last episode loss: 0.054187290370464325 , iter: 876912, best 93.0 best
+Ep 4905 | avg100=31.30 , 35.98 | last_loss=0.0457 | eps=0.05
+Last episode 4905 rewards: 25.509999999999987 last episode loss: 0.04568299651145935 , iter: 877761, best 93.0 best
+Ep 4910 | avg100=31.45 , 36.13 | last_loss=0.0298 | eps=0.05
+Last episode 4910 rewards: 31.149999999999963 last episode loss: 0.029848743230104446 , iter: 878717, best 93.0 best
+Ep 4915 | avg100=31.36 , 36.03 | last_loss=0.0677 | eps=0.05
+Last episode 4915 rewards: 30.50999999999999 last episode loss: 0.06767646223306656 , iter: 879632, best 93.0 best
+Ep 4920 | avg100=31.47 , 36.13 | last_loss=0.0399 | eps=0.05
+Last episode 4920 rewards: 26.329999999999977 last episode loss: 0.03989880159497261 , iter: 880756, best 93.0 best
+Ep 4925 | avg100=31.48 , 36.13 | last_loss=0.0350 | eps=0.05
+Last episode 4925 rewards: 27.43 last episode loss: 0.03499376028776169 , iter: 881648, best 93.0 best
+Ep 4930 | avg100=31.59 , 36.24 | last_loss=0.0248 | eps=0.05
+Last episode 4930 rewards: 34.49 last episode loss: 0.024800922721624374 , iter: 882620, best 93.0 best
+Ep 4935 | avg100=31.59 , 36.23 | last_loss=0.0849 | eps=0.05
+Last episode 4935 rewards: 30.50999999999999 last episode loss: 0.0848967581987381 , iter: 883667, best 93.0 best
+Ep 4940 | avg100=31.79 , 36.42 | last_loss=0.1398 | eps=0.05
+Last episode 4940 rewards: 36.38000000000002 last episode loss: 0.13978151977062225 , iter: 884781, best 93.0 best
+[BEST] New best 138.00 with mod: 39.38000000000001-> checkpoint saved.
+Ep 4945 | avg100=31.92 , 37.50 | last_loss=0.0247 | eps=0.05
+Last episode 4945 rewards: 27.18 last episode loss: 0.024683266878128052 , iter: 885922, best 138.0 best
+Ep 4950 | avg100=31.93 , 37.50 | last_loss=0.0534 | eps=0.05
+Last episode 4950 rewards: 30.599999999999987 last episode loss: 0.053379207849502563 , iter: 886967, best 138.0 best
+Ep 4955 | avg100=31.92 , 37.49 | last_loss=0.0282 | eps=0.05
+Last episode 4955 rewards: 33.37 last episode loss: 0.02821803092956543 , iter: 888199, best 138.0 best
+Ep 4960 | avg100=31.96 , 37.54 | last_loss=0.0295 | eps=0.05
+Last episode 4960 rewards: 31.619999999999994 last episode loss: 0.02950570546090603 , iter: 889063, best 138.0 best
+Ep 4965 | avg100=31.99 , 37.61 | last_loss=0.0214 | eps=0.05
+Last episode 4965 rewards: 24.450000000000003 last episode loss: 0.021409399807453156 , iter: 890324, best 138.0 best
+Ep 4970 | avg100=31.98 , 37.60 | last_loss=0.0603 | eps=0.05
+Last episode 4970 rewards: 33.049999999999955 last episode loss: 0.06029310077428818 , iter: 891411, best 138.0 best
+Ep 4975 | avg100=31.93 , 37.54 | last_loss=0.1024 | eps=0.05
+Last episode 4975 rewards: 32.65 last episode loss: 0.10244634747505188 , iter: 892438, best 138.0 best
+Ep 4980 | avg100=32.06 , 37.68 | last_loss=0.0353 | eps=0.05
+Last episode 4980 rewards: 35.560000000000024 last episode loss: 0.0352860651910305 , iter: 893342, best 138.0 best
+Ep 4985 | avg100=31.95 , 37.57 | last_loss=0.0466 | eps=0.05
+Last episode 4985 rewards: 28.090000000000003 last episode loss: 0.04659543186426163 , iter: 894264, best 138.0 best
+Ep 4990 | avg100=31.89 , 37.50 | last_loss=0.0341 | eps=0.05
+Last episode 4990 rewards: 31.409999999999986 last episode loss: 0.034103699028491974 , iter: 895171, best 138.0 best
+Ep 4995 | avg100=31.77 , 37.37 | last_loss=0.0507 | eps=0.05
+Last episode 4995 rewards: 32.57 last episode loss: 0.050667863339185715 , iter: 896077, best 138.0 best
+Ep 5000 | avg100=31.82 , 37.98 | last_loss=0.1270 | eps=0.05
+Last episode 5000 rewards: 33.360000000000014 last episode loss: 0.12704603374004364 , iter: 897142, best 138.0 best
+ 
+
+ class Config:
+    NUM_EPISODES = 10000
+    DISCOUNT = 0.995
+    LEARNING_RATE = 0.0005
+    BATCH_SIZE = 128
+    ACTION_NUM = 5
+    COPY_RATE = 5000
+    EPSILON = 1.0
+    EPSILON_END = 0.05
+    EPSILON_DECAY = 0.998
+    BUFFERSIZE = 150000
+    EXPLORATIONTIME = 10000
+    TRAIN_EVERY = 4
+    # tak będa nazywały się pliki wynikowe
+    MODEL_NAME = "dqn-po_zmianach"
+    DUELING = True
+    MOVE_IN_PLACE_PENALTY = 0.01
+    BACKWARDS_PENALTY = 0.02
+    DEATHPENALTY = 5
+    REWARD_NORMALISATION = True
+
